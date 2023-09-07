@@ -1,0 +1,4 @@
+From,To
+Age,Sex
+Sex,COMPOSITE_BREAKDOWN
+Sex,Occupation
