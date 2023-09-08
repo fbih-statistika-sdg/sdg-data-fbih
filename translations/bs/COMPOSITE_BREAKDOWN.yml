@@ -53,6 +53,8 @@ SKILL_SCRTY: Postavljanje efikasnih sigurnosnih mjera (npr. jake lozinke, obavje
 SKILL_VRFY: Provjera pouzdanosti informacija pronađenih na internetu
 SKILL_MATH: Matematika
 SKILL_READ: Čitanje
+SKILL_COMP: Upotreba računara
+SKILL_INTERNET: Upotreba interneta
 SPAR_01: Zakonodavstvo i finansiranje
 SPAR_02: Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR
 SPAR_03: "Zoonotski događaji i sučelje čovjeka i životinje"
