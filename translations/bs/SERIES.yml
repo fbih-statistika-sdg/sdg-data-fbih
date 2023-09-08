@@ -341,6 +341,7 @@ SN_ITK_DEFC: Rasprostranjenost pothranjenosti
 SN_ITK_DEFCN: Broj pothranjenih ljudi
 SN_ITK_GROW: Umjereno i ozbiljno zaostajanje u rastu
 SN_ITK_GROW2: Visina za uzrast ˂- 2 standardne devijacije od medijane za rast djece među djecom do 5 godina
+SN_ITK_GROW3: Visina za uzrast ˂- 3 standardne devijacije od medijane za rast djece među djecom do 5 godina
 SN_STA_OVWGT: Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom
 SN_STA_OVWGTN: Djeca sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom (broj) 
 SP_ACS_BSRVH2O: Udio stanovništva koji koristi osnovne usluge pitke vode
