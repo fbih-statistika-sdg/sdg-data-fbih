@@ -324,6 +324,8 @@ SI_POV_DAY1: Udio stanovništva koje živi ispod međunarodne linije siromaštva
 SI_POV_EMP1: Zaposleno stanovništvo ispod međunarodne linije siromaštva
 SI_POV_NAHC: Udio stanovništva koje živi ispod nacionalne granice siromaštva
 SI_POV_DAHC: Procenat domaćinstava koji živi ispod linije siromaštva
+SI_POV_VELS: Veličina siromaštva po spolu nosioca domaćinstva
+SI_POV_VELA: Veličina siromaštva po godinama starosti nosioca domaćinstva
 SI_RMT_COST: Prosječni troškovi doznake za slanje 200 USD u zemlju primatelja kao udio doznačenog iznosa (%)
 SL_CPA_YEMP: Postojanje razvijene i operacionalizirane nacionalne strategije za zapošljavanje mladih, kao posebne strategije ili kao dio nacionalne strategije zapošljavanja 
 SL_EMP_GTOTL: Udio radne snage u BDP-u
