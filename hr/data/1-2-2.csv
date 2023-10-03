@@ -1,15 +1,19 @@
-Year,SERIES,Spol,Godine,Value
-2011,Veličina siromaštva po spolu nosioca domaćinstva,Muškarci,,15.7
-2015,Veličina siromaštva po spolu nosioca domaćinstva,Muškarci,,16.0
-2011,Veličina siromaštva po spolu nosioca domaćinstva,Žene,,17.0
-2015,Veličina siromaštva po spolu nosioca domaćinstva,Žene,,16.2
-2011,Veličina siromaštva po godinama starosti nosioca domaćinstva,,mlađi od 35 godina,12.3
-2011,Veličina siromaštva po godinama starosti nosioca domaćinstva,,36 do 45 godine,21.6
-2011,Veličina siromaštva po godinama starosti nosioca domaćinstva,,46 do 55 godine,16.8
-2011,Veličina siromaštva po godinama starosti nosioca domaćinstva,,56 do 65 godine,15.9
-2011,Veličina siromaštva po godinama starosti nosioca domaćinstva,,65 godina i više,24.1
-2015,Veličina siromaštva po godinama starosti nosioca domaćinstva,,mlađi od 35 godina,10.6
-2015,Veličina siromaštva po godinama starosti nosioca domaćinstva,,36 do 45 godine,18.7
-2015,Veličina siromaštva po godinama starosti nosioca domaćinstva,,46 do 55 godine,17.5
-2015,Veličina siromaštva po godinama starosti nosioca domaćinstva,,56 do 65 godine,16.8
-2015,Veličina siromaštva po godinama starosti nosioca domaćinstva,,65 godina i više,22.4
+Year,SERIES,UNIT_MEASURE,Stupanj urbanizacije,Spol,Godine,Value
+2011,Veličina siromaštva po spolu nosioca domaćinstva,Postotak,,Muškarci,,15.7
+2015,Veličina siromaštva po spolu nosioca domaćinstva,Postotak,,Muškarci,,16.0
+2011,Veličina siromaštva po spolu nosioca domaćinstva,Postotak,,Žene,,17.0
+2015,Veličina siromaštva po spolu nosioca domaćinstva,Postotak,,Žene,,16.2
+2011,Veličina siromaštva po godinama starosti nosioca domaćinstva,Postotak,,,mlađi od 35 godina,12.3
+2011,Veličina siromaštva po godinama starosti nosioca domaćinstva,Postotak,,,36 do 45 godine,21.6
+2011,Veličina siromaštva po godinama starosti nosioca domaćinstva,Postotak,,,46 do 55 godine,16.8
+2011,Veličina siromaštva po godinama starosti nosioca domaćinstva,Postotak,,,56 do 65 godine,15.9
+2011,Veličina siromaštva po godinama starosti nosioca domaćinstva,Postotak,,,65 godina i više,24.1
+2015,Veličina siromaštva po godinama starosti nosioca domaćinstva,Postotak,,,mlađi od 35 godina,10.6
+2015,Veličina siromaštva po godinama starosti nosioca domaćinstva,Postotak,,,36 do 45 godine,18.7
+2015,Veličina siromaštva po godinama starosti nosioca domaćinstva,Postotak,,,46 do 55 godine,17.5
+2015,Veličina siromaštva po godinama starosti nosioca domaćinstva,Postotak,,,56 do 65 godine,16.8
+2015,Veličina siromaštva po godinama starosti nosioca domaćinstva,Postotak,,,65 godina i više,22.4
+2011,SI_POV_SETT,Postotak,Ruralno,,,8.9
+2015,SI_POV_SETT,Postotak,Ruralno,,,11.0
+2011,SI_POV_SETT,Postotak,O,,,21.9
+2015,SI_POV_SETT,Postotak,O,,,20.3

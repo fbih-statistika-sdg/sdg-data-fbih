@@ -1,6 +1,7 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 _T,Total,Ukupno,Укупно,Ukupno,51,11
 CITY,City,Grad,Град,Grad,1,1
-R,Rural,Ruralno,Рурално,Ruralno,27,7
+O,O,Ostalo,O,O,1,1
+R,Rural,Ruralno,Рурално,Ruralno,28,8
 TSUB,Town and semi-dense area,Mjesto i poluzgusnosto područje,Мјесто и полу-густо подручје,Mjesto i poluzgusnosto područje,1,1
 U,Urban,Urbano,Урбано,Urbano,28,8
