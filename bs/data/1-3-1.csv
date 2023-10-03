@@ -1,21 +1,58 @@
-Year,SERIES,UNIT_MEASURE,Value
-2012,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,"2,5"
-2013,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,"2,6"
-2014,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,"2,5"
-2015,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,"2,7"
-2016,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,"2,9"
-2017,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,"3,2"
-2018,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,"3,1"
-2019,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,"3,6"
-2020,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,"4,3"
-2021,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,"3,3"
-2022,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,Procenat,"3,6"
-2013,Udio stanovništva obuhvaćenog programima socijalne pomoći,Procenat,"4,9"
-2014,Udio stanovništva obuhvaćenog programima socijalne pomoći,Procenat,"5,0"
-2015,Udio stanovništva obuhvaćenog programima socijalne pomoći,Procenat,"4,9"
-2016,Udio stanovništva obuhvaćenog programima socijalne pomoći,Procenat,"5,1"
-2017,Udio stanovništva obuhvaćenog programima socijalne pomoći,Procenat,"4,9"
-2018,Udio stanovništva obuhvaćenog programima socijalne pomoći,Procenat,"4,8"
-2019,Udio stanovništva obuhvaćenog programima socijalne pomoći,Procenat,"4,7"
-2020,Udio stanovništva obuhvaćenog programima socijalne pomoći,Procenat,"4,7"
-2021,Udio stanovništva obuhvaćenog programima socijalne pomoći,Procenat,"4,6"
+Year,SERIES,Godine,Spol,UNIT_MEASURE,Value
+2012.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"2,5"
+2013.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"2,6"
+2014.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"2,5"
+2015.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"2,7"
+2016.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"2,9"
+2017.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"3,2"
+2018.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"3,1"
+2019.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"3,6"
+2020.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"4,3"
+2021.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"3,3"
+2022.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"3,6"
+2013.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,9"
+2014.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"5,0"
+2015.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,9"
+2016.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"5,1"
+2017.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,9"
+2018.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,8"
+2019.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,7"
+2020.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,7"
+2021.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,6"
+2013.0,,Ispod 18 godina,Muškarci,,39.724
+2014.0,,Ispod 18 godina,Muškarci,,41.589
+2015.0,,Ispod 18 godina,Muškarci,,40.910
+2016.0,,Ispod 18 godina,Muškarci,,42.879
+2017.0,,Ispod 18 godina,Muškarci,,41.978
+2018.0,,Ispod 18 godina,Muškarci,,42.632
+2019.0,,Ispod 18 godina,Muškarci,,41.905
+2020.0,,Ispod 18 godina,Muškarci,,41.242
+2021.0,,Ispod 18 godina,Muškarci,,38.859
+2013.0,,18 godina i više,Muškarci,,34.816
+2014.0,,18 godina i više,Muškarci,,37.123
+2015.0,,18 godina i više,Muškarci,,35.725
+2016.0,,18 godina i više,Muškarci,,35.626
+2017.0,,18 godina i više,Muškarci,,35.140
+2018.0,,18 godina i više,Muškarci,,36.268
+2019.0,,18 godina i više,Muškarci,,35.827
+2020.0,,18 godina i više,Muškarci,,35.440
+2021.0,,18 godina i više,Muškarci,,34.416
+2013.0,,Ispod 18 godina,Žene,,114.513
+2014.0,,Ispod 18 godina,Žene,,121.558
+2015.0,,Ispod 18 godina,Žene,,119.050
+2016.0,,Ispod 18 godina,Žene,,123.733
+2017.0,,Ispod 18 godina,Žene,,130.066
+2018.0,,Ispod 18 godina,Žene,,135.600
+2019.0,,Ispod 18 godina,Žene,,135.695
+2020.0,,Ispod 18 godina,Žene,,137.063
+2021.0,,Ispod 18 godina,Žene,,138.055
+2013.0,,18 godina i više,Žene,,119.813
+2014.0,,18 godina i više,Žene,,132.081
+2015.0,,18 godina i više,Žene,,124.415
+2016.0,,18 godina i više,Žene,,133.755
+2017.0,,18 godina i više,Žene,,122.188
+2018.0,,18 godina i više,Žene,,127.329
+2019.0,,18 godina i više,Žene,,123.576
+2020.0,,18 godina i više,Žene,,135.778
+2021.0,,18 godina i više,Žene,,133.000
+,,,,,
