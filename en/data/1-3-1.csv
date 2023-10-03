@@ -19,40 +19,40 @@ Year,SERIES,Age,Sex,UNIT_MEASURE,Value
 2019.0,Proportion of population covered by social assistance programs,,,Percent,"4,7"
 2020.0,Proportion of population covered by social assistance programs,,,Percent,"4,7"
 2021.0,Proportion of population covered by social assistance programs,,,Percent,"4,6"
-2013.0,,under 18 years old,Male,,39.724
-2014.0,,under 18 years old,Male,,41.589
-2015.0,,under 18 years old,Male,,40.910
-2016.0,,under 18 years old,Male,,42.879
-2017.0,,under 18 years old,Male,,41.978
-2018.0,,under 18 years old,Male,,42.632
-2019.0,,under 18 years old,Male,,41.905
-2020.0,,under 18 years old,Male,,41.242
-2021.0,,under 18 years old,Male,,38.859
-2013.0,,18 years old and over,Male,,34.816
-2014.0,,18 years old and over,Male,,37.123
-2015.0,,18 years old and over,Male,,35.725
-2016.0,,18 years old and over,Male,,35.626
-2017.0,,18 years old and over,Male,,35.140
-2018.0,,18 years old and over,Male,,36.268
-2019.0,,18 years old and over,Male,,35.827
-2020.0,,18 years old and over,Male,,35.440
-2021.0,,18 years old and over,Male,,34.416
-2013.0,,under 18 years old,Female,,114.513
-2014.0,,under 18 years old,Female,,121.558
-2015.0,,under 18 years old,Female,,119.050
-2016.0,,under 18 years old,Female,,123.733
-2017.0,,under 18 years old,Female,,130.066
-2018.0,,under 18 years old,Female,,135.600
-2019.0,,under 18 years old,Female,,135.695
-2020.0,,under 18 years old,Female,,137.063
-2021.0,,under 18 years old,Female,,138.055
-2013.0,,18 years old and over,Female,,119.813
-2014.0,,18 years old and over,Female,,132.081
-2015.0,,18 years old and over,Female,,124.415
-2016.0,,18 years old and over,Female,,133.755
-2017.0,,18 years old and over,Female,,122.188
-2018.0,,18 years old and over,Female,,127.329
-2019.0,,18 years old and over,Female,,123.576
-2020.0,,18 years old and over,Female,,135.778
-2021.0,,18 years old and over,Female,,133.000
+2013.0,Proportion of population covered by social assistance programs,under 18 years old,Male,Percent,39.724
+2014.0,Proportion of population covered by social assistance programs,under 18 years old,Male,Percent,41.589
+2015.0,Proportion of population covered by social assistance programs,under 18 years old,Male,Percent,40.910
+2016.0,Proportion of population covered by social assistance programs,under 18 years old,Male,Percent,42.879
+2017.0,Proportion of population covered by social assistance programs,under 18 years old,Male,Percent,41.978
+2018.0,Proportion of population covered by social assistance programs,under 18 years old,Male,Percent,42.632
+2019.0,Proportion of population covered by social assistance programs,under 18 years old,Male,Percent,41.905
+2020.0,Proportion of population covered by social assistance programs,under 18 years old,Male,Percent,41.242
+2021.0,Proportion of population covered by social assistance programs,under 18 years old,Male,Percent,38.859
+2013.0,Proportion of population covered by social assistance programs,18 years old and over,Male,Percent,34.816
+2014.0,Proportion of population covered by social assistance programs,18 years old and over,Male,Percent,37.123
+2015.0,Proportion of population covered by social assistance programs,18 years old and over,Male,Percent,35.725
+2016.0,Proportion of population covered by social assistance programs,18 years old and over,Male,Percent,35.626
+2017.0,Proportion of population covered by social assistance programs,18 years old and over,Male,Percent,35.140
+2018.0,Proportion of population covered by social assistance programs,18 years old and over,Male,Percent,36.268
+2019.0,Proportion of population covered by social assistance programs,18 years old and over,Male,Percent,35.827
+2020.0,Proportion of population covered by social assistance programs,18 years old and over,Male,Percent,35.440
+2021.0,Proportion of population covered by social assistance programs,18 years old and over,Male,Percent,34.416
+2013.0,Proportion of population covered by social assistance programs,under 18 years old,Female,Percent,114.513
+2014.0,Proportion of population covered by social assistance programs,under 18 years old,Female,Percent,121.558
+2015.0,Proportion of population covered by social assistance programs,under 18 years old,Female,Percent,119.050
+2016.0,Proportion of population covered by social assistance programs,under 18 years old,Female,Percent,123.733
+2017.0,Proportion of population covered by social assistance programs,under 18 years old,Female,Percent,130.066
+2018.0,Proportion of population covered by social assistance programs,under 18 years old,Female,Percent,135.600
+2019.0,Proportion of population covered by social assistance programs,under 18 years old,Female,Percent,135.695
+2020.0,Proportion of population covered by social assistance programs,under 18 years old,Female,Percent,137.063
+2021.0,Proportion of population covered by social assistance programs,under 18 years old,Female,Percent,138.055
+2013.0,Proportion of population covered by social assistance programs,18 years old and over,Female,Percent,119.813
+2014.0,Proportion of population covered by social assistance programs,18 years old and over,Female,Percent,132.081
+2015.0,Proportion of population covered by social assistance programs,18 years old and over,Female,Percent,124.415
+2016.0,Proportion of population covered by social assistance programs,18 years old and over,Female,Percent,133.755
+2017.0,Proportion of population covered by social assistance programs,18 years old and over,Female,Percent,122.188
+2018.0,Proportion of population covered by social assistance programs,18 years old and over,Female,Percent,127.329
+2019.0,Proportion of population covered by social assistance programs,18 years old and over,Female,Percent,123.576
+2020.0,Proportion of population covered by social assistance programs,18 years old and over,Female,Percent,135.778
+2021.0,Proportion of population covered by social assistance programs,18 years old and over,Female,Percent,133.000
 ,,,,,
