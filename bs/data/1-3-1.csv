@@ -1,27 +1,27 @@
 Year,SERIES,Godine,Spol,UNIT_MEASURE,Value
-2012.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"2,5"
-2013.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"2,6"
-2014.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"2,5"
-2015.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"2,7"
-2016.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"2,9"
-2017.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"3,2"
-2018.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"3,1"
-2019.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"3,6"
-2020.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"4,3"
-2021.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"3,3"
-2022.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,"3,6"
-2013.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,9"
-2014.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"5,0"
-2015.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,9"
-2016.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"5,1"
-2017.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,9"
-2018.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,8"
-2019.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,7"
-2020.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,7"
-2021.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,"4,6"
+2012.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,2.5
+2013.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,2.6
+2014.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,2.5
+2015.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,2.7
+2016.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,2.9
+2017.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,3.2
+2018.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,3.1
+2019.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,3.6
+2020.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,4.3
+2021.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,3.3
+2022.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Procenat,3.6
+2013.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,4.9
+2014.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,5.0
+2015.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,4.9
+2016.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,5.1
+2017.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,4.9
+2018.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,4.8
+2019.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,4.7
+2020.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,4.7
+2021.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,,,Procenat,4.6
 2013.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Muškarci,Procenat,39.724
 2014.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Muškarci,Procenat,41.589
-2015.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Muškarci,Procenat,40.910
+2015.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Muškarci,Procenat,40.91
 2016.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Muškarci,Procenat,42.879
 2017.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Muškarci,Procenat,41.978
 2018.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Muškarci,Procenat,42.632
@@ -32,17 +32,17 @@ Year,SERIES,Godine,Spol,UNIT_MEASURE,Value
 2014.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Muškarci,Procenat,37.123
 2015.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Muškarci,Procenat,35.725
 2016.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Muškarci,Procenat,35.626
-2017.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Muškarci,Procenat,35.140
+2017.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Muškarci,Procenat,35.14
 2018.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Muškarci,Procenat,36.268
 2019.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Muškarci,Procenat,35.827
-2020.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Muškarci,Procenat,35.440
+2020.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Muškarci,Procenat,35.44
 2021.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Muškarci,Procenat,34.416
 2013.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Žene,Procenat,114.513
 2014.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Žene,Procenat,121.558
-2015.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Žene,Procenat,119.050
+2015.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Žene,Procenat,119.05
 2016.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Žene,Procenat,123.733
 2017.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Žene,Procenat,130.066
-2018.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Žene,Procenat,135.600
+2018.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Žene,Procenat,135.6
 2019.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Žene,Procenat,135.695
 2020.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Žene,Procenat,137.063
 2021.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,Ispod 18 godina,Žene,Procenat,138.055
@@ -54,5 +54,5 @@ Year,SERIES,Godine,Spol,UNIT_MEASURE,Value
 2018.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Žene,Procenat,127.329
 2019.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Žene,Procenat,123.576
 2020.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Žene,Procenat,135.778
-2021.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Žene,Procenat,133.000
+2021.0,Udio stanovništva obuhvaćenog programima socijalne pomoći,18 godina i više,Žene,Procenat,133.0
 ,,,,,
