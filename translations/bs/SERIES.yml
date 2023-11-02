@@ -347,6 +347,8 @@ SN_ITK_GROW: Umjereno i ozbiljno zaostajanje u rastu (visina za uzrast ˂- 2 sta
 SN_ITK_GROWW: Ozbiljno zaostajanje u rastu (visina za uzrast ˂- 3 standardne devijacije od medijane za rast djece među djecom do 5 godina)
 SN_STA_OVWGT: Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom
 SN_STA_OVWGTN: Djeca sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom (broj) 
+SN_STA_UWGT: Umjereno i ozbiljno zaostajanje u težini (˂ - 2SD)
+SN_STA_UWGT3: Ozbiljno zaostajanje u težini (˂ - 3SD)
 SP_ACS_BSRVH2O: Udio stanovništva koji koristi osnovne usluge pitke vode
 SP_ACS_BSRVSAN: Udio stanovništva koji koristi osnovne sanitarne usluge
 SP_DYN_ADKL: Stopa nataliteta adolescenata (na 1.000 žena starosti 15-19 i 10-14 godina)
