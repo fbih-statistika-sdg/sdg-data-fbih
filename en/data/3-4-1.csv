@@ -1,31 +1,33 @@
-Year,SERIES,UNIT_MEASURE,Age,Sex,COMPOSITE_BREAKDOWN,Value
-2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Both sexes or no breakdown by sex,,19.2
-2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Both sexes or no breakdown by sex,,18.7
-2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Female,,14.1
-2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Female,,13.6
-2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Male,,24.6
-2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Percent,30 to exact 70 years old,Male,,24.0
-2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cancer,8056.0
-2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cancer,8407.0
-2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cancer,3270.0
-2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cancer,3395.0
-2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cardiovascular disease,18648.0
-2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Cardiovascular disease,19651.0
-2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cardiovascular disease,10181.0
-2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Cardiovascular disease,10665.0
-2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Diabetes,2476.0
-2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Diabetes,2582.0
-2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Diabetes,1445.0
-2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Diabetes,1504.0
-2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Chronic respiratory disease,1249.0
-2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Both sexes or no breakdown by sex,Chronic respiratory disease,1262.0
-2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cancer,4785.0
-2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cancer,5012.0
-2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cardiovascular disease,8468.0
-2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Cardiovascular disease,8986.0
-2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Diabetes,1031.0
-2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Diabetes,1078.0
-2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Chronic respiratory disease,474.0
-2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Female,Chronic respiratory disease,477.0
-2015,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Chronic respiratory disease,776.0
-2019,"Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",Number,,Male,Chronic respiratory disease,785.0
+Year,SERIES,UNIT_MEASURE,Age,Sex,Value
+2013.0,SH_DTH_NCOM1,"Per 100,000 population",<65Y,Both sexes or no breakdown by sex,119.0
+2014.0,SH_DTH_NCOM1,"Per 100,000 population",<65Y,Both sexes or no breakdown by sex,118.1
+2015.0,SH_DTH_NCOM1,"Per 100,000 population",<65Y,Both sexes or no breakdown by sex,125.2
+2016.0,SH_DTH_NCOM1,"Per 100,000 population",<65Y,Both sexes or no breakdown by sex,122.3
+2017.0,SH_DTH_NCOM1,"Per 100,000 population",<65Y,Both sexes or no breakdown by sex,124.3
+2018.0,SH_DTH_NCOM1,"Per 100,000 population",<65Y,Both sexes or no breakdown by sex,118.8
+2019.0,SH_DTH_NCOM1,"Per 100,000 population",<65Y,Both sexes or no breakdown by sex,122.8
+2020.0,SH_DTH_NCOM1,"Per 100,000 population",<65Y,Both sexes or no breakdown by sex,110.8
+2021.0,SH_DTH_NCOM1,"Per 100,000 population",<65Y,Both sexes or no breakdown by sex,112.3
+2022.0,SH_DTH_NCOM1,"Per 100,000 population",<65Y,Both sexes or no breakdown by sex,105.5
+2013.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Male,149.2
+2014.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Male,152.4
+2015.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Male,159.9
+2016.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Male,156.8
+2017.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Male,153.9
+2018.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Male,152.1
+2019.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Male,157.5
+2020.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Male,141.3
+2021.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Male,141.7
+2022.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Male,134.2
+2013.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Female,91.2
+2014.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Female,86.5
+2015.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Female,92.9
+2016.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Female,90.3
+2017.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Female,96.9
+2018.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Female,87.7
+2019.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Female,90.4
+2020.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Female,82.1
+2021.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Female,84.8
+2022.0,SH_DTH_NCOM2,"Per 100,000 population",<65Y,Female,78.6
+,,,,,
+,,,,,

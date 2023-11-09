@@ -7,10 +7,7 @@ BA_SARAJEVO,Sarajevo,Sarajevo,Сарајевo,Sarajevo,2,2
 BA_TUZLA,Tuzla,Tuzla,Тузла,Tuzla,2,2
 BA_ZENICA,Zenica,Zenica,Зеница,Zenica,2,2
 BIOENERGY,Bioenergy,Bioenergija,Биоенергија,Bioenergija,1,1
-CAN,Cancer,Rak,Рак,Rak,3,1
-CAR,Cardiovascular disease,Kardiovaskularne bolesti,Кардиоваскуларне болести,Kardiovaskularne bolesti,3,1
 DEFENCE,DEFENCE,Odbrana,Одбрана,Obrana,1,1
-DIA,Diabetes,Dijabetes,Дијабетес,Dijabetes,3,1
 DOMAIN1,Rights of migrants,Prava migranata,Права миграната,Prava migranata,1,1
 DOMAIN2,"Comprehensive, evidence-based policies","Sveobuhvatne politike, politike zasnovane na dokazima","Свеобухватне политике, политике засноване на доказима","Sveobuhvatne politike, politike utemeljene na dokazima",1,1
 DOMAIN3,Cooperation and partnership,Saradnja i partnerstva,Сарадња и партнерства,Suradnja i partnerstvo,1,1
@@ -50,7 +47,6 @@ MOT_IWW,Inland waterway transport,Unutrašnji plovni put,Унутрашњи пл
 MOT_RAI,Rail,Željeznički,Жељезнички,Željeznički,2,1
 MOT_ROA,Road,Cestovni,Друмски,Cestovni,2,1
 MULTIPLE,Multiple renewables,Višestruki obnovljivi izvori energije,Вишеструки обновљиви извори енергије,Više obnovljivih izvora,1,1
-RES,Chronic respiratory disease,Hronična respiratorna bolest,Хронична респираторна болест,Kronična respiratorna bolest,3,1
 SKILL_COMP,SKILL_COMP,Upotreba računara,SKILL_COMP,SKILL_COMP,1,1
 SKILL_ICTARSP,Using basic arithmetic formula in a spreadsheet,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,Коришћење основне аритметичке формуле у буџетској табели,Korištenje osnovne aritmetičke formule u proračunskoj tablici,1,1
 SKILL_ICTCMFL,Copying or moving a file or folder,Kopiranje ili premještanje datoteke ili mape,Копирање или премјештање датотеке или мапе,Kopiranje ili premještanje datoteke ili mape,1,1

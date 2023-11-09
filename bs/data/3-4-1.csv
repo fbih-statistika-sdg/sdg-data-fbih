@@ -1,31 +1,33 @@
-Year,SERIES,UNIT_MEASURE,Godine,Spol,COMPOSITE_BREAKDOWN,Value
-2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Oba spola ili bez podjele po spolu,,19.2
-2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Oba spola ili bez podjele po spolu,,18.7
-2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Žene,,14.1
-2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Žene,,13.6
-2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Muškarci,,24.6
-2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Muškarci,,24.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Rak,8056.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Rak,8407.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Rak,3270.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Rak,3395.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Kardiovaskularne bolesti,18648.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Kardiovaskularne bolesti,19651.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Kardiovaskularne bolesti,10181.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Kardiovaskularne bolesti,10665.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Dijabetes,2476.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Dijabetes,2582.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Dijabetes,1445.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Dijabetes,1504.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Hronična respiratorna bolest,1249.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba spola ili bez podjele po spolu,Hronična respiratorna bolest,1262.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Rak,4785.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Rak,5012.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Kardiovaskularne bolesti,8468.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Kardiovaskularne bolesti,8986.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Dijabetes,1031.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Dijabetes,1078.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Hronična respiratorna bolest,474.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Hronična respiratorna bolest,477.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Hronična respiratorna bolest,776.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Hronična respiratorna bolest,785.0
+Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
+2013.0,Ukupna stopa smrtnosti od hroničnih bolesti,Na 100 000 stanovnika,mlađi od 65 godina,Oba spola ili bez podjele po spolu,119.0
+2014.0,Ukupna stopa smrtnosti od hroničnih bolesti,Na 100 000 stanovnika,mlađi od 65 godina,Oba spola ili bez podjele po spolu,118.1
+2015.0,Ukupna stopa smrtnosti od hroničnih bolesti,Na 100 000 stanovnika,mlađi od 65 godina,Oba spola ili bez podjele po spolu,125.2
+2016.0,Ukupna stopa smrtnosti od hroničnih bolesti,Na 100 000 stanovnika,mlađi od 65 godina,Oba spola ili bez podjele po spolu,122.3
+2017.0,Ukupna stopa smrtnosti od hroničnih bolesti,Na 100 000 stanovnika,mlađi od 65 godina,Oba spola ili bez podjele po spolu,124.3
+2018.0,Ukupna stopa smrtnosti od hroničnih bolesti,Na 100 000 stanovnika,mlađi od 65 godina,Oba spola ili bez podjele po spolu,118.8
+2019.0,Ukupna stopa smrtnosti od hroničnih bolesti,Na 100 000 stanovnika,mlađi od 65 godina,Oba spola ili bez podjele po spolu,122.8
+2020.0,Ukupna stopa smrtnosti od hroničnih bolesti,Na 100 000 stanovnika,mlađi od 65 godina,Oba spola ili bez podjele po spolu,110.8
+2021.0,Ukupna stopa smrtnosti od hroničnih bolesti,Na 100 000 stanovnika,mlađi od 65 godina,Oba spola ili bez podjele po spolu,112.3
+2022.0,Ukupna stopa smrtnosti od hroničnih bolesti,Na 100 000 stanovnika,mlađi od 65 godina,Oba spola ili bez podjele po spolu,105.5
+2013.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Muškarci,149.2
+2014.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Muškarci,152.4
+2015.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Muškarci,159.9
+2016.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Muškarci,156.8
+2017.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Muškarci,153.9
+2018.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Muškarci,152.1
+2019.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Muškarci,157.5
+2020.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Muškarci,141.3
+2021.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Muškarci,141.7
+2022.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Muškarci,134.2
+2013.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Žene,91.2
+2014.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Žene,86.5
+2015.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Žene,92.9
+2016.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Žene,90.3
+2017.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Žene,96.9
+2018.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Žene,87.7
+2019.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Žene,90.4
+2020.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Žene,82.1
+2021.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Žene,84.8
+2022.0,Stopa smrtnosti od hroničnih bolesti prema spolu,Na 100 000 stanovnika,mlađi od 65 godina,Žene,78.6
+,,,,,
+,,,,,
