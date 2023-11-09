@@ -1,5 +1,22 @@
 Year,SERIES,UNIT_MEASURE,Age,Sex,Value
-2018,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",10 to 14 years old,Female,0.06
-2019,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",10 to 14 years old,Female,0.04
-2018,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",15 to 19 years old,Female,9.9
-2019,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",15 to 19 years old,Female,9.7
+2013.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",10 to 14 years old,Female,0.08
+2014.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",10 to 14 years old,Female,0.06
+2015.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",10 to 14 years old,Female,0.06
+2016.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",10 to 14 years old,Female,0.07
+2017.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",10 to 14 years old,Female,0.13
+2018.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",10 to 14 years old,Female,0.09
+2019.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",10 to 14 years old,Female,0.02
+2020.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",10 to 14 years old,Female,0.09
+2021.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",10 to 14 years old,Female,0.04
+2022.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",10 to 14 years old,Female,0.09
+2013.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",15 to 19 years old,Female,12.03
+2014.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",15 to 19 years old,Female,11.78
+2015.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",15 to 19 years old,Female,12.7
+2016.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",15 to 19 years old,Female,12.88
+2017.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",15 to 19 years old,Female,11.39
+2018.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",15 to 19 years old,Female,10.53
+2019.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",15 to 19 years old,Female,9.87
+2020.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",15 to 19 years old,Female,9.2
+2021.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",15 to 19 years old,Female,9.14
+2022.0,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)","Per 1,000 population",15 to 19 years old,Female,8.23
+,,,,,
