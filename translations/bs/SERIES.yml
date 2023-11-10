@@ -453,3 +453,5 @@ TG_VAL_TOTL_GD_ZS: Trgovina robom kao udio u BDP-u (%)
 BN_KLT_PTXL_CD: Portfolio ulaganja, neto (platni bilans, tekući američki dolari)
 GC_TAX_TOTL_GD_ZS: Porezni prihod kao udio BDP-a (%)
 FI_RES_TOTL_MO: Ukupne rezerve u mjesecima uvoza (omjer)
+POP_EDU: Stanovništvo staro 15 i više godina prema najvišoj završenoj školi i spolu
+POP_HIGH_EDU: Stanovništvo sa završenom visokom školom/fakultetskom/akademskom po starosti i spolu
