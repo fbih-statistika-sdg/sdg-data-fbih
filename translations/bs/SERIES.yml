@@ -457,3 +457,6 @@ POP_EDU: Stanovništvo staro 15 i više godina prema najvišoj završenoj školi
 POP_HIGH_EDU: Stanovništvo sa završenom visokom školom/fakultetskom/akademskom po starosti i spolu
 DIFF_IN_EMPLOY: Razlika u zaposlenosti muškaraca i žena
 DIFF_IN_PAY: Prosječne mjesečne isplaćene neto plaće zaposlenih u pravnim osobama po spolu
+EMPLOY_F_PARL: Procenat izabranih žena zastupnika u  Parlamentu Federacije BiH
+EMPLOY_F_CANT: Procenat izabranih žena  zastupnika u Kantonalne skupštine u Federaciji BiH, prema rezultatima Opštih izbora
+EMPLOY_F_OPC: Procenat žena izabranih u općinska vijeća, prema rezultatima  Lokalnih izbora 
