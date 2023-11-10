@@ -1,4 +1,7 @@
-Year,SERIES,UNIT_MEASURE,Sex,Value
-2012,"Proportion of children who are developmentally on track in at least three of the following domains; literacy-numeracy, physical development, social-emotional development, and learning",Percent,Both sexes or no breakdown by sex,
-2012,"Proportion of children who are developmentally on track in at least three of the following domains; literacy-numeracy, physical development, social-emotional development, and learning",Percent,Female,
-2012,"Proportion of children who are developmentally on track in at least three of the following domains; literacy-numeracy, physical development, social-emotional development, and learning",Percent,Male,
+Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Sex,Value
+2011-2012,"Proportion of children who are developmentally on track in at least three of the following domains; literacy-numeracy, physical development, social-emotional development, and learning",Percent,early_childhood_dev_ind,Both sexes or no breakdown by sex,95.6
+2011-2012,"Proportion of children who are developmentally on track in at least three of the following domains; literacy-numeracy, physical development, social-emotional development, and learning",Percent,literacy,Both sexes or no breakdown by sex,26.7
+2011-2012,"Proportion of children who are developmentally on track in at least three of the following domains; literacy-numeracy, physical development, social-emotional development, and learning",Percent,p_dev,Both sexes or no breakdown by sex,99.5
+2011-2012,"Proportion of children who are developmentally on track in at least three of the following domains; literacy-numeracy, physical development, social-emotional development, and learning",Percent,soc_dev,Both sexes or no breakdown by sex,93.9
+2011-2012,"Proportion of children who are developmentally on track in at least three of the following domains; literacy-numeracy, physical development, social-emotional development, and learning",Percent,learning,Both sexes or no breakdown by sex,99.1
+,,,,,

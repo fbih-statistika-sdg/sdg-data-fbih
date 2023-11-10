@@ -1,4 +1,7 @@
-Year,SERIES,UNIT_MEASURE,Spol,Value
-2012,"Udio djece koja su razvojno na pravom putu u najmanje tri od sljedećih domena: pismenost-računanje, fizički razvoj, socijalno-emocionalni razvoj i učenje",Postotak,Oba spola ili bez podjele po spolu,
-2012,"Udio djece koja su razvojno na pravom putu u najmanje tri od sljedećih domena: pismenost-računanje, fizički razvoj, socijalno-emocionalni razvoj i učenje",Postotak,Žene,
-2012,"Udio djece koja su razvojno na pravom putu u najmanje tri od sljedećih domena: pismenost-računanje, fizički razvoj, socijalno-emocionalni razvoj i učenje",Postotak,Muškarci,
+Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Spol,Value
+2011-2012,"Udio djece koja su razvojno na pravom putu u najmanje tri od sljedećih domena: pismenost-računanje, fizički razvoj, socijalno-emocionalni razvoj i učenje",Postotak,early_childhood_dev_ind,Oba spola ili bez podjele po spolu,95.6
+2011-2012,"Udio djece koja su razvojno na pravom putu u najmanje tri od sljedećih domena: pismenost-računanje, fizički razvoj, socijalno-emocionalni razvoj i učenje",Postotak,literacy,Oba spola ili bez podjele po spolu,26.7
+2011-2012,"Udio djece koja su razvojno na pravom putu u najmanje tri od sljedećih domena: pismenost-računanje, fizički razvoj, socijalno-emocionalni razvoj i učenje",Postotak,p_dev,Oba spola ili bez podjele po spolu,99.5
+2011-2012,"Udio djece koja su razvojno na pravom putu u najmanje tri od sljedećih domena: pismenost-računanje, fizički razvoj, socijalno-emocionalni razvoj i učenje",Postotak,soc_dev,Oba spola ili bez podjele po spolu,93.9
+2011-2012,"Udio djece koja su razvojno na pravom putu u najmanje tri od sljedećih domena: pismenost-računanje, fizički razvoj, socijalno-emocionalni razvoj i učenje",Postotak,learning,Oba spola ili bez podjele po spolu,99.1
+,,,,,
