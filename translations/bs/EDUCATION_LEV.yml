@@ -6,3 +6,8 @@ SECOND: Nivo srednjeg obrazovanja
 _T: Ukupno
 AGG_0_1: Osnovno obrazovanje ili niže
 AGG_GE2: Srednje obrazovanje ili više
+NO_EDU: Bez ikakvog obrazovanja
+INC_PRIM_EDU: Nepotpuno osnovno obrazovanje 
+SPEC_HIGH: Specijalizacija poslije srednje škole 
+HIGH_SCH: Viša škola i prvi stepen fakulteta
+UNI_SCH: Visoka škola/ fakultet/akademija/ univerzitet    
