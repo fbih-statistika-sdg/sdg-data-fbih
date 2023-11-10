@@ -1,32 +1,62 @@
 Year,SERIES,UNIT_MEASURE,Spol,Value
-2013.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,7.31
-2014.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,7.31
-2015.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,7.31
-2016.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,7.31
-2017.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,7.31
-2018.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,7.31
-2019.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,7.31
-2020.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,7.31
-2021.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,7.31
-2022.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Oba spola ili bez podjele po spolu,7.31
-2013.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Muškarci,7.31
-2014.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Muškarci,7.31
-2015.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Muškarci,7.31
-2016.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Muškarci,7.31
-2017.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Muškarci,7.31
-2018.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Muškarci,7.31
-2019.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Muškarci,7.31
-2020.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Muškarci,7.31
-2021.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Muškarci,7.31
-2022.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Muškarci,7.31
-2013.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Žene,7.31
-2014.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Žene,7.31
-2015.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Žene,7.31
-2016.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Žene,7.31
-2017.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Žene,7.31
-2018.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Žene,7.31
-2019.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Žene,7.31
-2020.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Žene,7.31
-2021.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Žene,7.31
-2022.0,"Stopa učešća u organiziranom učenju (godinu dana prije službenog osnovnog uzrasta), prema spolu (%)",Procenat,Žene,7.31
+2013.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,7.31
+2014.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,8.04
+2015.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,8.62
+2016.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,9.7
+2017.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,10.49
+2018.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,11.24
+2019.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,12.39
+2020.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,12.01
+2021.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,14.33
+2022.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,17.87
+2013.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,7.5
+2014.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,8.15
+2015.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,8.74
+2016.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,9.98
+2017.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,10.62
+2018.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,11.37
+2019.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,12.48
+2020.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,12.23
+2021.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,14.43
+2022.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,18.29
+2013.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,7.11
+2014.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,7.93
+2015.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,8.49
+2016.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,9.4
+2017.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,10.35
+2018.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,11.1
+2019.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,12.3
+2020.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,11.78
+2021.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,14.23
+2022.0,Procenat djece uzrasta 0-6 godina obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,17.43
+2013.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,13.71
+2014.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,14.33
+2015.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,15.4
+2016.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,16.95
+2017.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,18.24
+2018.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,19.69
+2019.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,21.66
+2020.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,21.16
+2021.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,24.29
+2022.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Oba spola ili bez podjele po spolu,22.55
+2013.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,14.11
+2014.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,14.61
+2015.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,15.54
+2016.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,17.38
+2017.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,18.5
+2018.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,19.89
+2019.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,21.89
+2020.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,21.62
+2021.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,24.4
+2022.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Muškarci,23.0
+2013.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,13.29
+2014.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,14.03
+2015.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,15.26
+2016.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,16.48
+2017.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,17.98
+2018.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,19.47
+2019.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,21.43
+2020.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,20.67
+2021.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,24.17
+2022.0,Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolskim vaspitanjem i obrazovanjem,Procenat,Žene,22.08
 ,,,,
