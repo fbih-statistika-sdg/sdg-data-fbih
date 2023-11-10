@@ -30,3 +30,9 @@ _X: Nije dostupno
 <=45Y: mlađi od 45 godina
 <35Y: mlađi od 35 godina
 <65Y: mlađi od 65 godina
+Y20T29: 20 do 29 godine
+Y30T39: 30 do 39 godine
+Y40T49: 40 do 49 godine
+Y50T59: 50 do 59 godine
+Y60T69: 60 do 69 godine
+Y_GE70: 70 godina i više
