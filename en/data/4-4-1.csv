@@ -1,14 +1,38 @@
-Year,SERIES,UNIT_MEASURE,Sex,COMPOSITE_BREAKDOWN,Age,Degree of urbanisation,Value
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,15 to 24 years old,Total,25.325
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,15 to 24 years old,Total,15.6519
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,15 to 24 years old,Total,90.0649
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,15 to 24 years old,Total,75.5154
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,15 to 24 years old,Total,60.021
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,15 to 24 years old,Total,51.8674
-2021,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,15 to 24 years old,Total,75.0781
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,15 to 24 years old,Total,74.2412
-2021,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,15 to 24 years old,Total,52.4924
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,15 to 24 years old,Total,36.1258
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Creating electronic presentations with presentation software,15 to 24 years old,Total,29.3536
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Transferring files between a computer and other devices,All age ranges or no breakdown by age,Urban,58.7518
-2021,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Transferring files between a computer and other devices,All age ranges or no breakdown by age,Urban,17.1422
+Year,SERIES,UNIT_MEASURE,Sex,COMPOSITE_BREAKDOWN,Age,Value
+2017.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,Y16T74,60.8
+2018.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,Y16T74,64.8
+2019.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,Y16T74,64.5
+2020.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,Y16T74,68.7
+2021.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,Y16T74,62.5
+2022.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_COMP,Y16T74,67.1
+2017.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_COMP,Y16T74,63.0
+2018.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_COMP,Y16T74,68.2
+2019.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_COMP,Y16T74,64.4
+2020.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_COMP,Y16T74,73.5
+2021.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_COMP,Y16T74,66.9
+2022.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_COMP,Y16T74,70.7
+2017.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_COMP,Y16T74,58.3
+2018.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_COMP,Y16T74,62.6
+2019.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_COMP,Y16T74,64.7
+2020.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_COMP,Y16T74,65.2
+2021.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_COMP,Y16T74,58.7
+2022.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_COMP,Y16T74,63.9
+2017.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_INTERNET,All age ranges or no breakdown by age,65.1
+2018.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_INTERNET,All age ranges or no breakdown by age,69.7
+2019.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_INTERNET,All age ranges or no breakdown by age,68.6
+2020.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_INTERNET,All age ranges or no breakdown by age,73.4
+2021.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_INTERNET,All age ranges or no breakdown by age,72.5
+2022.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,SKILL_INTERNET,All age ranges or no breakdown by age,77.1
+2017.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_INTERNET,All age ranges or no breakdown by age,66.8
+2018.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_INTERNET,All age ranges or no breakdown by age,72.1
+2019.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_INTERNET,All age ranges or no breakdown by age,72.0
+2020.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_INTERNET,All age ranges or no breakdown by age,79.7
+2021.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_INTERNET,All age ranges or no breakdown by age,74.8
+2022.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,SKILL_INTERNET,All age ranges or no breakdown by age,79.5
+2017.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_INTERNET,All age ranges or no breakdown by age,63.1
+2018.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_INTERNET,All age ranges or no breakdown by age,68.1
+2019.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_INTERNET,All age ranges or no breakdown by age,66.1
+2020.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_INTERNET,All age ranges or no breakdown by age,68.9
+2021.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_INTERNET,All age ranges or no breakdown by age,70.6
+2022.0,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,SKILL_INTERNET,All age ranges or no breakdown by age,74.9
+,,,,,,
