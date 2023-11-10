@@ -1,9 +1,10 @@
 Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
-2014,Proportion of population using safely managed drinking water services,Percent,Total,89
-2015,Proportion of population using safely managed drinking water services,Percent,Total,89
-2016,Proportion of population using safely managed drinking water services,Percent,Total,89
-2017,Proportion of population using safely managed drinking water services,Percent,Total,89
-2018,Proportion of population using safely managed drinking water services,Percent,Total,89
-2019,Proportion of population using safely managed drinking water services,Percent,Total,89
-2020,Proportion of population using safely managed drinking water services,Percent,Total,88
-2021,Proportion of population using safely managed drinking water services,Percent,Total,88
+2011.0,SH_H20_SOURCE,Percent,City,99.3
+2015.0,SH_H20_SOURCE,Percent,City,99.9
+2011.0,SH_H20_SOURCE,Percent,O,98.3
+2015.0,SH_H20_SOURCE,Percent,O,99.6
+2011.0,SH_H20_SOURCE,Percent,Total,98.8
+2015.0,SH_H20_SOURCE,Percent,Total,99.7
+,,,,
+,,,,
+,,,,

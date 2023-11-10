@@ -1,9 +1,10 @@
 Year,SERIES,UNIT_MEASURE,Stupanj urbanizacije,Value
-2014,Udio stanovništva koji koristi usluge sigurnog upravljanja pitkom vodom,Postotak,Ukupno,89
-2015,Udio stanovništva koji koristi usluge sigurnog upravljanja pitkom vodom,Postotak,Ukupno,89
-2016,Udio stanovništva koji koristi usluge sigurnog upravljanja pitkom vodom,Postotak,Ukupno,89
-2017,Udio stanovništva koji koristi usluge sigurnog upravljanja pitkom vodom,Postotak,Ukupno,89
-2018,Udio stanovništva koji koristi usluge sigurnog upravljanja pitkom vodom,Postotak,Ukupno,89
-2019,Udio stanovništva koji koristi usluge sigurnog upravljanja pitkom vodom,Postotak,Ukupno,89
-2020,Udio stanovništva koji koristi usluge sigurnog upravljanja pitkom vodom,Postotak,Ukupno,88
-2021,Udio stanovništva koji koristi usluge sigurnog upravljanja pitkom vodom,Postotak,Ukupno,88
+2011.0,SH_H20_SOURCE,Postotak,Grad,99.3
+2015.0,SH_H20_SOURCE,Postotak,Grad,99.9
+2011.0,SH_H20_SOURCE,Postotak,O,98.3
+2015.0,SH_H20_SOURCE,Postotak,O,99.6
+2011.0,SH_H20_SOURCE,Postotak,Ukupno,98.8
+2015.0,SH_H20_SOURCE,Postotak,Ukupno,99.7
+,,,,
+,,,,
+,,,,
