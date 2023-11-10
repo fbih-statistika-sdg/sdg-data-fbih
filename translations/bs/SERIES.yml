@@ -455,3 +455,5 @@ GC_TAX_TOTL_GD_ZS: Porezni prihod kao udio BDP-a (%)
 FI_RES_TOTL_MO: Ukupne rezerve u mjesecima uvoza (omjer)
 POP_EDU: Stanovništvo staro 15 i više godina prema najvišoj završenoj školi i spolu
 POP_HIGH_EDU: Stanovništvo sa završenom visokom školom/fakultetskom/akademskom po starosti i spolu
+DIFF_IN_EMPLOY: Razlika u zaposlenosti muškaraca i žena
+DIFF_IN_PAY: Prosječne mjesečne isplaćene neto plaće zaposlenih u pravnim osobama po spolu
