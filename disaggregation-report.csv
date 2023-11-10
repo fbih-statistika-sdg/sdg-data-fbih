@@ -14,5 +14,5 @@ PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proi
 SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,179,391
 SEX,Sex,Spol,Пол,Spol,39,4
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,177,37
-URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,13,6
+URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,14,6
 WASTE_TREATMENT,Type of waste treatment,Vrsta tretmana otpada,Врста третмана отпада,Vrsta tretmana otpada,1,2
