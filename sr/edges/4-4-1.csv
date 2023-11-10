@@ -1,4 +1,5 @@
 From,To
 Пол,COMPOSITE_BREAKDOWN
-COMPOSITE_BREAKDOWN,Степен урбанизације
+COMPOSITE_BREAKDOWN,Ниво образовања
+Ниво образовања,Степен урбанизације
 Степен урбанизације,Године

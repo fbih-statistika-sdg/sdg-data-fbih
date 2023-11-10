@@ -51,7 +51,7 @@ MOT_RAI,Rail,Željeznički,Жељезнички,Željeznički,2,1
 MOT_ROA,Road,Cestovni,Друмски,Cestovni,2,1
 MULTIPLE,Multiple renewables,Višestruki obnovljivi izvori energije,Вишеструки обновљиви извори енергије,Više obnovljivih izvora,1,1
 p_dev,p_dev,Fizički razvoj,p_dev,p_dev,1,1
-SKILL_COMP,SKILL_COMP,Upotreba računara,SKILL_COMP,SKILL_COMP,5,1
+SKILL_COMP,SKILL_COMP,Upotreba računara,SKILL_COMP,SKILL_COMP,8,1
 SKILL_ICTARSP,Using basic arithmetic formula in a spreadsheet,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,Коришћење основне аритметичке формуле у буџетској табели,Korištenje osnovne aritmetičke formule u proračunskoj tablici,1,1
 SKILL_ICTCMFL,Copying or moving a file or folder,Kopiranje ili premještanje datoteke ili mape,Копирање или премјештање датотеке или мапе,Kopiranje ili premještanje datoteke ili mape,1,1
 SKILL_ICTCOPA,Using copy and paste tools to duplicate or move information within a document,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,Коришћење алата копирања и лијепљења за дуплирање или премјештање података унутар документа,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,1,1
@@ -61,7 +61,7 @@ SKILL_ICTPCPR,Writing a computer program using a specialized programming languag
 SKILL_ICTSOFT,"Finding, downloading, installing and configuring software","Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera","Проналажење, преузимање, инсталирање и конфигурисање софтвера","Pronalaženje, preuzimanje, instaliranje i konfiguriranje softvera",1,1
 SKILL_ICTTRAF,Transferring files between a computer and other devices,Prijenos datoteka između računara i drugih uređaja,Пренос датотека између рачунара и других уређаја,Prijenos datoteka između računara i drugih uređaja,1,1
 SKILL_INST,Connecting and installing new devices,Povezivanje i instalacija novih uređaja,Повезивање и инсталирање нових уређаја,Povezivanje i instalacija novih uređaja,1,1
-SKILL_INTERNET,SKILL_INTERNET,Upotreba interneta,SKILL_INTERNET,SKILL_INTERNET,5,1
+SKILL_INTERNET,SKILL_INTERNET,Upotreba interneta,SKILL_INTERNET,SKILL_INTERNET,8,1
 SKILL_MATH,Mathematics,Matematika,Математика,Matematika,9,2
 SKILL_PRVCY,"Changing privacy settings on your device, account or app to limit the sharing of personal data and information (e.g. name, contact information, photos)","Promjena postavki privatnosti na vašem uređaju, računu ili aplikaciji kako biste ograničili dijeljenje ličnih podataka i informacija (npr. ime, kontakt informacije, fotografije)","Промjена подешавања приватности на вашем уређају, налогу или апликацији да бисте ограничили дијељење личних података и информација (нпр. име, контакт информације, фотографије)","Promjena postavki privatnosti na vašem uređaju, računu ili aplikaciji kako biste ograničili dijeljenje ličnih podataka i informacija (npr. ime, kontakt informacije, fotografije)",1,1
 SKILL_READ,Reading,Čitanje,Читање,Čitanje,8,2

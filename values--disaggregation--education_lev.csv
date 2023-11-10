@@ -1,5 +1,5 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,Total or not breakdown,Ukupno,Укупно,Ukupno,9,1
+_T,Total or not breakdown,Ukupno,Укупно,Ukupno,19,2
 AGG_0_1,Primary education or less,Osnovno obrazovanje ili niže,Основно образовање или ниже,Osnovno obrazovanje ili niže,1,1
 AGG_GE2,Secondary education or above,Srednje obrazovanje ili više,Средње образовање или више,Srednje obrazovanje ili više,1,1
 HIGH_SCH,HIGH_SCH,Viša škola i prvi stepen fakulteta,HIGH_SCH,HIGH_SCH,3,1
@@ -7,10 +7,10 @@ INC_PRIM_EDU,INC_PRIM_EDU,Nepotpuno osnovno obrazovanje,INC_PRIM_EDU,INC_PRIM_ED
 ISCED11_1,ISCED11_1,ISCED11_1,ISCED11_1,ISCED11_1,3,1
 ISCED11_2,ISCED11_2,ISCED11_2,ISCED11_2,ISCED11_2,4,1
 LOWSEC,Lower secondary education,Niže srednje obrazovanje,Ниже средње образовање,Niže srednje obrazovanje,27,2
-MID_SCH,MID_SCH,Srednje obrazovanje,MID_SCH,MID_SCH,3,1
+MID_SCH,MID_SCH,Srednje obrazovanje,MID_SCH,MID_SCH,5,2
 NO_EDU,NO_EDU,Bez ikakvog obrazovanja,NO_EDU,NO_EDU,3,1
-PRIMAR,Primary education,Osnovno obrazovanje,Основно образовање,Osnovno obrazovanje,29,4
+PRIMAR,Primary education,Osnovno obrazovanje,Основно образовање,Osnovno obrazovanje,31,5
 SECOND,Secondary education level,Nivo srednjeg obrazovanja,Ниво средњег образовања,Razina srednjeg obrazovanja,2,1
 SPEC_HIGH,SPEC_HIGH,Specijalizacija poslije srednje škole,SPEC_HIGH,SPEC_HIGH,3,1
-UNI_SCH,UNI_SCH,Visoka škola/ fakultet/akademija/ univerzitet,UNI_SCH,UNI_SCH,3,1
+UNI_SCH,UNI_SCH,Visoka škola/ fakultet/akademija/ univerzitet,UNI_SCH,UNI_SCH,5,2
 UPPSEC,Upper secondary education,Više srednje obrazovanje,Више средње образовање,Više srednje obrazovanje,21,2

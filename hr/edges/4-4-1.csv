@@ -1,4 +1,5 @@
 From,To
 Spol,COMPOSITE_BREAKDOWN
-COMPOSITE_BREAKDOWN,Stupanj urbanizacije
+COMPOSITE_BREAKDOWN,Razina obrazovanja
+Razina obrazovanja,Stupanj urbanizacije
 Stupanj urbanizacije,Godine
