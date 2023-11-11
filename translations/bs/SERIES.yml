@@ -292,6 +292,9 @@ SH_PRV_SMOK: Starosna standardizirana rasprostranjenost trenutne upotrebe duhana
 SH_SAN_DEFECT: Udio populacije koja prakticira otvorenu defekaciju, prema urbanim/ruralnim područjima
 SH_SAN_HNDWSH: Udio stanovništva sa osnovnim uređajima za pranje ruku u prostorijama
 SH_SAN_SAFE: Udio stanovništva koji koristi sanitarne usluge kojima se sigurno upravlja
+SH_SAN_BATH: Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju kupatilo sa WC-om
+SH_TOIL_BATH: Posjeduje kupatilo sa WC-om
+SH_TOIL: Posjeduje WC
 SH_STA_AIRP: Stopa smrtnosti koja se pripisuje zagađenju domaćinstva i okolnog zraka
 SH_STA_ANEM: Udio žena u dobi od 15-49 godina s anemijom (%)
 SH_STA_ANEM_NPRG: Udio žena u dobi od 15-49 godina s anemijom, koje nisu trudne (%) 
