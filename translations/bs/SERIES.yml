@@ -87,6 +87,8 @@ EN_WWT_GEN: Ukupna generisana otpadna voda (milion m3/godišnje)
 EN_WWT_TREAT: Ukupna prečišćena otpadna voda (milion m3/godišnje) 
 EN_WWT_TREATR: Udio pročišćenih otpadnih voda prema djelatnosti i lokaciji (%) 
 EN_WWT_WWDS: Udio sigurno prečišćenih protoka otpadnih voda iz domaćinstva
+EN_WWT_WATER: Prečišćene otpadne komunalne vode (hilj./tis.m3)
+EN_WWT_DIV_W: Procenat prečišćenih i neprečišćenih otpadnih komunalnih voda
 ER_BDY_ABT2NP: Zemlje koje su uspostavile nacionalne ciljeve u skladu sa Aichi biodiverzitetom cilj 2 Strateškog plana za biodiverzitet 2011-2020. u svoje nacionalne strategije i planove za biodiverzitet (1 = DA; 0 = NE)
 ER_BDY_SEEA: Zemlje s integrisanim vrijednostima biodiverziteta u nacionalnim sistemima računovodstva i izvještavanja, definisane kao implementacija Sistema ekološko-ekonomskog računovodstva (1 = DA; 0 = NE)
 ER_CBD_ABSCLRHS: Zemlje koje imaju zakonodavne, administrativne i političke okvire za osiguranje pravedne raspodjele koristi (1 = DA; 0 = NE)
