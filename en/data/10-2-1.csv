@@ -1,5 +1,22 @@
 Year,SERIES,UNIT_MEASURE,Value
-2001,Proportion of people living below 50 percent of median income,Percent,8
-2004,Proportion of people living below 50 percent of median income,Percent,12
-2007,Proportion of people living below 50 percent of median income,Percent,12
-2011,Proportion of people living below 50 percent of median income,Percent,12
+2004.0,Proportion of people living below 50 percent of median income,Percent,11.3
+2007.0,Proportion of people living below 50 percent of median income,Percent,9.9
+2011.0,Proportion of people living below 50 percent of median income,Percent,10.0
+2015.0,Proportion of people living below 50 percent of median income,Percent,9.8
+2004.0,SI_POV_60MI,Percent,18.3
+2007.0,SI_POV_60MI,Percent,16.3
+2011.0,SI_POV_60MI,Percent,17.2
+2015.0,SI_POV_60MI,Percent,16.0
+2004.0,SI_POV_70MI,Percent,26.1
+2007.0,SI_POV_70MI,Percent,23.8
+2011.0,SI_POV_70MI,Percent,25.2
+2015.0,SI_POV_70MI,Percent,23.6
+2004.0,SI_POV_GAP,Percent,25.0
+2007.0,SI_POV_GAP,Percent,25.2
+2011.0,SI_POV_GAP,Percent,26.6
+2015.0,SI_POV_GAP,Percent,25.8
+2004.0,SI_POV_S80S20,Percent,5.9
+2007.0,SI_POV_S80S20,Percent,5.2
+2011.0,SI_POV_S80S20,Percent,5.2
+2015.0,SI_POV_S80S20,Percent,5.2
+,,,

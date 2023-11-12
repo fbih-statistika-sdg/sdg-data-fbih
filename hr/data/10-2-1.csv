@@ -1,5 +1,22 @@
 Year,SERIES,UNIT_MEASURE,Value
-2001,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda,Postotak,8
-2004,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda,Postotak,12
-2007,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda,Postotak,12
-2011,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda,Postotak,12
+2004.0,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda,Postotak,11.3
+2007.0,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda,Postotak,9.9
+2011.0,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda,Postotak,10.0
+2015.0,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda,Postotak,9.8
+2004.0,SI_POV_60MI,Postotak,18.3
+2007.0,SI_POV_60MI,Postotak,16.3
+2011.0,SI_POV_60MI,Postotak,17.2
+2015.0,SI_POV_60MI,Postotak,16.0
+2004.0,SI_POV_70MI,Postotak,26.1
+2007.0,SI_POV_70MI,Postotak,23.8
+2011.0,SI_POV_70MI,Postotak,25.2
+2015.0,SI_POV_70MI,Postotak,23.6
+2004.0,SI_POV_GAP,Postotak,25.0
+2007.0,SI_POV_GAP,Postotak,25.2
+2011.0,SI_POV_GAP,Postotak,26.6
+2015.0,SI_POV_GAP,Postotak,25.8
+2004.0,SI_POV_S80S20,Postotak,5.9
+2007.0,SI_POV_S80S20,Postotak,5.2
+2011.0,SI_POV_S80S20,Postotak,5.2
+2015.0,SI_POV_S80S20,Postotak,5.2
+,,,

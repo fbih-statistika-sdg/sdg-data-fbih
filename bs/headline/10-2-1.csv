@@ -1,5 +1,22 @@
 Year,Value,UNIT_MEASURE,SERIES
-2001,8,Procenat,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
-2004,12,Procenat,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
-2007,12,Procenat,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
-2011,12,Procenat,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
+2004.0,11.3,Procenat,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
+2007.0,9.9,Procenat,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
+2011.0,10.0,Procenat,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
+2015.0,9.8,Procenat,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
+2004.0,18.3,Procenat,Udio ljudi koji žive ispod 60 posto srednje vrijednosti prihoda
+2007.0,16.3,Procenat,Udio ljudi koji žive ispod 60 posto srednje vrijednosti prihoda
+2011.0,17.2,Procenat,Udio ljudi koji žive ispod 60 posto srednje vrijednosti prihoda
+2015.0,16.0,Procenat,Udio ljudi koji žive ispod 60 posto srednje vrijednosti prihoda
+2004.0,26.1,Procenat,Udio ljudi koji žive ispod 70 posto srednje vrijednosti prihoda
+2007.0,23.8,Procenat,Udio ljudi koji žive ispod 70 posto srednje vrijednosti prihoda
+2011.0,25.2,Procenat,Udio ljudi koji žive ispod 70 posto srednje vrijednosti prihoda
+2015.0,23.6,Procenat,Udio ljudi koji žive ispod 70 posto srednje vrijednosti prihoda
+2004.0,25.0,Procenat,Jaz siromaštva (domaćinstava)
+2007.0,25.2,Procenat,Jaz siromaštva (domaćinstava)
+2011.0,26.6,Procenat,Jaz siromaštva (domaćinstava)
+2015.0,25.8,Procenat,Jaz siromaštva (domaćinstava)
+2004.0,5.9,Procenat,Odnos S80/S20
+2007.0,5.2,Procenat,Odnos S80/S20
+2011.0,5.2,Procenat,Odnos S80/S20
+2015.0,5.2,Procenat,Odnos S80/S20
+,,,
