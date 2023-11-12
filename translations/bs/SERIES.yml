@@ -335,6 +335,8 @@ SI_COV_WKINJRY: Udio zaposlenog stanovništva obuhvaćenog u slučaju povrede na
 SI_POV_50MI: Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
 SI_POV_60MI: Udio ljudi koji žive ispod 60 posto srednje vrijednosti prihoda
 SI_POV_70MI: Udio ljudi koji žive ispod 70 posto srednje vrijednosti prihoda
+SI_POV_GAP: Jaz siromaštva (domaćinstava)
+SI_POV_S80S20: Odnos S80/S20
 SI_POV_DAY1: Udio stanovništva koje živi ispod međunarodne linije siromaštva
 SI_POV_EMP1: Zaposleno stanovništvo ispod međunarodne linije siromaštva
 SI_POV_NAHC: Udio stanovništva koje živi ispod nacionalne granice siromaštva
