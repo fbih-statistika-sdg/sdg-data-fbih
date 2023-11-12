@@ -1,6 +1,7 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 _T,No breakdown,Bez podjele,Без пођеле,Bez podjele,10,5
-INDUSTRIES,Industries,Industrije,Индустрије,Industrije,2,2
+EN_SECTOR,EN_SECTOR,Energetski sektor,EN_SECTOR,EN_SECTOR,1,1
+INDUSTRIES,Industries,Industrije,Индустрије,Industrije,3,3
 ISIC4_A,"Agriculture, forestry and fishing","Poljoprivreda, šumarstvo i ribolov","Пољопривреда, шумарство и риболов","Poljoprivreda, šumarstvo i ribolov",7,2
 ISIC4_A01_A0210_A0322,Agriculture (ISIC4 A01 A0210 A0322),Poljoprivreda (ISIC4 A01 A0210 A0322),Пољопривреда (ISIC4 A01 A0210 A0322),Poljoprivreda (ISIC4 A01 A0210 A0322),2,2
 ISIC4_B,Mining and quarrying,Vađenja ruda i kamena,Вађења руда и камена,Vađenja ruda i kamena,1,1
@@ -11,3 +12,5 @@ ISIC4_F,Construction,Građevinarstvo,Грађевинарство,Građevinarstv
 ISIC4_GTT,Services (G to T),Usluge (G do T),Услуге (Г до Т),Usluge (G do T),2,2
 ISIC4_T,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Aktivnosti domaćinstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga domaćinstava za vlastite potrebe,Активности домаћинстава као послодаваца; недиференциране дjелатности домаћинстава за производњу добара и услуга за сопствене потребе,Djelatnosti kućanstava kao poslodavaca; nediferencirane djelatnosti proizvodnje dobara i usluga kućanstava za vlastite potrebe,1,1
 NONAGR,Non-agriculture,Nepoljoprivredna,Непољопривредна,Nepoljoprivredna,6,1
+OTHER,OTHER,Ostalo,OTHER,OTHER,1,1
+PRIV_HH,Private households,Privatna domaćinstva,Приватна домаћинства,Privatna domaćinstva,1,1

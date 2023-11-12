@@ -1,65 +1,65 @@
-Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
-2000,Proportion of population with access to electricity,Percent,Total,100.0
-2001,Proportion of population with access to electricity,Percent,Total,99.4
-2002,Proportion of population with access to electricity,Percent,Total,98.5
-2003,Proportion of population with access to electricity,Percent,Total,100.0
-2004,Proportion of population with access to electricity,Percent,Total,100.0
-2005,Proportion of population with access to electricity,Percent,Total,100.0
-2006,Proportion of population with access to electricity,Percent,Total,99.4
-2007,Proportion of population with access to electricity,Percent,Total,99.7
-2008,Proportion of population with access to electricity,Percent,Total,100.0
-2009,Proportion of population with access to electricity,Percent,Total,100.0
-2010,Proportion of population with access to electricity,Percent,Total,100.0
-2011,Proportion of population with access to electricity,Percent,Total,99.7
-2012,Proportion of population with access to electricity,Percent,Total,100.0
-2013,Proportion of population with access to electricity,Percent,Total,99.5
-2014,Proportion of population with access to electricity,Percent,Total,100.0
-2015,Proportion of population with access to electricity,Percent,Total,99.7
-2016,Proportion of population with access to electricity,Percent,Total,100.0
-2017,Proportion of population with access to electricity,Percent,Total,100.0
-2018,Proportion of population with access to electricity,Percent,Total,100.0
-2019,Proportion of population with access to electricity,Percent,Total,100.0
-2020,Proportion of population with access to electricity,Percent,Total,100.0
-2000,Proportion of population with access to electricity,Percent,Rural,100.0
-2001,Proportion of population with access to electricity,Percent,Rural,100.0
-2002,Proportion of population with access to electricity,Percent,Rural,100.0
-2003,Proportion of population with access to electricity,Percent,Rural,100.0
-2004,Proportion of population with access to electricity,Percent,Rural,100.0
-2005,Proportion of population with access to electricity,Percent,Rural,100.0
-2006,Proportion of population with access to electricity,Percent,Rural,100.0
-2007,Proportion of population with access to electricity,Percent,Rural,100.0
-2008,Proportion of population with access to electricity,Percent,Rural,100.0
-2009,Proportion of population with access to electricity,Percent,Rural,100.0
-2010,Proportion of population with access to electricity,Percent,Rural,100.0
-2011,Proportion of population with access to electricity,Percent,Rural,100.0
-2012,Proportion of population with access to electricity,Percent,Rural,100.0
-2013,Proportion of population with access to electricity,Percent,Rural,100.0
-2014,Proportion of population with access to electricity,Percent,Rural,100.0
-2015,Proportion of population with access to electricity,Percent,Rural,100.0
-2016,Proportion of population with access to electricity,Percent,Rural,100.0
-2017,Proportion of population with access to electricity,Percent,Rural,100.0
-2018,Proportion of population with access to electricity,Percent,Rural,100.0
-2019,Proportion of population with access to electricity,Percent,Rural,100.0
-2020,Proportion of population with access to electricity,Percent,Rural,100.0
-2000,Proportion of population with access to electricity,Percent,Urban,100.0
-2001,Proportion of population with access to electricity,Percent,Urban,100.0
-2002,Proportion of population with access to electricity,Percent,Urban,99.3
-2003,Proportion of population with access to electricity,Percent,Urban,100.0
-2004,Proportion of population with access to electricity,Percent,Urban,100.0
-2005,Proportion of population with access to electricity,Percent,Urban,100.0
-2006,Proportion of population with access to electricity,Percent,Urban,99.7
-2007,Proportion of population with access to electricity,Percent,Urban,100.0
-2008,Proportion of population with access to electricity,Percent,Urban,100.0
-2009,Proportion of population with access to electricity,Percent,Urban,100.0
-2010,Proportion of population with access to electricity,Percent,Urban,100.0
-2011,Proportion of population with access to electricity,Percent,Urban,99.8
-2012,Proportion of population with access to electricity,Percent,Urban,100.0
-2013,Proportion of population with access to electricity,Percent,Urban,100.0
-2014,Proportion of population with access to electricity,Percent,Urban,100.0
-2015,Proportion of population with access to electricity,Percent,Urban,100.0
-2016,Proportion of population with access to electricity,Percent,Urban,100.0
-2017,Proportion of population with access to electricity,Percent,Urban,100.0
-2018,Proportion of population with access to electricity,Percent,Urban,100.0
-2019,Proportion of population with access to electricity,Percent,Urban,100.0
-2020,Proportion of population with access to electricity,Percent,Urban,100.0
-2021,Proportion of population with access to electricity,Percent,Urban,100.0
+Year,SERIES,UNIT_MEASURE,Economic activity,Value
+2011.0,Proportion of population with access to electricity,Percent,,100.0
+2015.0,Proportion of population with access to electricity,Percent,,100.0
+2013.0,EG_FIN,GWH,,2.774
+2014.0,EG_FIN,GWH,,2.772
+2015.0,EG_FIN,GWH,,2.833
+2016.0,EG_FIN,GWH,,2.831
+2017.0,EG_FIN,GWH,,2.844
+2018.0,EG_FIN,GWH,,2.847
+2019.0,EG_FIN,GWH,,2.832
+2020.0,EG_FIN,GWH,,2.866
+2021.0,EG_FIN,GWH,,2.923
+2013.0,EG_CONSUMPTION,Percent,Industries,45.0
+2014.0,EG_CONSUMPTION,Percent,Industries,43.1
+2015.0,EG_CONSUMPTION,Percent,Industries,43.0
+2016.0,EG_CONSUMPTION,Percent,Industries,41.8
+2017.0,EG_CONSUMPTION,Percent,Industries,42.6
+2018.0,EG_CONSUMPTION,Percent,Industries,40.8
+2019.0,EG_CONSUMPTION,Percent,Industries,33.3
+2020.0,EG_CONSUMPTION,Percent,Industries,24.6
+2021.0,EG_CONSUMPTION,Percent,Industries,26.2
+2013.0,EG_CONSUMPTION,Percent,Private households,35.9
+2014.0,EG_CONSUMPTION,Percent,Private households,36.6
+2015.0,EG_CONSUMPTION,Percent,Private households,37.4
+2016.0,EG_CONSUMPTION,Percent,Private households,37.6
+2017.0,EG_CONSUMPTION,Percent,Private households,37.2
+2018.0,EG_CONSUMPTION,Percent,Private households,38.3
+2019.0,EG_CONSUMPTION,Percent,Private households,41.0
+2020.0,EG_CONSUMPTION,Percent,Private households,47.4
+2021.0,EG_CONSUMPTION,Percent,Private households,45.2
+2013.0,EG_CONSUMPTION,Percent,EN_SECTOR,2.9
+2014.0,EG_CONSUMPTION,Percent,EN_SECTOR,3.7
+2015.0,EG_CONSUMPTION,Percent,EN_SECTOR,3.7
+2016.0,EG_CONSUMPTION,Percent,EN_SECTOR,3.2
+2017.0,EG_CONSUMPTION,Percent,EN_SECTOR,3.5
+2018.0,EG_CONSUMPTION,Percent,EN_SECTOR,2.9
+2019.0,EG_CONSUMPTION,Percent,EN_SECTOR,3.5
+2020.0,EG_CONSUMPTION,Percent,EN_SECTOR,3.6
+2021.0,EG_CONSUMPTION,Percent,EN_SECTOR,3.5
+2013.0,EG_CONSUMPTION,Percent,OTHER,16.2
+2014.0,EG_CONSUMPTION,Percent,OTHER,16.7
+2015.0,EG_CONSUMPTION,Percent,OTHER,15.9
+2016.0,EG_CONSUMPTION,Percent,OTHER,17.4
+2017.0,EG_CONSUMPTION,Percent,OTHER,16.7
+2018.0,EG_CONSUMPTION,Percent,OTHER,18.1
+2019.0,EG_CONSUMPTION,Percent,OTHER,22.3
+2020.0,EG_CONSUMPTION,Percent,OTHER,24.4
+2021.0,EG_CONSUMPTION,Percent,OTHER,25.0
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
