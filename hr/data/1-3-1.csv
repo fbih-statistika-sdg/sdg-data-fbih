@@ -1,24 +1,14 @@
 Year,SERIES,Godine,Spol,UNIT_MEASURE,Value
-2012.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,2.5
-2013.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,2.6
-2014.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,2.5
-2015.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,2.7
-2016.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,2.9
-2017.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,3.2
-2018.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,3.1
-2019.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,3.6
-2020.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,4.3
-2021.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,3.3
-2022.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,3.6
-2013.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,,,Postotak,4.9
-2014.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,,,Postotak,5.0
-2015.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,,,Postotak,4.9
-2016.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,,,Postotak,5.1
-2017.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,,,Postotak,4.9
-2018.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,,,Postotak,4.8
-2019.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,,,Postotak,4.7
-2020.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,,,Postotak,4.7
-2021.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,,,Postotak,4.6
+2013.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,4.9
+2014.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,5.0
+2015.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,4.9
+2016.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,5.1
+2017.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,4.9
+2018.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,4.8
+2019.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,4.7
+2020.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,4.7
+2021.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,4.6
+2022.0,Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene,,,Postotak,5.1
 2013.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Muškarci,Postotak,39.724
 2014.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Muškarci,Postotak,41.589
 2015.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Muškarci,Postotak,40.91
@@ -28,24 +18,27 @@ Year,SERIES,Godine,Spol,UNIT_MEASURE,Value
 2019.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Muškarci,Postotak,41.905
 2020.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Muškarci,Postotak,41.242
 2021.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Muškarci,Postotak,38.859
-2013.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,34.816
-2014.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,37.123
-2015.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,35.725
-2016.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,35.626
-2017.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,35.14
-2018.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,36.268
-2019.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,35.827
-2020.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,35.44
-2021.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,34.416
-2013.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,114.513
-2014.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,121.558
-2015.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,119.05
-2016.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,123.733
-2017.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,130.066
-2018.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,135.6
-2019.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,135.695
-2020.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,137.063
-2021.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,138.055
+2022.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Muškarci,Postotak,38.943
+2013.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,114.513
+2014.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,121.558
+2015.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,119.05
+2016.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,123.733
+2017.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,130.066
+2018.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,135.6
+2019.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,135.695
+2020.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,137.063
+2021.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,138.055
+2022.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Muškarci,Postotak,131.873
+2013.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,34.816
+2014.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,37.123
+2015.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,35.725
+2016.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,35.626
+2017.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,35.14
+2018.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,36.268
+2019.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,35.827
+2020.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,35.44
+2021.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,Žene,Postotak,34.416
+2022.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,Ispod 18 godina,,Postotak,35.677
 2013.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Žene,Postotak,119.813
 2014.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Žene,Postotak,132.081
 2015.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Žene,Postotak,124.415
@@ -55,4 +48,5 @@ Year,SERIES,Godine,Spol,UNIT_MEASURE,Value
 2019.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Žene,Postotak,123.576
 2020.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Žene,Postotak,135.778
 2021.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Žene,Postotak,133.0
+2022.0,Udio stanovništva obuhvaćenog programima socijalne skrbi,18 godina i više,Žene,Postotak,135.627
 ,,,,,
