@@ -13,7 +13,9 @@ Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Sex,Age,Value
 2015,Poverty headcount by age of head of household,Percent,,,46 to 55 years old,17.5
 2015,Poverty headcount by age of head of household,Percent,,,56 to 65 years old,16.8
 2015,Poverty headcount by age of head of household,Percent,,,65 years old and over,22.4
+2007,SI_POV_SETT,Percent,Rural,,,9.7
 2011,SI_POV_SETT,Percent,Rural,,,8.9
 2015,SI_POV_SETT,Percent,Rural,,,11.0
+2007,SI_POV_SETT,Percent,O,,,21.8
 2011,SI_POV_SETT,Percent,O,,,21.9
 2015,SI_POV_SETT,Percent,O,,,20.3
