@@ -1,3 +1,3 @@
-Year,SERIES,UNIT_MEASURE,Age,Value
-2011-2012,Children moderately or severely stunted (number),DEVIATION_LEVEL,under 5 years old,9.9
-2011-2012,Proportion of children moderately or severely stunted,DEVIATION_LEVEL,under 5 years old,4.6
+Year,SERIES,Deviation Level,Age,Value
+2011-2012,Children moderately or severely stunted (number),,under 5 years old,9.9
+2011-2012,Proportion of children moderately or severely stunted,,under 5 years old,4.6
