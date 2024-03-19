@@ -1,38 +1,42 @@
 Year,SERIES,UNIT_MEASURE,Age,Sex,Value
-2013,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.6
-2014,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.2
-2015,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.3
-2016,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.1
-2017,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.5
-2018,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.3
-2019,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.7
-2020,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.9
-2021,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.9
-2022,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.3
-2013,SH_DYN_MRT,,,Both sexes or no breakdown by sex,76.24
-2014,SH_DYN_MRT,,,Both sexes or no breakdown by sex,76.68
-2015,SH_DYN_MRT,,,Both sexes or no breakdown by sex,76.2
-2016,SH_DYN_MRT,,,Both sexes or no breakdown by sex,76.74
-2017,SH_DYN_MRT,,,Both sexes or no breakdown by sex,76.76
-2018,SH_DYN_MRT,,,Both sexes or no breakdown by sex,77.25
-2019,SH_DYN_MRT,,,Both sexes or no breakdown by sex,77.13
-2020,SH_DYN_MRT,,,Both sexes or no breakdown by sex,75.75
-2021,SH_DYN_MRT,,,Both sexes or no breakdown by sex,74.78
-2013,SH_DYN_MRT,,,Male,73.9
-2014,SH_DYN_MRT,,,Male,74.36
-2015,SH_DYN_MRT,,,Male,73.97
-2016,SH_DYN_MRT,,,Male,74.57
-2017,SH_DYN_MRT,,,Male,74.5
-2018,SH_DYN_MRT,,,Male,75.14
-2019,SH_DYN_MRT,,,Male,74.93
-2020,SH_DYN_MRT,,,Male,73.15
-2021,SH_DYN_MRT,,,Male,72.38
-2013,SH_DYN_MRT,,,Female,78.48
-2014,SH_DYN_MRT,,,Female,78.89
-2015,SH_DYN_MRT,,,Female,78.34
-2016,SH_DYN_MRT,,,Female,78.83
-2017,SH_DYN_MRT,,,Female,78.94
-2018,SH_DYN_MRT,,,Female,79.27
-2019,SH_DYN_MRT,,,Female,79.25
-2020,SH_DYN_MRT,,,Female,78.35
-2021,SH_DYN_MRT,,,Female,77.18
+2013.0,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.6
+2014.0,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.2
+2015.0,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.3
+2016.0,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.1
+2017.0,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.5
+2018.0,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.3
+2019.0,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,6.7
+2020.0,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.9
+2021.0,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,4.9
+2022.0,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,5.3
+2013.0,SH_DYN_MRT,,,Both sexes or no breakdown by sex,76.24
+2014.0,SH_DYN_MRT,,,Both sexes or no breakdown by sex,76.68
+2015.0,SH_DYN_MRT,,,Both sexes or no breakdown by sex,76.2
+2016.0,SH_DYN_MRT,,,Both sexes or no breakdown by sex,76.74
+2017.0,SH_DYN_MRT,,,Both sexes or no breakdown by sex,76.76
+2018.0,SH_DYN_MRT,,,Both sexes or no breakdown by sex,77.25
+2019.0,SH_DYN_MRT,,,Both sexes or no breakdown by sex,77.13
+2020.0,SH_DYN_MRT,,,Both sexes or no breakdown by sex,75.75
+2021.0,SH_DYN_MRT,,,Both sexes or no breakdown by sex,74.78
+2022.0,SH_DYN_MRT,,,Both sexes or no breakdown by sex,77.42
+2013.0,SH_DYN_MRT,,,Male,73.9
+2014.0,SH_DYN_MRT,,,Male,74.36
+2015.0,SH_DYN_MRT,,,Male,73.97
+2016.0,SH_DYN_MRT,,,Male,74.57
+2017.0,SH_DYN_MRT,,,Male,74.5
+2018.0,SH_DYN_MRT,,,Male,75.14
+2019.0,SH_DYN_MRT,,,Male,74.93
+2020.0,SH_DYN_MRT,,,Male,73.15
+2021.0,SH_DYN_MRT,,,Male,72.38
+2022.0,SH_DYN_MRT,,,Male,75.19
+2013.0,SH_DYN_MRT,,,Female,78.48
+2014.0,SH_DYN_MRT,,,Female,78.89
+2015.0,SH_DYN_MRT,,,Female,78.34
+2016.0,SH_DYN_MRT,,,Female,78.83
+2017.0,SH_DYN_MRT,,,Female,78.94
+2018.0,SH_DYN_MRT,,,Female,79.27
+2019.0,SH_DYN_MRT,,,Female,79.25
+2020.0,SH_DYN_MRT,,,Female,78.35
+2021.0,SH_DYN_MRT,,,Female,77.18
+2022.0,SH_DYN_MRT,,,Female,79.58
+,,,,,
