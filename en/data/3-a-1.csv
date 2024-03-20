@@ -1,13 +1,14 @@
-Year,SERIES,UNIT_MEASURE,Age,Sex,Value
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Both sexes or no breakdown by sex,37.7
-2018,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Both sexes or no breakdown by sex,35.5
-2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Both sexes or no breakdown by sex,35.5
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Both sexes or no breakdown by sex,35.0
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Female,29.8
-2018,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Female,28.8
-2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Female,28.3
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Female,28.0
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Male,45.6
-2018,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Male,43.2
-2019,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Male,42.6
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Percent,15 years old and over,Male,42.0
+Year,SERIES,UNIT_MEASURE,Age,Value
+2012.0,SH_PRV_SMOK18,Percent,Y18T24,58.5
+2012.0,SH_PRV_SMOK18,Percent,Y25T34,61.2
+2012.0,SH_PRV_SMOK18,Percent,Y35T44,66.7
+2012.0,SH_PRV_SMOK18,Percent,Y45T54,60.1
+2012.0,SH_PRV_SMOK18,Percent,55 to 64 years old,49.4
+2012.0,SH_PRV_SMOK18,Percent,65 years old and over,30.5
+2002.0,SH_PRV_SMOK18,Percent,Y25T64,37.6
+2012.0,SH_PRV_SMOK18,Percent,Y25T64,49.5
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

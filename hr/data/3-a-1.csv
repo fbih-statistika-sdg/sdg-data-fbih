@@ -1,13 +1,14 @@
-Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
-2015,Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više,Postotak,15 godina i više,Oba spola ili bez podjele po spolu,37.7
-2018,Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više,Postotak,15 godina i više,Oba spola ili bez podjele po spolu,35.5
-2019,Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više,Postotak,15 godina i više,Oba spola ili bez podjele po spolu,35.5
-2020,Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više,Postotak,15 godina i više,Oba spola ili bez podjele po spolu,35.0
-2015,Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više,Postotak,15 godina i više,Žene,29.8
-2018,Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više,Postotak,15 godina i više,Žene,28.8
-2019,Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više,Postotak,15 godina i više,Žene,28.3
-2020,Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više,Postotak,15 godina i više,Žene,28.0
-2015,Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više,Postotak,15 godina i više,Muškarci,45.6
-2018,Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više,Postotak,15 godina i više,Muškarci,43.2
-2019,Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više,Postotak,15 godina i više,Muškarci,42.6
-2020,Starosna standardizirana rasprostranjenost trenutne uporabe duhana među osobama starosti 15 godina i više,Postotak,15 godina i više,Muškarci,42.0
+Year,SERIES,UNIT_MEASURE,Godine,Value
+2012.0,SH_PRV_SMOK18,Postotak,Y18T24,58.5
+2012.0,SH_PRV_SMOK18,Postotak,Y25T34,61.2
+2012.0,SH_PRV_SMOK18,Postotak,Y35T44,66.7
+2012.0,SH_PRV_SMOK18,Postotak,Y45T54,60.1
+2012.0,SH_PRV_SMOK18,Postotak,55 do 64 godine,49.4
+2012.0,SH_PRV_SMOK18,Postotak,65 godina i više,30.5
+2002.0,SH_PRV_SMOK18,Postotak,Y25T64,37.6
+2012.0,SH_PRV_SMOK18,Postotak,Y25T64,49.5
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
