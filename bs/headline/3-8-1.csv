@@ -1,5 +1,10 @@
 Year,Value,UNIT_MEASURE,SERIES
-2015,68,Index,Indeks pokrivenosti uslugama univerzalne zdravstvene zaštite
-2017,70,Index,Indeks pokrivenosti uslugama univerzalne zdravstvene zaštite
-2019,67,Index,Indeks pokrivenosti uslugama univerzalne zdravstvene zaštite
-2021,66,Index,Indeks pokrivenosti uslugama univerzalne zdravstvene zaštite
+2010.0,84.55,Procenat,Stanovništvo obuhvaćeno zdravstvenim osiguranjem
+2011.0,85.55,Procenat,Stanovništvo obuhvaćeno zdravstvenim osiguranjem
+2012.0,86.52,Procenat,Stanovništvo obuhvaćeno zdravstvenim osiguranjem
+2018.0,89.9,Procenat,Stanovništvo obuhvaćeno zdravstvenim osiguranjem
+2010.0,15.45,Procenat,Stanovništvo bez zdravstvenog osiguranja
+2011.0,14.45,Procenat,Stanovništvo bez zdravstvenog osiguranja
+2012.0,13.48,Procenat,Stanovništvo bez zdravstvenog osiguranja
+2018.0,10.1,Procenat,Stanovništvo bez zdravstvenog osiguranja
+,,,

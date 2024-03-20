@@ -1,5 +1,10 @@
 Year,SERIES,UNIT_MEASURE,Value
-2015,Universal health coverage (UHC) service coverage index,Index,68
-2017,Universal health coverage (UHC) service coverage index,Index,70
-2019,Universal health coverage (UHC) service coverage index,Index,67
-2021,Universal health coverage (UHC) service coverage index,Index,66
+2010.0,SH_ACS_HCCOV,Percent,84.55
+2011.0,SH_ACS_HCCOV,Percent,85.55
+2012.0,SH_ACS_HCCOV,Percent,86.52
+2018.0,SH_ACS_HCCOV,Percent,89.9
+2010.0,SH_ACD_NOHC,Percent,15.45
+2011.0,SH_ACD_NOHC,Percent,14.45
+2012.0,SH_ACD_NOHC,Percent,13.48
+2018.0,SH_ACD_NOHC,Percent,10.1
+,,,
