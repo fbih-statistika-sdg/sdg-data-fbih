@@ -188,6 +188,7 @@ SE_AGP_CPRA: Prilagođeni indeks rodnog pariteta za stopu završetka, prema spol
 SE_ALP_CPLR: Prilagođeni indeks pariteta lokacije za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja
 SE_AWP_CPRA: Prilagođeni indeks pariteta bogatstva za stopu završetka, prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja
 SE_DEV_ONTRK: 'Udio djece koja su razvojno na pravom putu u najmanje tri od sljedećih domena: pismenost-računanje, fizički razvoj, socijalno-emocionalni razvoj i učenje'
+SE_DEV_ONTRK36-59: Indeks ranog rasta i razvoja djece- procenat djece uzrasta od 36-59 mjeseci koja su dostigla očekivani razvoja u domeni pismenost/poznavanje brojeva, fizički razvoj, socijalno-emocionalni razvoj i učenje
 SE_GCEDESD_CUR: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u nastavne planove i programe 
 SE_GCEDESD_NEP: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u nacionalne obrazovne politike 
 SE_GCEDESD_SAS: Mjera do koje su obrazovanje o globalnom građanstvu i obrazovanje o održivom razvoju integrirani u ocjenjivanje učenika 
