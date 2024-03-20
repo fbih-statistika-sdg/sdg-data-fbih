@@ -1,24 +1,24 @@
-Year,SERIES,UNIT_MEASURE,Spol,Zanimanje,Value
-2014,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 10 000 stanovnika,,Doktori medicine,20.8
-2015,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 10 000 stanovnika,,Doktori medicine,21.03
-2014,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 10 000 stanovnika,,Farmaceuti,1.24
-2015,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 10 000 stanovnika,,Farmaceuti,1.26
-2014,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 10 000 stanovnika,,Medicinsko osoblje i babice,59.79
-2015,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 10 000 stanovnika,,Medicinsko osoblje i babice,60.13
-2016,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 10 000 stanovnika,,Medicinsko osoblje i babice,53.24
-2017,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 10 000 stanovnika,,Medicinsko osoblje i babice,54.22
-2018,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 10 000 stanovnika,,Medicinsko osoblje i babice,56.05
-2014,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 10 000 stanovnika,,Zubari,2.31
-2015,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 10 000 stanovnika,,Zubari,2.34
-2014,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Medicinsko osoblje i babice,78.2
-2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Medicinsko osoblje i babice,78.6
-2016,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Medicinsko osoblje i babice,78.2
-2017,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Medicinsko osoblje i babice,77.7
-2018,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Medicinsko osoblje i babice,77.5
-2014,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Medicinsko osoblje i babice,21.8
-2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Medicinsko osoblje i babice,21.4
-2016,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Medicinsko osoblje i babice,21.8
-2017,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Medicinsko osoblje i babice,22.3
-2018,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Medicinsko osoblje i babice,22.5
-2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Žene,Doktori medicine,87.7
-2015,"Gustina i distribucija zdravstvenih radnika, prema spolu i vrsti zanimanja",Procenat,Muškarci,Doktori medicine,12.3
+Year,SERIES,UNIT_MEASURE,Zanimanje,Value
+2017.0,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 100 000 stanovnika,Medicinski tehničari,600.0
+2018.0,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 100 000 stanovnika,Medicinski tehničari,611.0
+2019.0,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 100 000 stanovnika,Medicinski tehničari,617.0
+2017.0,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 100 000 stanovnika,Doktori medicine,219.0
+2018.0,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 100 000 stanovnika,Doktori medicine,224.0
+2019.0,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 100 000 stanovnika,Doktori medicine,233.0
+2017.0,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 100 000 stanovnika,Doktori stomatologije,27.0
+2018.0,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 100 000 stanovnika,Doktori stomatologije,27.0
+2019.0,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 100 000 stanovnika,Doktori stomatologije,28.0
+2017.0,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 100 000 stanovnika,Magistri farmacije,15.0
+2018.0,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 100 000 stanovnika,Magistri farmacije,17.0
+2019.0,Gustina zdravstvenih radnika prema vrsti zanimanja,Na 100 000 stanovnika,Magistri farmacije,16.0
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
