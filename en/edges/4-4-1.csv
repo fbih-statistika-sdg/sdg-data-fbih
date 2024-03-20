@@ -1,5 +1,5 @@
 From,To
-Sex,COMPOSITE_BREAKDOWN
+COMPOSITE_BREAKDOWN,Sex
+Sex,Age
 COMPOSITE_BREAKDOWN,Education level
-Education level,Degree of urbanisation
-Degree of urbanisation,Age
+COMPOSITE_BREAKDOWN,Degree of urbanisation

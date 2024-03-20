@@ -1,1 +1,1 @@
-{"From":["Spol","COMPOSITE_BREAKDOWN","Razina obrazovanja","Stupanj urbanizacije"],"To":["COMPOSITE_BREAKDOWN","Razina obrazovanja","Stupanj urbanizacije","Godine"]}
+{"From":["COMPOSITE_BREAKDOWN","Spol","COMPOSITE_BREAKDOWN","COMPOSITE_BREAKDOWN"],"To":["Spol","Godine","Razina obrazovanja","Stupanj urbanizacije"]}
