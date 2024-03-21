@@ -5,34 +5,40 @@ Year,SERIES,UNIT_MEASURE,Sex,Economic activity,Value
 2020.0,Manufacturing employment as a proportion of total employment - 13th ICLS(%),,Both sexes or no breakdown by sex,Manufacturing,101.729
 2021.0,Manufacturing employment as a proportion of total employment - 13th ICLS(%),,Both sexes or no breakdown by sex,Manufacturing,103.541
 2022.0,Manufacturing employment as a proportion of total employment - 13th ICLS(%),,Both sexes or no breakdown by sex,Manufacturing,106.439
+2023.0,Manufacturing employment as a proportion of total employment - 13th ICLS(%),,Both sexes or no breakdown by sex,Manufacturing,106.23
 2017.0,Manufacturing employment as a proportion of total employment - 13th ICLS(%),,Female,Manufacturing,33.141
 2018.0,Manufacturing employment as a proportion of total employment - 13th ICLS(%),,Female,Manufacturing,35.599
 2019.0,Manufacturing employment as a proportion of total employment - 13th ICLS(%),,Female,Manufacturing,36.793
 2020.0,Manufacturing employment as a proportion of total employment - 13th ICLS(%),,Female,Manufacturing,35.472
 2021.0,Manufacturing employment as a proportion of total employment - 13th ICLS(%),,Female,Manufacturing,35.957
 2022.0,Manufacturing employment as a proportion of total employment - 13th ICLS(%),,Female,Manufacturing,38.023
+2023.0,Manufacturing employment as a proportion of total employment - 13th ICLS(%),,Female,Manufacturing,38.21
 2017.0,SL_TLF_MANF_EMP,Percent,Both sexes or no breakdown by sex,Manufacturing,19.8
 2018.0,SL_TLF_MANF_EMP,Percent,Both sexes or no breakdown by sex,Manufacturing,20.2
 2019.0,SL_TLF_MANF_EMP,Percent,Both sexes or no breakdown by sex,Manufacturing,20.0
 2020.0,SL_TLF_MANF_EMP,Percent,Both sexes or no breakdown by sex,Manufacturing,19.6
 2021.0,SL_TLF_MANF_EMP,Percent,Both sexes or no breakdown by sex,Manufacturing,19.7
 2022.0,SL_TLF_MANF_EMP,Percent,Both sexes or no breakdown by sex,Manufacturing,19.9
+2023.0,SL_TLF_MANF_EMP,Percent,Both sexes or no breakdown by sex,Manufacturing,19.6
 2017.0,SL_TLF_MANF_EMP,Percent,Female,Manufacturing,16.0
 2018.0,SL_TLF_MANF_EMP,Percent,Female,Manufacturing,16.5
 2019.0,SL_TLF_MANF_EMP,Percent,Female,Manufacturing,16.5
 2020.0,SL_TLF_MANF_EMP,Percent,Female,Manufacturing,16.3
 2021.0,SL_TLF_MANF_EMP,Percent,Female,Manufacturing,16.2
 2022.0,SL_TLF_MANF_EMP,Percent,Female,Manufacturing,16.4
+2023.0,SL_TLF_MANF_EMP,Percent,Female,Manufacturing,16.0
 2017.0,SL_TLF_TOT,,Both sexes or no breakdown by sex,Manufacturing,505.201
 2018.0,SL_TLF_TOT,,Both sexes or no breakdown by sex,Manufacturing,519.8
 2019.0,SL_TLF_TOT,,Both sexes or no breakdown by sex,Manufacturing,531.483
 2020.0,SL_TLF_TOT,,Both sexes or no breakdown by sex,Manufacturing,520.162
 2021.0,SL_TLF_TOT,,Both sexes or no breakdown by sex,Manufacturing,525.397
 2022.0,SL_TLF_TOT,,Both sexes or no breakdown by sex,Manufacturing,535.665
+2023.0,SL_TLF_TOT,,Both sexes or no breakdown by sex,Manufacturing,541.261
 2017.0,SL_TLF_TOT,,Female,Manufacturing,206.572
 2018.0,SL_TLF_TOT,,Female,Manufacturing,215.317
 2019.0,SL_TLF_TOT,,Female,Manufacturing,222.516
 2020.0,SL_TLF_TOT,,Female,Manufacturing,218.28
 2021.0,SL_TLF_TOT,,Female,Manufacturing,222.303
 2022.0,SL_TLF_TOT,,Female,Manufacturing,232.282
+2023.0,SL_TLF_TOT,,Female,Manufacturing,238.477
 ,,,,,
