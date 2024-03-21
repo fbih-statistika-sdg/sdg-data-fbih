@@ -1,21 +1,29 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,156.36,Hiljade hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2010,156.36,Hiljade hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2015,156.36,Hiljade hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2016,156.36,Hiljade hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2017,156.36,Hiljade hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2018,156.36,Hiljade hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2019,156.36,Hiljade hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2020,156.36,Hiljade hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2010,-0.0427,Procenat,Neto promjene šumske površine (%)
-2020,0.3982,Procenat,Neto promjene šumske površine (%)
-2000,0.0,Hiljade hektara,Površina šume certificirana prema nezavisno potvrđenoj certifikacijskoj šemi (hektari)
-2005,0.0,Hiljade hektara,Površina šume certificirana prema nezavisno potvrđenoj certifikacijskoj šemi (hektari)
-2010,108.692,Hiljade hektara,Površina šume certificirana prema nezavisno potvrđenoj certifikacijskoj šemi (hektari)
-2015,1496.115,Hiljade hektara,Površina šume certificirana prema nezavisno potvrđenoj certifikacijskoj šemi (hektari)
-2016,1495.526,Hiljade hektara,Površina šume certificirana prema nezavisno potvrđenoj certifikacijskoj šemi (hektari)
-2017,1532.625,Hiljade hektara,Površina šume certificirana prema nezavisno potvrđenoj certifikacijskoj šemi (hektari)
-2018,1654.459,Hiljade hektara,Površina šume certificirana prema nezavisno potvrđenoj certifikacijskoj šemi (hektari)
-2019,1768.071,Hiljade hektara,Površina šume certificirana prema nezavisno potvrđenoj certifikacijskoj šemi (hektari)
-2020,1888.803,Hiljade hektara,Površina šume certificirana prema nezavisno potvrđenoj certifikacijskoj šemi (hektari)
-2021,2008.714,Hiljade hektara,Površina šume certificirana prema nezavisno potvrđenoj certifikacijskoj šemi (hektari)
+2013.0,1.246,Hiljade hektara,Površina državnog šumskog zemljišta
+2014.0,1.247,Hiljade hektara,Površina državnog šumskog zemljišta
+2015.0,1.243,Hiljade hektara,Površina državnog šumskog zemljišta
+2016.0,1.241,Hiljade hektara,Površina državnog šumskog zemljišta
+2017.0,1.241,Hiljade hektara,Površina državnog šumskog zemljišta
+2018.0,1.236,Hiljade hektara,Površina državnog šumskog zemljišta
+2019.0,1.234,Hiljade hektara,Površina državnog šumskog zemljišta
+2020.0,1.234,Hiljade hektara,Površina državnog šumskog zemljišta
+2021.0,1.241,Hiljade hektara,Površina državnog šumskog zemljišta
+2013.0,277,Hiljade hektara,Površina privatnih šuma
+2014.0,277,Hiljade hektara,Površina privatnih šuma
+2015.0,277,Hiljade hektara,Površina privatnih šuma
+2016.0,277,Hiljade hektara,Površina privatnih šuma
+2017.0,277,Hiljade hektara,Površina privatnih šuma
+2018.0,277,Hiljade hektara,Površina privatnih šuma
+2019.0,277,Hiljade hektara,Površina privatnih šuma
+2020.0,277,Hiljade hektara,Površina privatnih šuma
+2021.0,277,Hiljade hektara,Površina privatnih šuma
+2013.0,74.718.7,Hektar,Zaštićene površine u FBiH
+2014.0,79.693.5,Hektar,Zaštićene površine u FBiH
+2015.0,79.693.5,Hektar,Zaštićene površine u FBiH
+2016.0,79.854.4,Hektar,Zaštićene površine u FBiH
+2017.0,79.854.4,Hektar,Zaštićene površine u FBiH
+2018.0,98.621.3,Hektar,Zaštićene površine u FBiH
+2019.0,103.875.7,Hektar,Zaštićene površine u FBiH
+2020.0,103.900.0,Hektar,Zaštićene površine u FBiH
+,,,
+,,,

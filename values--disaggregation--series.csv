@@ -4,9 +4,6 @@ AG_FOOD_WST_PC,Food waste per capita (KG),Otpad od hrane po stanovniku (KG),От
 AG_FPA_CFPI,Consumer Food Price Index,Indeks potrošačkih cijena hrane,индекс потрошачких цијена хране,Indeks potrošačkih cijena hrane,1,1
 AG_LND_DGRD,Proportion of land that is degraded over total land area,Udio zemljišta koje je degradirano na ukupnoj površini zemljišta,Удио земљишта које је деградирано на укупној површини земљишта,Udio zemljišta koje je degradirano na ukupnoj površini zemljišta,1,1
 AG_LND_FRST,Forest area as a proportion of total land area,Udio šumske površine u ukupnoj površini zemljišta,Удио шумске површине у укупној површини земљишта,Udio šumske površine u ukupnoj površini zemljišta,1,1
-AG_LND_FRSTBIOPHA,Above-ground biomass in forest per hectare (tonnes per hectare),Nadzemna biomasa u šumi po hektaru (tone po hektaru),Надземна биомаса у шуми по хектару (тоне по хектару),Nadzemna biomasa u šumi po hektaru (tone po hektaru),1,1
-AG_LND_FRSTCERT,Forest area certified under an independently verified certification scheme (hectares),Površina šume certificirana prema nezavisno potvrđenoj certifikacijskoj šemi (hektari),Површина шуме цертификована према независно потврђеној цертификационој шеми (хектари),Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari),1,1
-AG_LND_FRSTCHG,Forest area net change rate (%),Neto promjene šumske površine (%),Нето промјене шумске површине (%),Neto promjene šumske površine (%),1,1
 AG_LND_FRSTN,Forest area (hectares),Šumska površina (hektari),Шумска површина (хектари),Šumska površina (hektari),1,1
 AG_LND_TOTL,Land area (hectares),Površina zemljišta (hektari),Површина земљишта (хектари),Površina zemljišta (hektari),1,1
 AG_PRD_AGVAS,Agriculture value added share of GDP,Udio dodane vrijednosti poljoprivrede u BDP-u,Удио додане вриједности пољопривреде у БДП-у,Udio dodane vrijednosti poljoprivrede u BDP-u,1,1
@@ -14,6 +11,9 @@ AG_PRD_FIESMS,Prevalence of moderate or severe food insecurity (%),Rasprostranje
 AG_PRD_FIESMSN,Number of moderately or severely food insecure people (thousands of people),Ukupna populacija u umjerenoj ili ozbiljnoj nesigurnosti hrane (na hiljadu ljudi),Укупна популација са умјереном или озбиљном несигурношћу хране (на хиљаде људи),Ukupna populacija s umjerenom ili ozbiljnom nedostatkom hrane (u tisućama ljudi),3,1
 AG_PRD_FIESS,Prevalence of severe food insecurity (%),Rasprostranjenost od ozbiljne nesigurnosti hranom u odrasloj populaciji (%),Распрострањеност озбиљне несигурности храном код одрасле популације (%),Rasprostranjenost ozbiljne nesigurnosti hranom kod odrasle populacije (%),3,1
 AG_PRD_FIESSN,Number of severely food insecure people (thousands of people),Ukupna populacija u ozbiljnoj nesigurnosti u pogledu hrane (na hiljadu ljudi),Укупна популација у озбиљној несигурности хране (на хиљаде људи),Ukupna populacija u ozbiljnoj nesigurnosti hranom (tisuće ljudi),3,1
+AG_PRIV_FRST,AG_PRIV_FRST,Površina privatnih šuma,AG_PRIV_FRST,AG_PRIV_FRST,1,1
+AG_PROT,AG_PROT,Zaštićene površine u FBiH,AG_PROT,AG_PROT,1,1
+AG_STATE_FRST,AG_STATE_FRST,Površina državnog šumskog zemljišta,AG_STATE_FRST,AG_STATE_FRST,1,1
 BN_CAB_XOKA_GD_ZS,Current account balance as a proportion of GDP (%),Stanje tekućeg računa kao proporcija BDP-a (%),Стање текућег рачуна као пропорција БДП-а (%),Saldo tekućeg računa kao udio BDP-a (%),1,1
 BN_KLT_PTXL_CD,"Portfolio investment, net (Balance of Payments, current United States dollars)","Portfolio ulaganja, neto (platni bilans, tekući američki dolari)","Портфолио инвестиције, нето (платни биланс, тренутни амерички долари)","Portfeljna ulaganja, neto (platna bilanca, trenutni američki dolari)",1,1
 BX_KLT_DINV_WD_GD_ZS,"Foreign direct investment, net inflows, as a proportion of GDP (%)","Direktne strane investicije, neto prilivi, kao proporcija BDP-a (%)","Директне стране инвестиције, нето приливи, као пропорција БДП-а (%)","Izravna strana ulaganja, neto priljevi, kao udio u BDP-u (%)",1,1

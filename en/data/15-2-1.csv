@@ -1,21 +1,29 @@
 Year,SERIES,UNIT_MEASURE,Value
-2000,Above-ground biomass in forest per hectare (tonnes per hectare),HA_TH,156.36
-2010,Above-ground biomass in forest per hectare (tonnes per hectare),HA_TH,156.36
-2015,Above-ground biomass in forest per hectare (tonnes per hectare),HA_TH,156.36
-2016,Above-ground biomass in forest per hectare (tonnes per hectare),HA_TH,156.36
-2017,Above-ground biomass in forest per hectare (tonnes per hectare),HA_TH,156.36
-2018,Above-ground biomass in forest per hectare (tonnes per hectare),HA_TH,156.36
-2019,Above-ground biomass in forest per hectare (tonnes per hectare),HA_TH,156.36
-2020,Above-ground biomass in forest per hectare (tonnes per hectare),HA_TH,156.36
-2010,Forest area net change rate (%),Percent,-0.0427
-2020,Forest area net change rate (%),Percent,0.3982
-2000,Forest area certified under an independently verified certification scheme (hectares),HA_TH,0.0
-2005,Forest area certified under an independently verified certification scheme (hectares),HA_TH,0.0
-2010,Forest area certified under an independently verified certification scheme (hectares),HA_TH,108.692
-2015,Forest area certified under an independently verified certification scheme (hectares),HA_TH,1496.115
-2016,Forest area certified under an independently verified certification scheme (hectares),HA_TH,1495.526
-2017,Forest area certified under an independently verified certification scheme (hectares),HA_TH,1532.625
-2018,Forest area certified under an independently verified certification scheme (hectares),HA_TH,1654.459
-2019,Forest area certified under an independently verified certification scheme (hectares),HA_TH,1768.071
-2020,Forest area certified under an independently verified certification scheme (hectares),HA_TH,1888.803
-2021,Forest area certified under an independently verified certification scheme (hectares),HA_TH,2008.714
+2013.0,AG_STATE_FRST,HA_TH,1.246
+2014.0,AG_STATE_FRST,HA_TH,1.247
+2015.0,AG_STATE_FRST,HA_TH,1.243
+2016.0,AG_STATE_FRST,HA_TH,1.241
+2017.0,AG_STATE_FRST,HA_TH,1.241
+2018.0,AG_STATE_FRST,HA_TH,1.236
+2019.0,AG_STATE_FRST,HA_TH,1.234
+2020.0,AG_STATE_FRST,HA_TH,1.234
+2021.0,AG_STATE_FRST,HA_TH,1.241
+2013.0,AG_PRIV_FRST,HA_TH,277
+2014.0,AG_PRIV_FRST,HA_TH,277
+2015.0,AG_PRIV_FRST,HA_TH,277
+2016.0,AG_PRIV_FRST,HA_TH,277
+2017.0,AG_PRIV_FRST,HA_TH,277
+2018.0,AG_PRIV_FRST,HA_TH,277
+2019.0,AG_PRIV_FRST,HA_TH,277
+2020.0,AG_PRIV_FRST,HA_TH,277
+2021.0,AG_PRIV_FRST,HA_TH,277
+2013.0,AG_PROT,HACTARE,74.718.7
+2014.0,AG_PROT,HACTARE,79.693.5
+2015.0,AG_PROT,HACTARE,79.693.5
+2016.0,AG_PROT,HACTARE,79.854.4
+2017.0,AG_PROT,HACTARE,79.854.4
+2018.0,AG_PROT,HACTARE,98.621.3
+2019.0,AG_PROT,HACTARE,103.875.7
+2020.0,AG_PROT,HACTARE,103.900.0
+,,,
+,,,

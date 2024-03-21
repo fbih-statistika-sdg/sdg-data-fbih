@@ -1,21 +1,29 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,156.36,Tisuće hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2010,156.36,Tisuće hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2015,156.36,Tisuće hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2016,156.36,Tisuće hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2017,156.36,Tisuće hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2018,156.36,Tisuće hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2019,156.36,Tisuće hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2020,156.36,Tisuće hektara,Nadzemna biomasa u šumi po hektaru (tone po hektaru)
-2010,-0.0427,Postotak,Neto promjene šumske površine (%)
-2020,0.3982,Postotak,Neto promjene šumske površine (%)
-2000,0.0,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
-2005,0.0,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
-2010,108.692,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
-2015,1496.115,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
-2016,1495.526,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
-2017,1532.625,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
-2018,1654.459,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
-2019,1768.071,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
-2020,1888.803,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
-2021,2008.714,Tisuće hektara,Površina šume certificirana prema neovisno potvrđenoj certifikacijskoj shemi (hektari)
+2013.0,1.246,Tisuće hektara,AG_STATE_FRST
+2014.0,1.247,Tisuće hektara,AG_STATE_FRST
+2015.0,1.243,Tisuće hektara,AG_STATE_FRST
+2016.0,1.241,Tisuće hektara,AG_STATE_FRST
+2017.0,1.241,Tisuće hektara,AG_STATE_FRST
+2018.0,1.236,Tisuće hektara,AG_STATE_FRST
+2019.0,1.234,Tisuće hektara,AG_STATE_FRST
+2020.0,1.234,Tisuće hektara,AG_STATE_FRST
+2021.0,1.241,Tisuće hektara,AG_STATE_FRST
+2013.0,277,Tisuće hektara,AG_PRIV_FRST
+2014.0,277,Tisuće hektara,AG_PRIV_FRST
+2015.0,277,Tisuće hektara,AG_PRIV_FRST
+2016.0,277,Tisuće hektara,AG_PRIV_FRST
+2017.0,277,Tisuće hektara,AG_PRIV_FRST
+2018.0,277,Tisuće hektara,AG_PRIV_FRST
+2019.0,277,Tisuće hektara,AG_PRIV_FRST
+2020.0,277,Tisuće hektara,AG_PRIV_FRST
+2021.0,277,Tisuće hektara,AG_PRIV_FRST
+2013.0,74.718.7,HACTARE,AG_PROT
+2014.0,79.693.5,HACTARE,AG_PROT
+2015.0,79.693.5,HACTARE,AG_PROT
+2016.0,79.854.4,HACTARE,AG_PROT
+2017.0,79.854.4,HACTARE,AG_PROT
+2018.0,98.621.3,HACTARE,AG_PROT
+2019.0,103.875.7,HACTARE,AG_PROT
+2020.0,103.900.0,HACTARE,AG_PROT
+,,,
+,,,
