@@ -1,7 +1,41 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Spol,Value
+2013.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.3
+2014.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.3
+2015.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.2
+2016.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.2
+2017.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.3
+2018.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.2
+2019.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.3
+2020.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,1.7
+2021.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,1.9
+2013.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,30.3
+2014.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,30.2
+2015.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,30.2
+2016.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,30.5
+2017.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,32.2
+2018.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,31.9
+2019.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,31.9
+2020.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,37.5
+2021.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,37.8
+2022.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,39.6
+2013.0,Stope zaposlenosti,Procenat,Muškarci,39.7
+2014.0,Stope zaposlenosti,Procenat,Muškarci,40.1
+2015.0,Stope zaposlenosti,Procenat,Muškarci,39.4
+2016.0,Stope zaposlenosti,Procenat,Muškarci,41.1
+2017.0,Stope zaposlenosti,Procenat,Muškarci,41.7
+2018.0,Stope zaposlenosti,Procenat,Muškarci,42.0
+2019.0,Stope zaposlenosti,Procenat,Muškarci,41.6
+2020.0,Stope zaposlenosti,Procenat,Muškarci,50.2
+2021.0,Stope zaposlenosti,Procenat,Muškarci,51.0
+2022.0,Stope zaposlenosti,Procenat,Muškarci,52.5
+2013.0,Stope zaposlenosti,Procenat,Žene,21.3
+2014.0,Stope zaposlenosti,Procenat,Žene,20.9
+2015.0,Stope zaposlenosti,Procenat,Žene,21.4
+2016.0,Stope zaposlenosti,Procenat,Žene,20.6
+2017.0,Stope zaposlenosti,Procenat,Žene,23.1
+2018.0,Stope zaposlenosti,Procenat,Žene,22.5
+2019.0,Stope zaposlenosti,Procenat,Žene,23.0
+2020.0,Stope zaposlenosti,Procenat,Žene,25.5
+2021.0,Stope zaposlenosti,Procenat,Žene,25.2
+2022.0,Stope zaposlenosti,Procenat,Žene,27.4
+,,,,

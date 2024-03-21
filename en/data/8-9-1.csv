@@ -1,7 +1,41 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Sex,Value
+2013.0,NY_GDP_TOUR,Percent,,2.3
+2014.0,NY_GDP_TOUR,Percent,,2.3
+2015.0,NY_GDP_TOUR,Percent,,2.2
+2016.0,NY_GDP_TOUR,Percent,,2.2
+2017.0,NY_GDP_TOUR,Percent,,2.3
+2018.0,NY_GDP_TOUR,Percent,,2.2
+2019.0,NY_GDP_TOUR,Percent,,2.3
+2020.0,NY_GDP_TOUR,Percent,,1.7
+2021.0,NY_GDP_TOUR,Percent,,1.9
+2013.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,30.3
+2014.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,30.2
+2015.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,30.2
+2016.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,30.5
+2017.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,32.2
+2018.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,31.9
+2019.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,31.9
+2020.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,37.5
+2021.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,37.8
+2022.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,39.6
+2013.0,SL_TLF_EMP,Percent,Male,39.7
+2014.0,SL_TLF_EMP,Percent,Male,40.1
+2015.0,SL_TLF_EMP,Percent,Male,39.4
+2016.0,SL_TLF_EMP,Percent,Male,41.1
+2017.0,SL_TLF_EMP,Percent,Male,41.7
+2018.0,SL_TLF_EMP,Percent,Male,42.0
+2019.0,SL_TLF_EMP,Percent,Male,41.6
+2020.0,SL_TLF_EMP,Percent,Male,50.2
+2021.0,SL_TLF_EMP,Percent,Male,51.0
+2022.0,SL_TLF_EMP,Percent,Male,52.5
+2013.0,SL_TLF_EMP,Percent,Female,21.3
+2014.0,SL_TLF_EMP,Percent,Female,20.9
+2015.0,SL_TLF_EMP,Percent,Female,21.4
+2016.0,SL_TLF_EMP,Percent,Female,20.6
+2017.0,SL_TLF_EMP,Percent,Female,23.1
+2018.0,SL_TLF_EMP,Percent,Female,22.5
+2019.0,SL_TLF_EMP,Percent,Female,23.0
+2020.0,SL_TLF_EMP,Percent,Female,25.5
+2021.0,SL_TLF_EMP,Percent,Female,25.2
+2022.0,SL_TLF_EMP,Percent,Female,27.4
+,,,,
