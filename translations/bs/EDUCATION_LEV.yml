@@ -12,3 +12,7 @@ SPEC_HIGH: Specijalizacija poslije srednje škole
 HIGH_SCH: Viša škola i prvi stepen fakulteta
 UNI_SCH: Visoka škola/ fakultet/akademija/ univerzitet    
 MID_SCH: Srednje obrazovanje
+PRIMARFIRST: Upisani u 1. razred osnovne škole
+PRIMARFIN: Završili osnovnu školu
+HIGHFIRST: Upisani u 1. razred srednje škole
+HIGHFIN: Završili srednju školu
