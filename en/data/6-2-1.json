@@ -1,1 +1,1 @@
-{"Year":[2011,2015,2011,2015],"SERIES":["SH_SAN_BATH","SH_SAN_BATH","SH_TOIL","SH_TOIL"],"UNIT_MEASURE":["Percent","Percent","Percent","Percent"],"Value":[98.8,98.5,23.7,94.6]}
+{"Year":["2011","2015","2021/22","2011","2015","2021/22",null],"SERIES":["SH_SAN_BATH","SH_SAN_BATH","SH_SAN_BATH","SH_TOIL","SH_TOIL","SH_TOIL",null],"UNIT_MEASURE":["Percent","Percent","Percent","Percent","Percent","Percent",null],"Value":[98.8,98.5,99.1,23.7,94.6,96.8,null]}
