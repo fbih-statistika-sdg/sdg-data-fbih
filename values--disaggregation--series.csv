@@ -192,6 +192,7 @@ NV_IND_MANF,Manufacturing value added (constant 2015 United States dollars) as a
 NV_IND_MANFBDP,NV_IND_MANFBDP,"Bruto dodana vrijednost prerađivačke industrije, učešće u BDP- po glavi stanovnika",NV_IND_MANFBDP,NV_IND_MANFBDP,1,1
 NV_IND_SSIS,Proportion of small-scale industries in total industry value added,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,Удио малих индустрија у укупној додатој вриједности индустрије,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,1,1
 NV_IND_TECH,Proportion of medium and high-tech industry value added in total value added,Udio dodate vrijednosti srednje i visokotehnološke industrije u odnosu na ukupnu dodatnu vrijednost,Удио додате вриједности средње и високотехнолошке индустрије у односу на укупну додатну вриједност,Udio dodate vrijednosti srednje i visokotehnološke industrije u odnosu na ukupnu dodatnu vrijednost,1,1
+NY_GDP_AGR,NY_GDP_AGR,"Bruto dodana vrijednost dijelatnosti I - Djelatnosti pružanja smještaja te priprema i usluživanje hrane, godišnje stope realnog rasta",NY_GDP_AGR,NY_GDP_AGR,1,1
 NY_GDP_CCPV,NY_GDP_CCPV,"Realni bruto domaći proizvod po stanovniku, lančano povezane vrijednosti u cijenama 2015",NY_GDP_CCPV,NY_GDP_CCPV,1,1
 NY_GDP_MKTP_KD_ZG,Annual GDP growth (%),Godišnji rast BDP-a (%),Годишњи раст БДП-а (%),Godišnji rast BDP-a (%),1,1
 NY_GDP_TOUR,NY_GDP_TOUR,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",NY_GDP_TOUR,NY_GDP_TOUR,1,1
