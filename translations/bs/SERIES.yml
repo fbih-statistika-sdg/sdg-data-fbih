@@ -1,6 +1,9 @@
 AG_FPA_CFPI: Indeks potrošačkih cijena hrane
 AG_LND_DGRD: Udio zemljišta koje je degradirano na ukupnoj površini zemljišta
 AG_LND_FRST: Udio šumske površine u ukupnoj površini zemljišta
+AG_STATE_FRST: Površina državnog šumskog zemljišta
+AG_PRIV_FRST: Površina privatnih šuma
+AG_PROT: Zaštićene površine u FBiH
 AG_LND_FRSTBIOPHA: Nadzemna biomasa u šumi po hektaru (tone po hektaru)
 AG_LND_FRSTCERT: Površina šume certificirana prema nezavisno potvrđenoj certifikacijskoj šemi (hektari)
 AG_LND_FRSTCHG: Neto promjene šumske površine (%)
