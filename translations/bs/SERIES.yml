@@ -183,6 +183,7 @@ NV_IND_SSIS: Udio malih industrija u ukupnoj dodanoj vrijednosti industrije
 NV_IND_TECH: Udio dodate vrijednosti srednje i visokotehnološke industrije u odnosu na ukupnu dodatnu vrijednost
 NY_GDP_PCAP: Godišnja stopa rasta realnog BDP-a po stanovniku
 NY_GDP_TOUR: Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u
+NY_GDP_AGR: Bruto dodana vrijednost dijelatnosti I - Djelatnosti pružanja smještaja te priprema i usluživanje hrane, godišnje stope realnog rasta
 NY_GDP_CCPV: Realni bruto domaći proizvod po stanovniku, lančano povezane vrijednosti u cijenama 2015
 PD_AGR_LSFP: Produktivnost velikih proizvođača hrane (poljoprivredna proizvodnja po radnom danu, PPP) (konstanta u 2011. međunarodnim USD) 
 PD_AGR_SSFP: Produktivnost malih proizvođača hrane (poljoprivredna proizvodnja po radnom danu, PPP) (konstanta iz 2011. u međunarodnim USD) 
