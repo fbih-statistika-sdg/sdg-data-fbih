@@ -8,7 +8,6 @@ Year,SERIES,UNIT_MEASURE,Spol,Stepen urbanizacije,Value
 2019.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,2.3
 2020.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,1.7
 2021.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,1.9
-2022.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,2.3
 2013.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,30.3
 2014.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,30.2
 2015.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,30.2
@@ -49,6 +48,7 @@ Year,SERIES,UNIT_MEASURE,Spol,Stepen urbanizacije,Value
 2020.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,306.0
 2021.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,667.0
 2022.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,1.024
+2023.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,1.262
 2013.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,166.0
 2014.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,163.0
 2015.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,186.0
@@ -59,6 +59,7 @@ Year,SERIES,UNIT_MEASURE,Spol,Stepen urbanizacije,Value
 2020.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,177.0
 2021.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,289.0
 2022.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,338.0
+2023.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,350.0
 2013.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,411.0
 2014.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,413.0
 2015.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,537.0
@@ -69,6 +70,7 @@ Year,SERIES,UNIT_MEASURE,Spol,Stepen urbanizacije,Value
 2020.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,129.0
 2021.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,378.0
 2022.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,686.0
+2023.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,912.0
 2013.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,1.135
 2014.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,1.095
 2015.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,1.439
@@ -79,6 +81,7 @@ Year,SERIES,UNIT_MEASURE,Spol,Stepen urbanizacije,Value
 2020.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,704.0
 2021.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,1.496
 2022.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,2.163
+2023.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,2.56
 2013.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,309.0
 2014.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,292.0
 2015.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,342.0
@@ -89,6 +92,7 @@ Year,SERIES,UNIT_MEASURE,Spol,Stepen urbanizacije,Value
 2020.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,413.0
 2021.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,571.0
 2022.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,660.0
+2023.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,680.0
 2013.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,826.0
 2014.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,803.0
 2015.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,1.097
@@ -99,6 +103,7 @@ Year,SERIES,UNIT_MEASURE,Spol,Stepen urbanizacije,Value
 2020.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,291.0
 2021.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,925.0
 2022.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,1.503
+2023.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,1.88
 2013.0,"Bruto dodana vrijednost dijelatnosti I - Djelatnosti pružanja smještaja te priprema i usluživanje hrane, godišnje stope realnog rasta",Procenat,,,-2.1
 2014.0,"Bruto dodana vrijednost dijelatnosti I - Djelatnosti pružanja smještaja te priprema i usluživanje hrane, godišnje stope realnog rasta",Procenat,,,0.0
 2015.0,"Bruto dodana vrijednost dijelatnosti I - Djelatnosti pružanja smještaja te priprema i usluživanje hrane, godišnje stope realnog rasta",Procenat,,,2.2
