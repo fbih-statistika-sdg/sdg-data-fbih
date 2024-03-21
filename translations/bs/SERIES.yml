@@ -462,6 +462,7 @@ ER_IAS_GLOFUN: Zemlje primateljice globalnog finansiranja sa pristupom bilo kakv
 ER_MRN_MPA: Prosječan udio ključnih morskih područja biodiverziteta (KBA) pokrivenih zaštićenim područjima (%)
 ER_MRN_MARIN: Pokrivenost zaštićenih područja u odnosu na morska područja (isključive ekonomske zone) (%)
 ER_MRN_MARINT: Zaštićeno morsko područje (ekskluzivne ekonomske zone) (kvadratni kilometri)
+ER_MRN_TOT: Ukupna površina mora
 SP_TRN_PUBL: Udio stanovništva koji ima povoljan pristup javnom prijevozu (%)
 FB_BNK_CAPA_ZS: Omjer kapitala banke i aktive (%)
 FM_LBL_BMNY_ZG: Godišnji rast novca (%)
