@@ -8,6 +8,7 @@ Year,SERIES,UNIT_MEASURE,Врста третмана отпада,Value
 2019.0,EN_WWT_WATER,T_M3,,54.04
 2020.0,EN_WWT_WATER,T_M3,,48.613
 2021.0,EN_WWT_WATER,T_M3,,35.982
+2022.0,EN_WWT_WATER,T_M3,,40.549
 2013.0,EN_WWT_DIV_W,Проценат,PUR,4.5
 2014.0,EN_WWT_DIV_W,Проценат,PUR,4.7
 2015.0,EN_WWT_DIV_W,Проценат,PUR,5.5
@@ -17,6 +18,7 @@ Year,SERIES,UNIT_MEASURE,Врста третмана отпада,Value
 2019.0,EN_WWT_DIV_W,Проценат,PUR,59.9
 2020.0,EN_WWT_DIV_W,Проценат,PUR,55.8
 2021.0,EN_WWT_DIV_W,Проценат,PUR,49.0
+2022.0,EN_WWT_DIV_W,Проценат,PUR,52.7
 2013.0,EN_WWT_DIV_W,Проценат,UNPUR,95.5
 2014.0,EN_WWT_DIV_W,Проценат,UNPUR,95.3
 2015.0,EN_WWT_DIV_W,Проценат,UNPUR,94.5
@@ -26,5 +28,5 @@ Year,SERIES,UNIT_MEASURE,Врста третмана отпада,Value
 2019.0,EN_WWT_DIV_W,Проценат,UNPUR,40.1
 2020.0,EN_WWT_DIV_W,Проценат,UNPUR,44.2
 2021.0,EN_WWT_DIV_W,Проценат,UNPUR,51.0
-,,,,
+2022.0,EN_WWT_DIV_W,Проценат,UNPUR,47.3
 ,,,,
