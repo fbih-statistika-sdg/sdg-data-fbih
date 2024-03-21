@@ -1,41 +1,103 @@
-Year,SERIES,UNIT_MEASURE,Spol,Value
-2013.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.3
-2014.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.3
-2015.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.2
-2016.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.2
-2017.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.3
-2018.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.2
-2019.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,2.3
-2020.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,1.7
-2021.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,1.9
-2013.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,30.3
-2014.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,30.2
-2015.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,30.2
-2016.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,30.5
-2017.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,32.2
-2018.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,31.9
-2019.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,31.9
-2020.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,37.5
-2021.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,37.8
-2022.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,39.6
-2013.0,Stope zaposlenosti,Procenat,Muškarci,39.7
-2014.0,Stope zaposlenosti,Procenat,Muškarci,40.1
-2015.0,Stope zaposlenosti,Procenat,Muškarci,39.4
-2016.0,Stope zaposlenosti,Procenat,Muškarci,41.1
-2017.0,Stope zaposlenosti,Procenat,Muškarci,41.7
-2018.0,Stope zaposlenosti,Procenat,Muškarci,42.0
-2019.0,Stope zaposlenosti,Procenat,Muškarci,41.6
-2020.0,Stope zaposlenosti,Procenat,Muškarci,50.2
-2021.0,Stope zaposlenosti,Procenat,Muškarci,51.0
-2022.0,Stope zaposlenosti,Procenat,Muškarci,52.5
-2013.0,Stope zaposlenosti,Procenat,Žene,21.3
-2014.0,Stope zaposlenosti,Procenat,Žene,20.9
-2015.0,Stope zaposlenosti,Procenat,Žene,21.4
-2016.0,Stope zaposlenosti,Procenat,Žene,20.6
-2017.0,Stope zaposlenosti,Procenat,Žene,23.1
-2018.0,Stope zaposlenosti,Procenat,Žene,22.5
-2019.0,Stope zaposlenosti,Procenat,Žene,23.0
-2020.0,Stope zaposlenosti,Procenat,Žene,25.5
-2021.0,Stope zaposlenosti,Procenat,Žene,25.2
-2022.0,Stope zaposlenosti,Procenat,Žene,27.4
-,,,,
+Year,SERIES,UNIT_MEASURE,Spol,Stepen urbanizacije,Value
+2013.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,2.3
+2014.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,2.3
+2015.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,2.2
+2016.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,2.2
+2017.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,2.3
+2018.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,2.2
+2019.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,2.3
+2020.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,1.7
+2021.0,"Udio bruto dodane vrijednosti djelatnosti I- Djelatnost pružanja smještaja, te priprema i usluživanje hrane u BDP-u",Procenat,,,1.9
+2013.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,30.3
+2014.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,30.2
+2015.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,30.2
+2016.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,30.5
+2017.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,32.2
+2018.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,31.9
+2019.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,31.9
+2020.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,37.5
+2021.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,37.8
+2022.0,Stope zaposlenosti,Procenat,Oba spola ili bez podjele po spolu,,39.6
+2013.0,Stope zaposlenosti,Procenat,Muškarci,,39.7
+2014.0,Stope zaposlenosti,Procenat,Muškarci,,40.1
+2015.0,Stope zaposlenosti,Procenat,Muškarci,,39.4
+2016.0,Stope zaposlenosti,Procenat,Muškarci,,41.1
+2017.0,Stope zaposlenosti,Procenat,Muškarci,,41.7
+2018.0,Stope zaposlenosti,Procenat,Muškarci,,42.0
+2019.0,Stope zaposlenosti,Procenat,Muškarci,,41.6
+2020.0,Stope zaposlenosti,Procenat,Muškarci,,50.2
+2021.0,Stope zaposlenosti,Procenat,Muškarci,,51.0
+2022.0,Stope zaposlenosti,Procenat,Muškarci,,52.5
+2013.0,Stope zaposlenosti,Procenat,Žene,,21.3
+2014.0,Stope zaposlenosti,Procenat,Žene,,20.9
+2015.0,Stope zaposlenosti,Procenat,Žene,,21.4
+2016.0,Stope zaposlenosti,Procenat,Žene,,20.6
+2017.0,Stope zaposlenosti,Procenat,Žene,,23.1
+2018.0,Stope zaposlenosti,Procenat,Žene,,22.5
+2019.0,Stope zaposlenosti,Procenat,Žene,,23.0
+2020.0,Stope zaposlenosti,Procenat,Žene,,25.5
+2021.0,Stope zaposlenosti,Procenat,Žene,,25.2
+2022.0,Stope zaposlenosti,Procenat,Žene,,27.4
+2013.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,577.0
+2014.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,576.0
+2015.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,723.0
+2016.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,812.0
+2017.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,949.0
+2018.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,1.071
+2019.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,1.227
+2020.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,306.0
+2021.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,667.0
+2022.0,Dolasci  turista  u hilj./tis.,Hiljade,,Ukupno,1.024
+2013.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,166.0
+2014.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,163.0
+2015.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,186.0
+2016.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,199.0
+2017.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,210.0
+2018.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,228.0
+2019.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,256.0
+2020.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,177.0
+2021.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,289.0
+2022.0,Dolasci  turista  u hilj./tis.,Hiljade,,Domaći,338.0
+2013.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,411.0
+2014.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,413.0
+2015.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,537.0
+2016.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,613.0
+2017.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,739.0
+2018.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,843.0
+2019.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,971.0
+2020.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,129.0
+2021.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,378.0
+2022.0,Dolasci  turista  u hilj./tis.,Hiljade,,Strani,686.0
+2013.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,1.135
+2014.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,1.095
+2015.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,1.439
+2016.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,1.62
+2017.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,1.861
+2018.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,2.095
+2019.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,2.38
+2020.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,704.0
+2021.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,1.496
+2022.0,Noćenja turista u hilj./tis.,Hiljade,,Ukupno,2.163
+2013.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,309.0
+2014.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,292.0
+2015.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,342.0
+2016.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,346.0
+2017.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,364.0
+2018.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,413.0
+2019.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,479.0
+2020.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,413.0
+2021.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,571.0
+2022.0,Noćenja turista u hilj./tis.,Hiljade,,Domaći,660.0
+2013.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,826.0
+2014.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,803.0
+2015.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,1.097
+2016.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,1.274
+2017.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,1.497
+2018.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,1.682
+2019.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,1.901
+2020.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,291.0
+2021.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,925.0
+2022.0,Noćenja turista u hilj./tis.,Hiljade,,Strani,1.503
+,,,,,
+,,,,,
+,,,,,
