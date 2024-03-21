@@ -1,23 +1,23 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,946,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2001,714,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2002,709,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2003,645,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2004,956,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2005,731,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2006,1196,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2007,1281,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2008,1295,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2009,580,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2010,936,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2011,668,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2012,1091,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2013,986,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2014,551,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2015,946,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2016,656,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2017,1008,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2018,993,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2019,690,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2020,790,Millions of current United States dollars,"Total assistance for development, by recipient countries"
-2021,681,Millions of current United States dollars,"Total assistance for development, by recipient countries"
+2013.0,236.3,BAM_M,DC_TOF_TRDFOR
+2014.0,405.3,BAM_M,DC_TOF_TRDFOR
+2015.0,484.9,BAM_M,DC_TOF_TRDFOR
+2016.0,520.2,BAM_M,DC_TOF_TRDFOR
+2017.0,581.3,BAM_M,DC_TOF_TRDFOR
+2018.0,574.6,BAM_M,DC_TOF_TRDFOR
+2019.0,397.7,BAM_M,DC_TOF_TRDFOR
+2020.0,514.4,BAM_M,DC_TOF_TRDFOR
+2021.0,930.1,BAM_M,DC_TOF_TRDFOR
+2022.0,1001.2,BAM_M,DC_TOF_TRDFOR
+2013.0,6690.0,BAM_M,DC_TOF_TRDSTOCK
+2014.0,6984.3,BAM_M,DC_TOF_TRDSTOCK
+2015.0,7205.1,BAM_M,DC_TOF_TRDSTOCK
+2016.0,7758.2,BAM_M,DC_TOF_TRDSTOCK
+2017.0,8354.2,BAM_M,DC_TOF_TRDSTOCK
+2018.0,8921.6,BAM_M,DC_TOF_TRDSTOCK
+2019.0,9351.6,BAM_M,DC_TOF_TRDSTOCK
+2020.0,9934.4,BAM_M,DC_TOF_TRDSTOCK
+2021.0,10871.0,BAM_M,DC_TOF_TRDSTOCK
+2022.0,11256.4,BAM_M,DC_TOF_TRDSTOCK
+,,,
+,,,
