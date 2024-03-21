@@ -22,7 +22,7 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,933455.0,Tone,Prikupljeni komunalni otpad (tone)
 2020,922844.0,Tone,Prikupljeni komunalni otpad (tone)
 2021,940405.0,Tone,Prikupljeni komunalni otpad (tone)
-2016,1243889.0,Tone,Generisani komunalni otpad (tone)
-2019,1228309.0,Tone,Generisani komunalni otpad (tone)
-2020,1206147.0,Tone,Generisani komunalni otpad (tone)
-2021,1228916.0,Tone,Generisani komunalni otpad (tone)
+2016,1243889.0,Tone,EN_MWT_GENV
+2019,1228309.0,Tone,EN_MWT_GENV
+2020,1206147.0,Tone,EN_MWT_GENV
+2021,1228916.0,Tone,EN_MWT_GENV

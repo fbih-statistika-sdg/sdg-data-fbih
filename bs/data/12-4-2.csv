@@ -23,10 +23,10 @@ Year,SERIES,UNIT_MEASURE,Vrsta tretmana otpada,Privredna aktivnost,Value
 2019,Prikupljeni komunalni otpad (tone),Tone,,,933455.0
 2020,Prikupljeni komunalni otpad (tone),Tone,,,922844.0
 2021,Prikupljeni komunalni otpad (tone),Tone,,,940405.0
-2016,Generisani komunalni otpad (tone),Tone,,,1243889.0
-2019,Generisani komunalni otpad (tone),Tone,,,1228309.0
-2020,Generisani komunalni otpad (tone),Tone,,,1206147.0
-2021,Generisani komunalni otpad (tone),Tone,,,1228916.0
+2016,EN_MWT_GENV,Tone,,,1243889.0
+2019,EN_MWT_GENV,Tone,,,1228309.0
+2020,EN_MWT_GENV,Tone,,,1206147.0
+2021,EN_MWT_GENV,Tone,,,1228916.0
 2017,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Procenat,Odlaganje na deponije,,99.47
 2018,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Procenat,Odlaganje na deponije,,98.91
 2019,Udio obrađenog komunalnog otpada prema vrsti obrade (%),Procenat,Odlaganje na deponije,,95.93
