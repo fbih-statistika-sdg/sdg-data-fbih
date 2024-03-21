@@ -19,11 +19,11 @@ KM2,Square kilometers,Kvadratnih kilometara,Квадратних километ�
 LITRES,LITRES,Litri,Литри,Litri,3,1
 MJ_PER_GDP_CON_PPP_USD,Megajoules per USD constant PPP GDP,Megadžula po konstantni američkog dolara PPP BDP,Мегаџула по константни америчког долара ППП БДП,Megadžula po konstantni američkog dolara PPP BDP,1,1
 MT_CO2E,Million tons of CO2 equivalent,Milion tona ekvivalenta CO2,Милион тона еквивалента CO2,Milijuna tona ekvivalenta CO2,1,1
-NUMBER,Number,Broj,Број,Broj,112,28
+NUMBER,Number,Broj,Број,Broj,109,27
 P_KM,Passenger kilometres,Putnički kilometri,Путнички километри,Putnički kilometri,3,1
 PER_1000000_POP,Per million population,Na milion stanovnika,На милион становника,Na milijun stanovnika,1,1
 PER_100000_LIVE_BIRTHS,"Per 100,000 live births",Na 100 000 živorođenih,На 100.000 живорођених,Na 100 000 živorođenih,1,1
-PER_100000_POP,"Per 100,000 population",Na 100 000 stanovnika,На 100.000 становника,Na 100 000 stanovnika,25,11
+PER_100000_POP,"Per 100,000 population",Na 100 000 stanovnika,На 100.000 становника,Na 100 000 stanovnika,26,11
 PER_1000_LIVE_BIRTHS,"Per 1,000 live births",Na 1 000 živorođenih,На 1.000 живорођених,Na 1 000 živorođenih,2,2
 PER_1000_POP,"Per 1,000 population",Na 1 000 stanovnika,На 1.000 становника,Na 1 000 stanovnika,2,1
 PER_1000_UNINFECTED_POP,"Per 1,000 uninfected population",Na 1 000 nezaraženog stanovništva,На 1.000 незараженог становништва,Na 1 000 nezaraženog stanovništva,1,1
