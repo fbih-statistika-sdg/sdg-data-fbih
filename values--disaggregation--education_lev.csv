@@ -9,12 +9,12 @@ INC_PRIM_EDU,INC_PRIM_EDU,Nepotpuno osnovno obrazovanje,INC_PRIM_EDU,INC_PRIM_ED
 ISCED11_1,ISCED11_1,ISCED11_1,ISCED11_1,ISCED11_1,3,1
 ISCED11_2,ISCED11_2,ISCED11_2,ISCED11_2,ISCED11_2,4,1
 LOWSEC,Lower secondary education,Niže srednje obrazovanje,Ниже средње образовање,Niže srednje obrazovanje,24,1
-MID_SCH,MID_SCH,Srednje obrazovanje,MID_SCH,MID_SCH,5,2
+MID_SCH,MID_SCH,Srednje obrazovanje,MID_SCH,MID_SCH,6,3
 NO_EDU,NO_EDU,Bez ikakvog obrazovanja,NO_EDU,NO_EDU,3,1
-PRIMAR,Primary education,Osnovno obrazovanje,Основно образовање,Osnovno obrazovanje,28,4
+PRIMAR,Primary education,Osnovno obrazovanje,Основно образовање,Osnovno obrazovanje,29,5
 PRIMARFIN,PRIMARFIN,Završili osnovnu školu,PRIMARFIN,PRIMARFIN,1,1
 PRIMARFIRST,PRIMARFIRST,Upisani u 1. razred osnovne škole,PRIMARFIRST,PRIMARFIRST,1,1
 SECOND,Secondary education level,Nivo srednjeg obrazovanja,Ниво средњег образовања,Razina srednjeg obrazovanja,2,1
 SPEC_HIGH,SPEC_HIGH,Specijalizacija poslije srednje škole,SPEC_HIGH,SPEC_HIGH,3,1
-UNI_SCH,UNI_SCH,Visoko obrazovanje,UNI_SCH,UNI_SCH,5,2
+UNI_SCH,UNI_SCH,Visoko obrazovanje,UNI_SCH,UNI_SCH,6,3
 UPPSEC,Upper secondary education,Više srednje obrazovanje,Више средње образовање,Više srednje obrazovanje,18,1
