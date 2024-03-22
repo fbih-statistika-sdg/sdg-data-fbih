@@ -403,6 +403,7 @@ TM_TAX_WMFN: Svjetski ponderisani tarifni prosjek, status najpovlašćenije drž
 TM_TAX_WMPS: Svjetski ponderisani tarifni prosjek, preferencijalni status, prema vrsti proizvoda (%)
 TM_TRF_ZERO: Udio tarifnih stavki kojе se primjenjujу na uvoz sa nultom tarifom
 TX_EXP_GBMRCH: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom izvozu robe (%)
+TX_EXP_PERCOUNT: Izvoz iz Federacije BiH po zemljama
 TX_EXP_GBSVR: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom izvozu usluga (%)
 TX_IMP_GBMRCH: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom uvozu robe (%)
 TX_IMP_GBSVR: Udio zemalja u razvoju i najmanje razvijenih zemalja u globalnom uvozu usluga (%)
