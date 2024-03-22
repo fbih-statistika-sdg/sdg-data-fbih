@@ -1,6 +1,6 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
 ACTIVITY,Economic activity,Privredna aktivnost,Привредна активност,Privredna aktivnost,6,8
-AGE,Age,Godine,Године,Godine,29,40
+AGE,Age,Godine,Године,Godine,30,40
 COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,14,98
 DEVIATION_LEVEL,Deviation Level,Stepen odstupanja,Степен одступања,Stupanj odstupanja,1,4
 EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,Razina obrazovanja,7,19
@@ -12,7 +12,7 @@ M_ELEVATION,Mountain Elevation,Planinsko uzvišenje,Планинско узви�
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,3,22
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,5,25
 SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,181,391
-SEX,Sex,Spol,Пол,Spol,39,4
+SEX,Sex,Spol,Пол,Spol,38,4
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,176,39
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,11,8
 WASTE_TREATMENT,Type of waste treatment,Vrsta tretmana otpada,Врста третмана отпада,Vrsta tretmana otpada,1,2
