@@ -1,15 +1,15 @@
-Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,C_GER,18.8
-2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,C_CRO,14.7
-2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,C_ITA,10.6
-2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,C_AUT,8.3
-2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,C_SLO,7.9
-2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,C_SRB,5.9
-2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,C_MNE,2.7
-2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,C_CZE,2.2
-2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,C_TUR,2.1
-2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,C_KOS,1.9
-2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,OTH,25.0
+Year,SERIES,UNIT_MEASURE,Država,Value
+2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,Njemačka,18.8
+2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,Hrvatska,14.7
+2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,Italija,10.6
+2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,Austrija,8.3
+2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,Slovenija,7.9
+2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,Srbija,5.9
+2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,Crna Gora,2.7
+2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,Češka,2.2
+2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,Turska,2.1
+2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,Kosovo,1.9
+2013.0,Izvoz iz Federacije BiH po zemljama,Procenat,Ostale,25.0
 ,,,,
 ,,,,
 ,,,,
