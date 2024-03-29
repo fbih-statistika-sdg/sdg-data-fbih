@@ -7,16 +7,16 @@ BA_SARAJEVO,Sarajevo,Sarajevo,Сарајевo,Sarajevo,2,2
 BA_TUZLA,Tuzla,Tuzla,Тузла,Tuzla,2,2
 BA_ZENICA,Zenica,Zenica,Зеница,Zenica,2,2
 BIOENERGY,Bioenergy,Bioenergija,Биоенергија,Bioenergija,1,1
-C_AUT,C_AUT,Austrija,C_AUT,C_AUT,1,1
-C_CRO,C_CRO,Hrvatska,C_CRO,C_CRO,1,1
-C_CZE,C_CZE,Češka,C_CZE,C_CZE,1,1
-C_GER,C_GER,Njemačka,C_GER,C_GER,1,1
-C_ITA,C_ITA,Italija,C_ITA,C_ITA,1,1
-C_KOS,C_KOS,Kosovo,C_KOS,C_KOS,1,1
-C_MNE,C_MNE,Crna Gora,C_MNE,C_MNE,1,1
-C_SLO,C_SLO,Slovenija,C_SLO,C_SLO,1,1
-C_SRB,C_SRB,Srbija,C_SRB,C_SRB,1,1
-C_TUR,C_TUR,Turska,C_TUR,C_TUR,1,1
+C_AUT,C_AUT,C_AUT,C_AUT,C_AUT,1,1
+C_CRO,C_CRO,C_CRO,C_CRO,C_CRO,1,1
+C_CZE,C_CZE,C_CZE,C_CZE,C_CZE,1,1
+C_GER,C_GER,C_GER,C_GER,C_GER,1,1
+C_ITA,C_ITA,C_ITA,C_ITA,C_ITA,1,1
+C_KOS,C_KOS,C_KOS,C_KOS,C_KOS,1,1
+C_MNE,C_MNE,C_MNE,C_MNE,C_MNE,1,1
+C_SLO,C_SLO,C_SLO,C_SLO,C_SLO,1,1
+C_SRB,C_SRB,C_SRB,C_SRB,C_SRB,1,1
+C_TUR,C_TUR,C_TUR,C_TUR,C_TUR,1,1
 DEFENCE,DEFENCE,Odbrana,Одбрана,Obrana,1,1
 DOMAIN1,Rights of migrants,Prava migranata,Права миграната,Prava migranata,1,1
 DOMAIN2,"Comprehensive, evidence-based policies","Sveobuhvatne politike, politike zasnovane na dokazima","Свеобухватне политике, политике засноване на доказима","Sveobuhvatne politike, politike utemeljene na dokazima",1,1
@@ -60,7 +60,7 @@ MOT_IWW,Inland waterway transport,Unutrašnji plovni put,Унутрашњи пл
 MOT_RAI,Rail,Željeznički,Жељезнички,Željeznički,2,1
 MOT_ROA,Road,Cestovni,Друмски,Cestovni,2,1
 MULTIPLE,Multiple renewables,Višestruki obnovljivi izvori energije,Вишеструки обновљиви извори енергије,Više obnovljivih izvora,1,1
-OTH,OTH,Ostale,OTH,OTH,1,1
+OTH,OTH,OTH,OTH,OTH,1,1
 p_dev,p_dev,Fizički razvoj,p_dev,p_dev,1,1
 SKILL_COMP,SKILL_COMP,Upotreba računara,SKILL_COMP,SKILL_COMP,8,1
 SKILL_ICTARSP,Using basic arithmetic formula in a spreadsheet,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,Коришћење основне аритметичке формуле у буџетској табели,Korištenje osnovne aritmetičke formule u proračunskoj tablici,1,1
