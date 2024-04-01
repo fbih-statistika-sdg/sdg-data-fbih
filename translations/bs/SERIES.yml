@@ -349,8 +349,9 @@ SI_COV_MATNL: Udio majki s novorođenčadi koje primaju novčanu naknadu za mate
 SI_COV_PENSN: Udio stanovništva iznad zakonske starosne granice za penziju koji primaju penziju
 SI_COV_SOCAST: Broj punoljetnih i maloljetnih korisnika svih oblika socijalne zaštite po spolu
 SI_COV_NOEMP: Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene
-SI_COV_SOCINS: Udio korisnika socijalne zaštite/novčane pomoći  u ukupnoj populacij
-SI_COV_UEMP: Udio korisnika socijalne zaštite/novčane pomoći  u ukupnoj populacij
+SI_COV_SOCINS: Udio korisnika socijalne zaštite/novčane pomoći  u ukupnoj populaciji
+SI_COV_UEMP: Udio korisnika socijalne zaštite/novčane pomoći  u ukupnoj populaciji
+SI_COV_SOFIN: Broj korisnika socijalne zaštite prema oblicima novčane naknade
 SI_COV_WKINJRY: Udio zaposlenog stanovništva obuhvaćenog u slučaju povrede na radu, prema spolu (%)
 SI_POV_50MI: Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
 SI_POV_60MI: Udio ljudi koji žive ispod 60 posto srednje vrijednosti prihoda
