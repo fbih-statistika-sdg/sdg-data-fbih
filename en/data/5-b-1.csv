@@ -1,8 +1,8 @@
-Year,Sex,Value
-2022.0,Both sexes or no breakdown by sex,96.1
-2023.0,Both sexes or no breakdown by sex,96.2
-2022.0,Male,97.0
-2023.0,Male,97.7
-2022.0,Female,95.2
-2023.0,Female,94.8
-,,
+Year,SERIES,Sex,Value
+2022.0,SE_ADT_MOB,Both sexes or no breakdown by sex,96.1
+2023.0,SE_ADT_MOB,Both sexes or no breakdown by sex,96.2
+2022.0,SE_ADT_MOB,Male,97.0
+2023.0,SE_ADT_MOB,Male,97.7
+2022.0,SE_ADT_MOB,Female,95.2
+2023.0,SE_ADT_MOB,Female,94.8
+,,,

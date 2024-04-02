@@ -1,8 +1,8 @@
-Year,Spol,Value
-2022.0,Oba spola ili bez podjele po spolu,96.1
-2023.0,Oba spola ili bez podjele po spolu,96.2
-2022.0,Muškarci,97.0
-2023.0,Muškarci,97.7
-2022.0,Žene,95.2
-2023.0,Žene,94.8
-,,
+Year,SERIES,Spol,Value
+2022.0,Udio pojedinaca koji posjeduju mobilni telefon,Oba spola ili bez podjele po spolu,96.1
+2023.0,Udio pojedinaca koji posjeduju mobilni telefon,Oba spola ili bez podjele po spolu,96.2
+2022.0,Udio pojedinaca koji posjeduju mobilni telefon,Muškarci,97.0
+2023.0,Udio pojedinaca koji posjeduju mobilni telefon,Muškarci,97.7
+2022.0,Udio pojedinaca koji posjeduju mobilni telefon,Žene,95.2
+2023.0,Udio pojedinaca koji posjeduju mobilni telefon,Žene,94.8
+,,,

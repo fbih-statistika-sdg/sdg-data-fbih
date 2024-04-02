@@ -1,8 +1,8 @@
-Year,Spol,Value
-2022.0,Oba spola ili bez podjele po spolu,96.1
-2023.0,Oba spola ili bez podjele po spolu,96.2
-2022.0,Muškarci,97.0
-2023.0,Muškarci,97.7
-2022.0,Žene,95.2
-2023.0,Žene,94.8
-,,
+Year,SERIES,Spol,Value
+2022.0,SE_ADT_MOB,Oba spola ili bez podjele po spolu,96.1
+2023.0,SE_ADT_MOB,Oba spola ili bez podjele po spolu,96.2
+2022.0,SE_ADT_MOB,Muškarci,97.0
+2023.0,SE_ADT_MOB,Muškarci,97.7
+2022.0,SE_ADT_MOB,Žene,95.2
+2023.0,SE_ADT_MOB,Žene,94.8
+,,,
