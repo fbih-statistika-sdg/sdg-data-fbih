@@ -217,6 +217,7 @@ SE_PRE_PARTN3_6: Procenat djece uzrasta od  3 -6 godina  obuhvaćene predškolsk
 SE_TOT_CPLR: Stopa završetka studija prema spolu, lokaciji, kvintilu bogatstva i nivou obrazovanja (%)
 SE_TOT_PSCH: Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu
 SE_TOT_HSCH: Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu
+SE_TOT_YEAR: Broj učenika koji su završili srednju školu, po godinama trajanja školovanja (3 ili 4 godine)
 SE_TOT_GPI: Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa čitanja i matematike (omjer) 
 SE_TOT_GPI_FS: Prilagođeni indeks rodnog pariteta za postizanje minimalnog nivoa čitanja i računanja (omjer) 
 SE_TOT_PRFL: Udio djece i mladih  koja postižu najmanje minimalan nivo dostignuća u čitanju i  matematici 
