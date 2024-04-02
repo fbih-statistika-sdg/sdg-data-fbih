@@ -1,38 +1,92 @@
-Year,SERIES,UNIT_MEASURE,Nivo opterećenja,Problemi domaćinstva,Stepen urbanizacije,Value
-2011,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Ukupno,98.8
-2015,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Ukupno,99.7
-2021/22,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Ukupno,99.8
-2011,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Urbano,99.3
-2015,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Urbano,99.9
-2021/22,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Urbano,100.0
-2011,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Ostalo,98.3
-2015,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Ostalo,99.6
-2021/22,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Ostalo,99.6
-2011,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Veliko opterećenje,,,2.1
-2015,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Veliko opterećenje,,,7.4
-2021/22,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Veliko opterećenje,,,15.2
-2011,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Određeno opterećenje,,,56.5
-2015,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Određeno opterećenje,,,53.9
-2021/22,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Određeno opterećenje,,,45.7
-2011,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Nisu opterećeni,,,40.6
-2015,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Nisu opterećeni,,,38.7
-2021/22,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Nisu opterećeni,,,39.0
-2011,Stanovništvo koje ne može da održi dom dovoljno toplim,Procenat,,,,16.7
-2015,Stanovništvo koje ne može da održi dom dovoljno toplim,Procenat,,,,11.1
-2021/22,Stanovništvo koje ne može da održi dom dovoljno toplim,Procenat,,,,9.2
-2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Neadekvatna osvjetljenost stambene jedinice pri dnevnom svjetlu,,7.5
-2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Neadekvatna osvjetljenost stambene jedinice pri dnevnom svjetlu,,5.6
-2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Neadekvatna osvjetljenost stambene jedinice pri dnevnom svjetlu,,3.1
-2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Neadekvatno grijanje stambene jedinice,,16.7
-2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Neadekvatno grijanje stambene jedinice,,11.1
-2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Neadekvatno grijanje stambene jedinice,,9.2
-2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Truli prozorski okviri ili vrata stambene jedinice,,14.3
-2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Truli prozorski okviri ili vrata stambene jedinice,,12.5
-2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Truli prozorski okviri ili vrata stambene jedinice,,3.7
-2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,,"Vlaga u zidovima, podovima,temeljima stambene jedinice",,16.7
-2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,,"Vlaga u zidovima, podovima,temeljima stambene jedinice",,14.3
-2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,,"Vlaga u zidovima, podovima,temeljima stambene jedinice",,6.5
-2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Krov prokišnjava u stambenoj jedinici,,9.0
-2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Krov prokišnjava u stambenoj jedinici,,7.1
-2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Krov prokišnjava u stambenoj jedinici,,2.3
-,,,,,,
+Year,SERIES,UNIT_MEASURE,Nivo opterećenja,Problemi domaćinstva,Stepen urbanizacije,Usluge,Pristupačnost,Value
+2011,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Ukupno,,,98.8
+2015,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Ukupno,,,99.7
+2021/22,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Ukupno,,,99.8
+2011,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Urbano,,,99.3
+2015,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Urbano,,,99.9
+2021/22,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Urbano,,,100.0
+2011,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Ostalo,,,98.3
+2015,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Ostalo,,,99.6
+2021/22,Udio stanovništva koji koristi osnovne usluge pitke vode,Procenat,,,Ostalo,,,99.6
+2011,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Veliko opterećenje,,,,,2.1
+2015,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Veliko opterećenje,,,,,7.4
+2021/22,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Veliko opterećenje,,,,,15.2
+2011,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Određeno opterećenje,,,,,56.5
+2015,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Određeno opterećenje,,,,,53.9
+2021/22,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Određeno opterećenje,,,,,45.7
+2011,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Nisu opterećeni,,,,,40.6
+2015,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Nisu opterećeni,,,,,38.7
+2021/22,Procenat domaćinstava preopterećenih  troškovima stanovanja,Procenat,Nisu opterećeni,,,,,39.0
+2011,Stanovništvo koje ne može da održi dom dovoljno toplim,Procenat,,,,,,16.7
+2015,Stanovništvo koje ne može da održi dom dovoljno toplim,Procenat,,,,,,11.1
+2021/22,Stanovništvo koje ne može da održi dom dovoljno toplim,Procenat,,,,,,9.2
+2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Neadekvatna osvjetljenost stambene jedinice pri dnevnom svjetlu,,,,7.5
+2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Neadekvatna osvjetljenost stambene jedinice pri dnevnom svjetlu,,,,5.6
+2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Neadekvatna osvjetljenost stambene jedinice pri dnevnom svjetlu,,,,3.1
+2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Neadekvatno grijanje stambene jedinice,,,,16.7
+2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Neadekvatno grijanje stambene jedinice,,,,11.1
+2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Neadekvatno grijanje stambene jedinice,,,,9.2
+2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Truli prozorski okviri ili vrata stambene jedinice,,,,14.3
+2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Truli prozorski okviri ili vrata stambene jedinice,,,,12.5
+2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Truli prozorski okviri ili vrata stambene jedinice,,,,3.7
+2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,,"Vlaga u zidovima, podovima,temeljima stambene jedinice",,,,16.7
+2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,,"Vlaga u zidovima, podovima,temeljima stambene jedinice",,,,14.3
+2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,,"Vlaga u zidovima, podovima,temeljima stambene jedinice",,,,6.5
+2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Krov prokišnjava u stambenoj jedinici,,,,9.0
+2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Krov prokišnjava u stambenoj jedinici,,,,7.1
+2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,,Krov prokišnjava u stambenoj jedinici,,,,2.3
+2011,Pristupačnost domaćinstva uslugama,,,,,Prodavnice mješovite robe,Teško i veoma teško,15.4
+2015,Pristupačnost domaćinstva uslugama,,,,,Prodavnice mješovite robe,Teško i veoma teško,17.3
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Prodavnice mješovite robe,Teško i veoma teško,13.3
+2011,Pristupačnost domaćinstva uslugama,,,,,Prodavnice mješovite robe,Lako i veoma lako,84.4
+2015,Pristupačnost domaćinstva uslugama,,,,,Prodavnice mješovite robe,Lako i veoma lako,82.5
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Prodavnice mješovite robe,Lako i veoma lako,86.5
+2011,Pristupačnost domaćinstva uslugama,,,,,Prodavnice mješovite robe,Usluge se ne koriste,0.2
+2015,Pristupačnost domaćinstva uslugama,,,,,Prodavnice mješovite robe,Usluge se ne koriste,0.0
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Prodavnice mješovite robe,Usluge se ne koriste,0.2
+2011,Pristupačnost domaćinstva uslugama,,,,,Bankarske usluge,Teško i veoma teško,35.8
+2015,Pristupačnost domaćinstva uslugama,,,,,Bankarske usluge,Teško i veoma teško,36.6
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Bankarske usluge,Teško i veoma teško,29.4
+2011,Pristupačnost domaćinstva uslugama,,,,,Bankarske usluge,Lako i veoma lako,55.8
+2015,Pristupačnost domaćinstva uslugama,,,,,Bankarske usluge,Lako i veoma lako,54.8
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Bankarske usluge,Lako i veoma lako,69.5
+2011,Pristupačnost domaćinstva uslugama,,,,,Bankarske usluge,Usluge se ne koriste,8.4
+2015,Pristupačnost domaćinstva uslugama,,,,,Bankarske usluge,Usluge se ne koriste,8.6
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Bankarske usluge,Usluge se ne koriste,1.2
+2011,Pristupačnost domaćinstva uslugama,,,,,Poštanske usluge,Teško i veoma teško,32.2
+2015,Pristupačnost domaćinstva uslugama,,,,,Poštanske usluge,Teško i veoma teško,32.9
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Poštanske usluge,Teško i veoma teško,23.9
+2011,Pristupačnost domaćinstva uslugama,,,,,Poštanske usluge,Lako i veoma lako,65.7
+2015,Pristupačnost domaćinstva uslugama,,,,,Poštanske usluge,Lako i veoma lako,62.2
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Poštanske usluge,Lako i veoma lako,75.7
+2011,Pristupačnost domaćinstva uslugama,,,,,Poštanske usluge,Usluge se ne koriste,2.1
+2015,Pristupačnost domaćinstva uslugama,,,,,Poštanske usluge,Usluge se ne koriste,4.9
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Poštanske usluge,Usluge se ne koriste,0.5
+2011,Pristupačnost domaćinstva uslugama,,,,,Javni transport,Teško i veoma teško,19.1
+2015,Pristupačnost domaćinstva uslugama,,,,,Javni transport,Teško i veoma teško,22.3
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Javni transport,Teško i veoma teško,19.2
+2011,Pristupačnost domaćinstva uslugama,,,,,Javni transport,Lako i veoma lako,73.6
+2015,Pristupačnost domaćinstva uslugama,,,,,Javni transport,Lako i veoma lako,62.4
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Javni transport,Lako i veoma lako,73.5
+2011,Pristupačnost domaćinstva uslugama,,,,,Javni transport,Usluge se ne koriste,7.3
+2015,Pristupačnost domaćinstva uslugama,,,,,Javni transport,Usluge se ne koriste,15.3
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Javni transport,Usluge se ne koriste,7.4
+2011,Pristupačnost domaćinstva uslugama,,,,,Ustanove primarne zdravstvene zaštite,Teško i veoma teško,31.4
+2015,Pristupačnost domaćinstva uslugama,,,,,Ustanove primarne zdravstvene zaštite,Teško i veoma teško,29.2
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Ustanove primarne zdravstvene zaštite,Teško i veoma teško,20.7
+2011,Pristupačnost domaćinstva uslugama,,,,,Ustanove primarne zdravstvene zaštite,Lako i veoma lako,67.7
+2015,Pristupačnost domaćinstva uslugama,,,,,Ustanove primarne zdravstvene zaštite,Lako i veoma lako,70.1
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Ustanove primarne zdravstvene zaštite,Lako i veoma lako,79.2
+2011,Pristupačnost domaćinstva uslugama,,,,,Ustanove primarne zdravstvene zaštite,Usluge se ne koriste,0.9
+2015,Pristupačnost domaćinstva uslugama,,,,,Ustanove primarne zdravstvene zaštite,Usluge se ne koriste,0.7
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Ustanove primarne zdravstvene zaštite,Usluge se ne koriste,0.1
+2011,Pristupačnost domaćinstva uslugama,,,,,Ustanove predškolskog i osnovnog obrazovanja,Teško i veoma teško,11.3
+2015,Pristupačnost domaćinstva uslugama,,,,,Ustanove predškolskog i osnovnog obrazovanja,Teško i veoma teško,8.0
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Ustanove predškolskog i osnovnog obrazovanja,Teško i veoma teško,7.3
+2011,Pristupačnost domaćinstva uslugama,,,,,Ustanove predškolskog i osnovnog obrazovanja,Lako i veoma lako,37.1
+2015,Pristupačnost domaćinstva uslugama,,,,,Ustanove predškolskog i osnovnog obrazovanja,Lako i veoma lako,29.5
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Ustanove predškolskog i osnovnog obrazovanja,Lako i veoma lako,40.8
+2011,Pristupačnost domaćinstva uslugama,,,,,Ustanove predškolskog i osnovnog obrazovanja,Usluge se ne koriste,51.6
+2015,Pristupačnost domaćinstva uslugama,,,,,Ustanove predškolskog i osnovnog obrazovanja,Usluge se ne koriste,62.5
+2021/22,Pristupačnost domaćinstva uslugama,,,,,Ustanove predškolskog i osnovnog obrazovanja,Usluge se ne koriste,51.9
+,,,,,,,,

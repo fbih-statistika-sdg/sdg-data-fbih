@@ -1,0 +1,7 @@
+Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
+BANKING_S,BANKING_S,Bankarske usluge,BANKING_S,BANKING_S,3,1
+EDU_S,EDU_S,Ustanove predškolskog i osnovnog obrazovanja,EDU_S,EDU_S,3,1
+GROCERY_S,GROCERY_S,Prodavnice mješovite robe,GROCERY_S,GROCERY_S,3,1
+H_CARE_S,H_CARE_S,Ustanove primarne zdravstvene zaštite,H_CARE_S,H_CARE_S,3,1
+POSTAL_S,POSTAL_S,Poštanske usluge,POSTAL_S,POSTAL_S,3,1
+TRANSPORT_S,TRANSPORT_S,Javni transport,TRANSPORT_S,TRANSPORT_S,3,1
