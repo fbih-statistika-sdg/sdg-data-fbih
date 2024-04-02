@@ -1,28 +1,32 @@
-Year,SERIES,Nivo obrazovanja,Value
-2018/19,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Upisani u 1. razred osnovne škole,20.288
-2019/20,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Upisani u 1. razred osnovne škole,19.079
-2020/21,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Upisani u 1. razred osnovne škole,18.703
-2021/22,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Upisani u 1. razred osnovne škole,18.141
-2022/23,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Upisani u 1. razred osnovne škole,18.366
-2018/19,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Završili osnovnu školu,21.234
-2019/20,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Završili osnovnu školu,20.818
-2020/21,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Završili osnovnu školu,19.934
-2021/22,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Završili osnovnu školu,19.436
-2022/23,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Završili osnovnu školu,18.992
-2018/19,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Upisani u 1. razred srednje škole,18.756
-2019/20,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Upisani u 1. razred srednje škole,20.072
-2020/21,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Upisani u 1. razred srednje škole,19.663
-2021/22,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Upisani u 1. razred srednje škole,18.998
-2022/23,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Upisani u 1. razred srednje škole,18.978
-2018/19,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Završili srednju školu,21.631
-2019/20,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Završili srednju školu,21.304
-2020/21,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Završili srednju školu,20.556
-2021/22,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Završili srednju školu,18.898
-2022/23,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Završili srednju školu,16.711
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+Year,SERIES,Nivo obrazovanja,Godine,Value
+2018/19,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Upisani u 1. razred osnovne škole,,20.288
+2019/20,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Upisani u 1. razred osnovne škole,,19.079
+2020/21,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Upisani u 1. razred osnovne škole,,18.703
+2021/22,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Upisani u 1. razred osnovne škole,,18.141
+2022/23,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Upisani u 1. razred osnovne škole,,18.366
+2018/19,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Završili osnovnu školu,,21.234
+2019/20,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Završili osnovnu školu,,20.818
+2020/21,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Završili osnovnu školu,,19.934
+2021/22,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Završili osnovnu školu,,19.436
+2022/23,Broj učenika koji su upisali osnovnu školu i broj učenika koji su završili osnovnu školu,Završili osnovnu školu,,18.992
+2018/19,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Upisani u 1. razred srednje škole,,18.756
+2019/20,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Upisani u 1. razred srednje škole,,20.072
+2020/21,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Upisani u 1. razred srednje škole,,19.663
+2021/22,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Upisani u 1. razred srednje škole,,18.998
+2022/23,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Upisani u 1. razred srednje škole,,18.978
+2018/19,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Završili srednju školu,,21.631
+2019/20,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Završili srednju školu,,21.304
+2020/21,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Završili srednju školu,,20.556
+2021/22,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Završili srednju školu,,18.898
+2022/23,Broj učenika koji su upisali srednju školu i broj učenika koji su završili srednju školu,Završili srednju školu,,16.711
+2018/19,"Broj učenika koji su završili srednju školu, po godinama trajanja školovanja (3 ili 4 godine)",,3 godine,5.154
+2019/20,"Broj učenika koji su završili srednju školu, po godinama trajanja školovanja (3 ili 4 godine)",,3 godine,4.875
+2020/21,"Broj učenika koji su završili srednju školu, po godinama trajanja školovanja (3 ili 4 godine)",,3 godine,5.139
+2021/22,"Broj učenika koji su završili srednju školu, po godinama trajanja školovanja (3 ili 4 godine)",,3 godine,4.45
+2022/23,"Broj učenika koji su završili srednju školu, po godinama trajanja školovanja (3 ili 4 godine)",,3 godine,4.73
+2018/19,"Broj učenika koji su završili srednju školu, po godinama trajanja školovanja (3 ili 4 godine)",,4 godine,16.477
+2019/20,"Broj učenika koji su završili srednju školu, po godinama trajanja školovanja (3 ili 4 godine)",,4 godine,16.429
+2020/21,"Broj učenika koji su završili srednju školu, po godinama trajanja školovanja (3 ili 4 godine)",,4 godine,15.417
+2021/22,"Broj učenika koji su završili srednju školu, po godinama trajanja školovanja (3 ili 4 godine)",,4 godine,14.448
+2022/23,"Broj učenika koji su završili srednju školu, po godinama trajanja školovanja (3 ili 4 godine)",,4 godine,11.981
+,,,,
