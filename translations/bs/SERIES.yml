@@ -393,6 +393,7 @@ SN_STA_UWGT3: Ozbiljno zaostajanje u težini (˂ - 3SD)
 SP_ACS_BSRVH2O: Udio stanovništva koji koristi osnovne usluge pitke vode
 SP_ACS_BSRVSAN: Udio stanovništva koji koristi osnovne sanitarne usluge
 SP_ACS_HEAT: Stanovništvo koje ne može da održi dom dovoljno toplim
+SP_ACS_COST: Procenat domaćinstava preopterećenih  troškovima stanovanja
 SP_ACS_HOUSE: Problemi domaćinstva sa stambenom jedinicom
 SP_ACS_SERV: Pristupačnost domaćinstva uslugama
 SP_DYN_ADKL: Stopa nataliteta adolescenata (na 1.000 žena starosti 15-19 i 10-14 godina)
