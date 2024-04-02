@@ -1,0 +1,6 @@
+Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
+HEAT_P,HEAT_P,Neadekvatno grijanje stambene jedinice,HEAT_P,HEAT_P,1,1
+HUMID_P,HUMID_P,"Vlaga u zidovima, podovima,temeljima stambene jedinice",HUMID_P,HUMID_P,1,1
+LIGHT_P,LIGHT_P,Neadekvatna osvjetljenost stambene jedinice pri dnevnom svjetlu,LIGHT_P,LIGHT_P,1,1
+RAIN_P,RAIN_P,Krov prokišnjava u stambenoj jedinici,RAIN_P,RAIN_P,1,1
+ROT_P,ROT_P,Truli prozorski okviri ili vrata stambene jedinice,ROT_P,ROT_P,1,1

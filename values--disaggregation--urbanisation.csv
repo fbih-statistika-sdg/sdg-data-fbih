@@ -1,9 +1,9 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,Total,Ukupno,Укупно,Ukupno,27,7
+_T,Total,Ukupno,Укупно,Ukupno,26,7
 CITY,City,Grad,Град,Grad,2,2
 DOM,DOM,Domaći,DOM,DOM,2,1
 FOR,FOR,Strani,FOR,FOR,2,1
-O,O,Ostalo,O,O,2,2
-R,Rural,Ruralno,Рурално,Ruralno,28,8
+O,O,Ostalo,O,O,3,3
+R,Rural,Ruralno,Рурално,Ruralno,26,7
 TSUB,Town and semi-dense area,Mjesto i poluzgusnosto područje,Мјесто и полу-густо подручје,Mjesto i poluzgusnosto područje,1,1
-U,Urban,Urbano,Урбано,Urbano,26,7
+U,Urban,Urbano,Урбано,Urbano,25,7
