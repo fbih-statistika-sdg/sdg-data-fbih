@@ -1,8 +1,8 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-FIN_AID,FIN_AID,FIN_AID,FIN_AID,FIN_AID,3,1
-H_CARE,H_CARE,H_CARE,H_CARE,H_CARE,3,1
-H_DIFF,H_DIFF,H_DIFF,H_DIFF,H_DIFF,3,1
-H_FOOD,H_FOOD,H_FOOD,H_FOOD,H_FOOD,3,1
-H_INSE,H_INSE,H_INSE,H_INSE,H_INSE,3,1
-HOUSE_AID,HOUSE_AID,HOUSE_AID,HOUSE_AID,HOUSE_AID,3,1
-SUBS,SUBS,SUBS,SUBS,SUBS,3,1
+FIN_AID,FIN_AID,Novčane pomoći,FIN_AID,FIN_AID,3,1
+H_CARE,H_CARE,Zdravstvena zaštita na teret općine ili centra za socijalni rad,H_CARE,H_CARE,3,1
+H_DIFF,H_DIFF,S teškim stambenim prilikama,H_DIFF,H_DIFF,3,1
+H_FOOD,H_FOOD,"Pomoć za prehranu, ogrjev, odjeću i obuću",H_FOOD,H_FOOD,3,1
+H_INSE,H_INSE,Materijalno neobezbjeđena i za rad nesposobne osobe,H_INSE,H_INSE,3,1
+HOUSE_AID,HOUSE_AID,Pomoć u rješavanju stambenog pitanja,HOUSE_AID,HOUSE_AID,3,1
+SUBS,SUBS,"Subvencije troškova stanarine, grijanja i sahrane",SUBS,SUBS,3,1
