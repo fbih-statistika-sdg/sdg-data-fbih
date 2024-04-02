@@ -1,7 +1,7 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
 ACCESS,ACCESS,Pristupačnost,ACCESS,ACCESS,1,3
 ACTIVITY,Economic activity,Privredna aktivnost,Привредна активност,Privredna aktivnost,6,8
-AGE,Age,Godine,Године,Godine,31,42
+AGE,Age,Godine,Године,Godine,30,42
 BURDEN,BURDEN,Nivo opterećenja,BURDEN,BURDEN,1,3
 COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,14,98
 COUNTRY,COUNTRY,Država,COUNTRY,COUNTRY,1,11
@@ -15,10 +15,11 @@ LEV_REQ,Level of requirement,Nivo zahtjeva,Ниво захтјева,Stepen zaht
 M_ELEVATION,Mountain Elevation,Planinsko uzvišenje,Планинско узвишење,Planinsko uzvišenje,1,4
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,3,22
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,5,25
-SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,182,396
+SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,182,398
 SERVICES,SERVICES,Usluge,SERVICES,SERVICES,1,6
 SEX,Sex,Spol,Пол,Spol,39,4
 SOCIAL,SOCIAL,Kategorije korisnika,SOCIAL,SOCIAL,1,7
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,176,39
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,12,8
+VIOLENCE,VIOLENCE,Nasilje,VIOLENCE,VIOLENCE,1,5
 WASTE_TREATMENT,Type of waste treatment,Vrsta tretmana otpada,Врста третмана отпада,Vrsta tretmana otpada,1,2

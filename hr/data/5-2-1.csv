@@ -1,3 +1,41 @@
-Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
-2018,"Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)",Postotak,15 godina i više,Žene,2.7
-2018,"Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)",Postotak,15 do 49 godina,Žene,3.4
+Year,SERIES,UNIT_MEASURE,Godine,VIOLENCE,Spol,Value
+PREV12_M,"Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)",Postotak,,PSYCH_V,,19.0
+FROMY_15,"Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)",Postotak,,PSYCH_V,,46.4
+PREV12_M,"Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)",Postotak,,PHYS_V,,2.5
+FROMY_15,"Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)",Postotak,,PHYS_V,,12.7
+PREV12_M,"Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)",Postotak,,SEX_V,,1.5
+FROMY_15,"Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)",Postotak,,SEX_V,,5.8
+2010,VC_VAW_DOM,,,,Oba spola ili bez podjele po spolu,324.0
+2011,VC_VAW_DOM,,,,Oba spola ili bez podjele po spolu,443.0
+2012,VC_VAW_DOM,,,,Oba spola ili bez podjele po spolu,456.0
+2013,VC_VAW_DOM,,,,Oba spola ili bez podjele po spolu,372.0
+2014,VC_VAW_DOM,,,,Oba spola ili bez podjele po spolu,331.0
+2010,VC_VAW_DOM,,,,Muškarci,32.0
+2011,VC_VAW_DOM,,,,Muškarci,62.0
+2012,VC_VAW_DOM,,,,Muškarci,78.0
+2013,VC_VAW_DOM,,,,Muškarci,63.0
+2014,VC_VAW_DOM,,,,Muškarci,53.0
+2010,VC_VAW_DOM,,,,Žene,292.0
+2011,VC_VAW_DOM,,,,Žene,381.0
+2012,VC_VAW_DOM,,,,Žene,378.0
+2013,VC_VAW_DOM,,,,Žene,309.0
+2014,VC_VAW_DOM,,,,Žene,278.0
+2006,VC_VAW_REP,,,DOM_VIO,,639.0
+2007,VC_VAW_REP,,,DOM_VIO,,647.0
+2008,VC_VAW_REP,,,DOM_VIO,,889.0
+2009,VC_VAW_REP,,,DOM_VIO,,689.0
+2010,VC_VAW_REP,,,DOM_VIO,,755.0
+2011,VC_VAW_REP,,,DOM_VIO,,827.0
+2012,VC_VAW_REP,,,DOM_VIO,,882.0
+2013,VC_VAW_REP,,,DOM_VIO,,916.0
+2014,VC_VAW_REP,,,DOM_VIO,,992.0
+2006,VC_VAW_REP,,,DOM_V_REP,,1384.0
+2007,VC_VAW_REP,,,DOM_V_REP,,1093.0
+2008,VC_VAW_REP,,,DOM_V_REP,,2272.0
+2009,VC_VAW_REP,,,DOM_V_REP,,1631.0
+2010,VC_VAW_REP,,,DOM_V_REP,,1559.0
+2011,VC_VAW_REP,,,DOM_V_REP,,1658.0
+2012,VC_VAW_REP,,,DOM_V_REP,,1661.0
+2013,VC_VAW_REP,,,DOM_V_REP,,1669.0
+2014,VC_VAW_REP,,,DOM_V_REP,,1459.0
+,,,,,,

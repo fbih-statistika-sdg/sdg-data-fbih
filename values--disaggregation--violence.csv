@@ -1,0 +1,6 @@
+Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
+DOM_V_REP,DOM_V_REP,Prijavljeni slučajevi nasilja u porodici,DOM_V_REP,DOM_V_REP,1,1
+DOM_VIO,DOM_VIO,Počinjena krivična djela nasilja u porodici,DOM_VIO,DOM_VIO,1,1
+PHYS_V,PHYS_V,Fizičko nasilje,PHYS_V,PHYS_V,1,1
+PSYCH_V,PSYCH_V,Psihičko nasilje,PSYCH_V,PSYCH_V,1,1
+SEX_V,SEX_V,Seksualno nasilje,SEX_V,SEX_V,1,1

@@ -1,3 +1,41 @@
-Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
-2018,"Udio žena u dobi od 15 godina i više koje su bile izložene nasilju od strane sadašnjeg ili bivšeg intimnog partnera u posljednjih 12 mjeseci, prema obliku nasilja",Procenat,15 godina i više,Žene,2.7
-2018,"Udio žena u dobi od 15 godina i više koje su bile izložene nasilju od strane sadašnjeg ili bivšeg intimnog partnera u posljednjih 12 mjeseci, prema obliku nasilja",Procenat,15 do 49 godina,Žene,3.4
+Year,SERIES,UNIT_MEASURE,Godine,Nasilje,Spol,Value
+U posljednjih 12 mjeseci,"Udio žena u dobi od 15 godina i više koje su bile izložene nasilju od strane sadašnjeg ili bivšeg intimnog partnera u posljednjih 12 mjeseci, prema obliku nasilja",Procenat,,Psihičko nasilje,,19.0
+Od 15 godine života,"Udio žena u dobi od 15 godina i više koje su bile izložene nasilju od strane sadašnjeg ili bivšeg intimnog partnera u posljednjih 12 mjeseci, prema obliku nasilja",Procenat,,Psihičko nasilje,,46.4
+U posljednjih 12 mjeseci,"Udio žena u dobi od 15 godina i više koje su bile izložene nasilju od strane sadašnjeg ili bivšeg intimnog partnera u posljednjih 12 mjeseci, prema obliku nasilja",Procenat,,Fizičko nasilje,,2.5
+Od 15 godine života,"Udio žena u dobi od 15 godina i više koje su bile izložene nasilju od strane sadašnjeg ili bivšeg intimnog partnera u posljednjih 12 mjeseci, prema obliku nasilja",Procenat,,Fizičko nasilje,,12.7
+U posljednjih 12 mjeseci,"Udio žena u dobi od 15 godina i više koje su bile izložene nasilju od strane sadašnjeg ili bivšeg intimnog partnera u posljednjih 12 mjeseci, prema obliku nasilja",Procenat,,Seksualno nasilje,,1.5
+Od 15 godine života,"Udio žena u dobi od 15 godina i više koje su bile izložene nasilju od strane sadašnjeg ili bivšeg intimnog partnera u posljednjih 12 mjeseci, prema obliku nasilja",Procenat,,Seksualno nasilje,,5.8
+2010,Broj žrtava nasilja u porodici po spolu,,,,Oba spola ili bez podjele po spolu,324.0
+2011,Broj žrtava nasilja u porodici po spolu,,,,Oba spola ili bez podjele po spolu,443.0
+2012,Broj žrtava nasilja u porodici po spolu,,,,Oba spola ili bez podjele po spolu,456.0
+2013,Broj žrtava nasilja u porodici po spolu,,,,Oba spola ili bez podjele po spolu,372.0
+2014,Broj žrtava nasilja u porodici po spolu,,,,Oba spola ili bez podjele po spolu,331.0
+2010,Broj žrtava nasilja u porodici po spolu,,,,Muškarci,32.0
+2011,Broj žrtava nasilja u porodici po spolu,,,,Muškarci,62.0
+2012,Broj žrtava nasilja u porodici po spolu,,,,Muškarci,78.0
+2013,Broj žrtava nasilja u porodici po spolu,,,,Muškarci,63.0
+2014,Broj žrtava nasilja u porodici po spolu,,,,Muškarci,53.0
+2010,Broj žrtava nasilja u porodici po spolu,,,,Žene,292.0
+2011,Broj žrtava nasilja u porodici po spolu,,,,Žene,381.0
+2012,Broj žrtava nasilja u porodici po spolu,,,,Žene,378.0
+2013,Broj žrtava nasilja u porodici po spolu,,,,Žene,309.0
+2014,Broj žrtava nasilja u porodici po spolu,,,,Žene,278.0
+2006,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Počinjena krivična djela nasilja u porodici,,639.0
+2007,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Počinjena krivična djela nasilja u porodici,,647.0
+2008,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Počinjena krivična djela nasilja u porodici,,889.0
+2009,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Počinjena krivična djela nasilja u porodici,,689.0
+2010,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Počinjena krivična djela nasilja u porodici,,755.0
+2011,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Počinjena krivična djela nasilja u porodici,,827.0
+2012,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Počinjena krivična djela nasilja u porodici,,882.0
+2013,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Počinjena krivična djela nasilja u porodici,,916.0
+2014,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Počinjena krivična djela nasilja u porodici,,992.0
+2006,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Prijavljeni slučajevi nasilja u porodici,,1384.0
+2007,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Prijavljeni slučajevi nasilja u porodici,,1093.0
+2008,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Prijavljeni slučajevi nasilja u porodici,,2272.0
+2009,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Prijavljeni slučajevi nasilja u porodici,,1631.0
+2010,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Prijavljeni slučajevi nasilja u porodici,,1559.0
+2011,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Prijavljeni slučajevi nasilja u porodici,,1658.0
+2012,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Prijavljeni slučajevi nasilja u porodici,,1661.0
+2013,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Prijavljeni slučajevi nasilja u porodici,,1669.0
+2014,Prijavljeni slučajevi nasilja u porodici i broj podnesenih izvještaja o počinjenju krivičnog djela nasilja u porodici,,,Prijavljeni slučajevi nasilja u porodici,,1459.0
+,,,,,,

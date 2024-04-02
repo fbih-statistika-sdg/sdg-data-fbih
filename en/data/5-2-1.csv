@@ -1,3 +1,41 @@
-Year,SERIES,UNIT_MEASURE,Age,Sex,Value
-2018,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",Percent,15 years old and over,Female,2.7
-2018,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",Percent,15 to 49 years old,Female,3.4
+Year,SERIES,UNIT_MEASURE,Age,VIOLENCE,Sex,Value
+PREV12_M,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",Percent,,PSYCH_V,,19.0
+FROMY_15,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",Percent,,PSYCH_V,,46.4
+PREV12_M,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",Percent,,PHYS_V,,2.5
+FROMY_15,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",Percent,,PHYS_V,,12.7
+PREV12_M,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",Percent,,SEX_V,,1.5
+FROMY_15,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",Percent,,SEX_V,,5.8
+2010,VC_VAW_DOM,,,,Both sexes or no breakdown by sex,324.0
+2011,VC_VAW_DOM,,,,Both sexes or no breakdown by sex,443.0
+2012,VC_VAW_DOM,,,,Both sexes or no breakdown by sex,456.0
+2013,VC_VAW_DOM,,,,Both sexes or no breakdown by sex,372.0
+2014,VC_VAW_DOM,,,,Both sexes or no breakdown by sex,331.0
+2010,VC_VAW_DOM,,,,Male,32.0
+2011,VC_VAW_DOM,,,,Male,62.0
+2012,VC_VAW_DOM,,,,Male,78.0
+2013,VC_VAW_DOM,,,,Male,63.0
+2014,VC_VAW_DOM,,,,Male,53.0
+2010,VC_VAW_DOM,,,,Female,292.0
+2011,VC_VAW_DOM,,,,Female,381.0
+2012,VC_VAW_DOM,,,,Female,378.0
+2013,VC_VAW_DOM,,,,Female,309.0
+2014,VC_VAW_DOM,,,,Female,278.0
+2006,VC_VAW_REP,,,DOM_VIO,,639.0
+2007,VC_VAW_REP,,,DOM_VIO,,647.0
+2008,VC_VAW_REP,,,DOM_VIO,,889.0
+2009,VC_VAW_REP,,,DOM_VIO,,689.0
+2010,VC_VAW_REP,,,DOM_VIO,,755.0
+2011,VC_VAW_REP,,,DOM_VIO,,827.0
+2012,VC_VAW_REP,,,DOM_VIO,,882.0
+2013,VC_VAW_REP,,,DOM_VIO,,916.0
+2014,VC_VAW_REP,,,DOM_VIO,,992.0
+2006,VC_VAW_REP,,,DOM_V_REP,,1384.0
+2007,VC_VAW_REP,,,DOM_V_REP,,1093.0
+2008,VC_VAW_REP,,,DOM_V_REP,,2272.0
+2009,VC_VAW_REP,,,DOM_V_REP,,1631.0
+2010,VC_VAW_REP,,,DOM_V_REP,,1559.0
+2011,VC_VAW_REP,,,DOM_V_REP,,1658.0
+2012,VC_VAW_REP,,,DOM_V_REP,,1661.0
+2013,VC_VAW_REP,,,DOM_V_REP,,1669.0
+2014,VC_VAW_REP,,,DOM_V_REP,,1459.0
+,,,,,,
