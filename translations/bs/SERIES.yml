@@ -171,6 +171,10 @@ IC_GEN_MGTL_19ICLS: Udio žena na rukovodećim pozicijama - 19. ICLS (%)
 IC_GEN_MGTN_19ICLS: Udio žena na višim i srednjim rukovodećim pozicijama - 19. ICLS (%)
 IS_RDP_FRGVOL: Obim tereta (tonski kilometri)
 IS_RDP_PFVOL: Obim putnika (putnički kilometri)
+IS_RDP_TRANS: Prevoz putnika i robe po granama saobraćaja
+RAIL_TRANS: Željeznički prijevoz
+ROAD_TRANS: Cestovni prijevoz
+STRUCT_TRANS: Struktura prijevoza robe po vrstama prijevoza
 IT_MOB_2GNTWK: Udio stanovništva pokriven najmanje 2G mobilnom mrežom
 IT_MOB_3GNTWK: Udio stanovništva pokriven najmanje 3G mobilnom mrežom
 IT_MOB_4GNTWK: Udio stanovništva pokriven najmanje 4G mobilnom mrežom
