@@ -1,11 +1,14 @@
-Year,SERIES,UNIT_MEASURE,Stepen urbanizacije,Value
-2000,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,5.1
-2002,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,5.1
-2004,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,5.1
-2006,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.9
-2008,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.7
-2010,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.5
-2012,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.3
-2014,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.0
-2016,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.0
-2018,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.0
+Year,SERIES,UNIT_MEASURE,Podjela,Value
+2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,ROTT_W,8.6
+2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,ROTT_W,7.0
+2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,ROTT_W,3.7
+2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,DAMP,8.1
+2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,DAMP,5.9
+2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,DAMP,6.5
+2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,LEAK_R,7.9
+2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,LEAK_R,5.3
+2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,LEAK_R,2.3
+2011,Problemi domaćinstva sa stambenom jedinicom,Procenat,NOISE,7.6
+2015,Problemi domaćinstva sa stambenom jedinicom,Procenat,NOISE,7.5
+2021/22,Problemi domaćinstva sa stambenom jedinicom,Procenat,NOISE,3.8
+,,,,

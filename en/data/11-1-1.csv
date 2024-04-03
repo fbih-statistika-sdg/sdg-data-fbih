@@ -1,11 +1,14 @@
-Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
-2000,Proportion of urban population living in slums,Percent,Urban,5.1
-2002,Proportion of urban population living in slums,Percent,Urban,5.1
-2004,Proportion of urban population living in slums,Percent,Urban,5.1
-2006,Proportion of urban population living in slums,Percent,Urban,4.9
-2008,Proportion of urban population living in slums,Percent,Urban,4.7
-2010,Proportion of urban population living in slums,Percent,Urban,4.5
-2012,Proportion of urban population living in slums,Percent,Urban,4.3
-2014,Proportion of urban population living in slums,Percent,Urban,4.0
-2016,Proportion of urban population living in slums,Percent,Urban,4.0
-2018,Proportion of urban population living in slums,Percent,Urban,4.0
+Year,SERIES,UNIT_MEASURE,SORT,Value
+2011,EN_LND_HOUSE,Percent,ROTT_W,8.6
+2015,EN_LND_HOUSE,Percent,ROTT_W,7.0
+2021/22,EN_LND_HOUSE,Percent,ROTT_W,3.7
+2011,EN_LND_HOUSE,Percent,DAMP,8.1
+2015,EN_LND_HOUSE,Percent,DAMP,5.9
+2021/22,EN_LND_HOUSE,Percent,DAMP,6.5
+2011,EN_LND_HOUSE,Percent,LEAK_R,7.9
+2015,EN_LND_HOUSE,Percent,LEAK_R,5.3
+2021/22,EN_LND_HOUSE,Percent,LEAK_R,2.3
+2011,EN_LND_HOUSE,Percent,NOISE,7.6
+2015,EN_LND_HOUSE,Percent,NOISE,7.5
+2021/22,EN_LND_HOUSE,Percent,NOISE,3.8
+,,,,
