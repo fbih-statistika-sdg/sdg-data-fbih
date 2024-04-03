@@ -11,3 +11,6 @@ T_KM: Tonski kilometri,ukupno
 T_PAX: Prevezeni putnici
 T_RAIL: Prijevoz željeznicom
 T_ROAD: Cestovni prijevoz robe
+PAX_KM_NO_T: Putnički kilometri
+T_GOODS_NO_T: Prevezena roba
+T_KM_NO_T: Tonski kilometri
