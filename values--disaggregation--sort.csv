@@ -4,14 +4,14 @@ ACCOM,ACCOM,Smještaj,ACCOM,ACCOM,1,1
 BANKS_FBIH,BANKS_FBIH,Banke sa sjedištem u Federaciji BiH,BANKS_FBIH,BANKS_FBIH,2,1
 BANKS_RS_FBIH,BANKS_RS_FBIH,Djelovi banaka iz RS u F BiH,BANKS_RS_FBIH,BANKS_RS_FBIH,2,1
 BUSS_SECT,BUSS_SECT,Poslovni sektor,BUSS_SECT,BUSS_SECT,1,1
-DAMP,DAMP,DAMP,DAMP,DAMP,1,1
+DAMP,DAMP,Vlaga u podovima zidovima i temeljima,DAMP,DAMP,1,1
 GOVMNT,GOVMNT,Državni sektor,GOVMNT,GOVMNT,1,1
 HIGH_EDU,HIGH_EDU,Visoko obrazovanje,HIGH_EDU,HIGH_EDU,1,1
-LEAK_R,LEAK_R,LEAK_R,LEAK_R,LEAK_R,1,1
-NOISE,NOISE,NOISE,NOISE,NOISE,1,1
+LEAK_R,LEAK_R,Krov prokišnjava,LEAK_R,LEAK_R,1,1
+NOISE,NOISE,Imaju problema sa bukom,NOISE,NOISE,1,1
 PAX_KM,PAX_KM,"Putnički kilometri, ukupno mil.",PAX_KM,PAX_KM,1,1
 PAX_KM_NO_T,PAX_KM_NO_T,"Putnički kilometri, mil.",PAX_KM_NO_T,PAX_KM_NO_T,2,1
-ROTT_W,ROTT_W,ROTT_W,ROTT_W,ROTT_W,1,1
+ROTT_W,ROTT_W,Truli prozorski okviri ili vrata,ROTT_W,ROTT_W,1,1
 SERVICE,SERVICE,Djelatnosti pripreme i usluživanja hrane i pića,SERVICE,SERVICE,1,1
 T_GOODS,T_GOODS,"Prevezena roba, ukupno hilj. tona",T_GOODS,T_GOODS,1,1
 T_GOODS_NO_T,T_GOODS_NO_T,"Prevezena roba, hilj. tona",T_GOODS_NO_T,T_GOODS_NO_T,2,1
