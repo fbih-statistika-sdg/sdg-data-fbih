@@ -4,13 +4,13 @@ SERVICE: Djelatnosti pripreme i usluživanja hrane i pića
 _T: Ukupno
 BANKS_FBIH: Banke sa sjedištem u Federaciji BiH
 BANKS_RS_FBIH: Djelovi banaka iz RS u F BiH
-T_PAX_R: Prevezeni putnici u željezničkom i cestovnom prijevozu
-PAX_KM: Putnički kilometri, ukupno
-T_GOODS: Prevezena roba, ukupno
-T_KM: Tonski kilometri,ukupno
-T_PAX: Prevezeni putnici
+T_PAX_R: Prevezeni putnici u željezničkom i cestovnom prijevozu, ukupno hilj.
+PAX_KM: Putnički kilometri, ukupno mil.
+T_GOODS: Prevezena roba, ukupno hilj. tona
+T_KM: Tonski kilometri,ukupno mil.
+T_PAX: Prevezeni putnici, hilj.
 T_RAIL: Prijevoz željeznicom
 T_ROAD: Cestovni prijevoz robe
-PAX_KM_NO_T: Putnički kilometri
-T_GOODS_NO_T: Prevezena roba
-T_KM_NO_T: Tonski kilometri
+PAX_KM_NO_T: Putnički kilometri, mil.
+T_GOODS_NO_T: Prevezena roba, hilj. tona
+T_KM_NO_T: Tonski kilometri, mil.
