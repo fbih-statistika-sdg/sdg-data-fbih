@@ -1,6 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
 _T,_T,Ukupno,_T,_T,4,2
 ACCOM,ACCOM,Smještaj,ACCOM,ACCOM,1,1
-BANKS_FBIH,BANKS_FBIH,BANKS_FBIH,BANKS_FBIH,BANKS_FBIH,2,1
-BANKS_RS_FBIH,BANKS_RS_FBIH,BANKS_RS_FBIH,BANKS_RS_FBIH,BANKS_RS_FBIH,2,1
+BANKS_FBIH,BANKS_FBIH,Banke sa sjedištem u Federaciji BiH,BANKS_FBIH,BANKS_FBIH,2,1
+BANKS_RS_FBIH,BANKS_RS_FBIH,Djelovi banaka iz RS u F BiH,BANKS_RS_FBIH,BANKS_RS_FBIH,2,1
 SERVICE,SERVICE,Djelatnosti pripreme i usluživanja hrane i pića,SERVICE,SERVICE,1,1
