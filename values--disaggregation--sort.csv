@@ -13,6 +13,7 @@ PAX_KM,PAX_KM,"Putnički kilometri, ukupno mil.",PAX_KM,PAX_KM,1,1
 PAX_KM_NO_T,PAX_KM_NO_T,"Putnički kilometri, mil.",PAX_KM_NO_T,PAX_KM_NO_T,2,1
 ROTT_W,ROTT_W,Truli prozorski okviri ili vrata,ROTT_W,ROTT_W,1,1
 SERVICE,SERVICE,Djelatnosti pripreme i usluživanja hrane i pića,SERVICE,SERVICE,1,1
+SH_TR_W,SH_TR_W,Udio prerađenog komunalnog otpada,SH_TR_W,SH_TR_W,1,1
 T_GOODS,T_GOODS,"Prevezena roba, ukupno hilj. tona",T_GOODS,T_GOODS,1,1
 T_GOODS_NO_T,T_GOODS_NO_T,"Prevezena roba, hilj. tona",T_GOODS_NO_T,T_GOODS_NO_T,2,1
 T_KM,T_KM,"Tonski kilometri,ukupno mil.",T_KM,T_KM,1,1
@@ -21,3 +22,5 @@ T_PAX,T_PAX,"Prevezeni putnici, hilj.",T_PAX,T_PAX,2,1
 T_PAX_R,T_PAX_R,"Prevezeni putnici u željezničkom i cestovnom prijevozu, ukupno hilj.",T_PAX_R,T_PAX_R,1,1
 T_RAIL,T_RAIL,Prijevoz željeznicom,T_RAIL,T_RAIL,1,1
 T_ROAD,T_ROAD,Cestovni prijevoz robe,T_ROAD,T_ROAD,1,1
+TOT_WASTE,TOT_WASTE,Ukupno prikupljeni komunalni otpad,TOT_WASTE,TOT_WASTE,1,1
+TREAT_WASTE,TREAT_WASTE,Komunalni otpad predat na preradu,TREAT_WASTE,TREAT_WASTE,1,1

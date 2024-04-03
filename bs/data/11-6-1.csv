@@ -1,2 +1,33 @@
-Year,SERIES,UNIT_MEASURE,Value
-2012,"Pokrivenost prikupljenog komunalnog čvrstog otpada, po gradovima (%)",Procenat,74
+Year,SERIES,UNIT_MEASURE,Podjela,Value
+2013.0,Generisani i prerađeni komunalni otpad,Tone,Ukupno prikupljeni komunalni otpad,629.455
+2014.0,Generisani i prerađeni komunalni otpad,Tone,Ukupno prikupljeni komunalni otpad,653.895
+2015.0,Generisani i prerađeni komunalni otpad,Tone,Ukupno prikupljeni komunalni otpad,657.499
+2016.0,Generisani i prerađeni komunalni otpad,Tone,Ukupno prikupljeni komunalni otpad,640.064
+2017.0,Generisani i prerađeni komunalni otpad,Tone,Ukupno prikupljeni komunalni otpad,623.753
+2018.0,Generisani i prerađeni komunalni otpad,Tone,Ukupno prikupljeni komunalni otpad,624.658
+2019.0,Generisani i prerađeni komunalni otpad,Tone,Ukupno prikupljeni komunalni otpad,637.597
+2020.0,Generisani i prerađeni komunalni otpad,Tone,Ukupno prikupljeni komunalni otpad,611.857
+2021.0,Generisani i prerađeni komunalni otpad,Tone,Ukupno prikupljeni komunalni otpad,612.373
+2022.0,Generisani i prerađeni komunalni otpad,Tone,Ukupno prikupljeni komunalni otpad,612.073
+2013.0,Generisani i prerađeni komunalni otpad,Tone,Komunalni otpad predat na preradu,226.0
+2014.0,Generisani i prerađeni komunalni otpad,Tone,Komunalni otpad predat na preradu,221.0
+2015.0,Generisani i prerađeni komunalni otpad,Tone,Komunalni otpad predat na preradu,714.0
+2016.0,Generisani i prerađeni komunalni otpad,Tone,Komunalni otpad predat na preradu,790.0
+2017.0,Generisani i prerađeni komunalni otpad,Tone,Komunalni otpad predat na preradu,792.0
+2018.0,Generisani i prerađeni komunalni otpad,Tone,Komunalni otpad predat na preradu,898.0
+2019.0,Generisani i prerađeni komunalni otpad,Tone,Komunalni otpad predat na preradu,3.927
+2020.0,Generisani i prerađeni komunalni otpad,Tone,Komunalni otpad predat na preradu,6.777
+2021.0,Generisani i prerađeni komunalni otpad,Tone,Komunalni otpad predat na preradu,4.301
+2022.0,Generisani i prerađeni komunalni otpad,Tone,Komunalni otpad predat na preradu,4.088
+2013.0,Generisani i prerađeni komunalni otpad,Tone,Udio prerađenog komunalnog otpada,0.0
+2014.0,Generisani i prerađeni komunalni otpad,Tone,Udio prerađenog komunalnog otpada,0.0
+2015.0,Generisani i prerađeni komunalni otpad,Tone,Udio prerađenog komunalnog otpada,0.1
+2016.0,Generisani i prerađeni komunalni otpad,Tone,Udio prerađenog komunalnog otpada,0.1
+2017.0,Generisani i prerađeni komunalni otpad,Tone,Udio prerađenog komunalnog otpada,0.1
+2018.0,Generisani i prerađeni komunalni otpad,Tone,Udio prerađenog komunalnog otpada,0.1
+2019.0,Generisani i prerađeni komunalni otpad,Tone,Udio prerađenog komunalnog otpada,0.6
+2020.0,Generisani i prerađeni komunalni otpad,Tone,Udio prerađenog komunalnog otpada,1.1
+2021.0,Generisani i prerađeni komunalni otpad,Tone,Udio prerađenog komunalnog otpada,0.7
+2022.0,Generisani i prerađeni komunalni otpad,Tone,Udio prerađenog komunalnog otpada,0.7
+,,,,
+,,,,
