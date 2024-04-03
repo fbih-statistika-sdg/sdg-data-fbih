@@ -88,6 +88,7 @@ EN_MAT_DOMCMPC: Potrošnja domaćih materijala po stanovniku, prema vrsti sirovi
 EN_MAT_DOMCMPG: Potrošnja domaćih materijala, po jedinici BDP-a, prema vrsti sirovine (kilogrami po konstanti 2015 američkih dolara) 
 EN_MAT_DOMCMPT: Potrošnja domaćih materijala
 EN_REF_WASCOL: Pokrivenost prikupljenog komunalnog čvrstog otpada, po gradovima (%)
+EN_REF_GEN_W: Generisani i prerađeni komunalni otpad
 EN_SCP_FSHGDP: Održivi ribolov kao udio u BDP-u
 EN_WBE_PMNR: Opseg vodnog tijela (trajni) (kvadratni kilometri)
 EN_WBE_PMPN: Opseg vodnog tijela (trajni i možda trajnih) (kvadratni kilometri)
