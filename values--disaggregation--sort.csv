@@ -3,14 +3,14 @@ _T,_T,Ukupno,_T,_T,4,2
 ACCOM,ACCOM,Smještaj,ACCOM,ACCOM,1,1
 BANKS_FBIH,BANKS_FBIH,Banke sa sjedištem u Federaciji BiH,BANKS_FBIH,BANKS_FBIH,2,1
 BANKS_RS_FBIH,BANKS_RS_FBIH,Djelovi banaka iz RS u F BiH,BANKS_RS_FBIH,BANKS_RS_FBIH,2,1
-PAX_KM,PAX_KM,"Putnički kilometri, ukupno",PAX_KM,PAX_KM,1,1
-PAX_KM_NO_T,PAX_KM_NO_T,Putnički kilometri,PAX_KM_NO_T,PAX_KM_NO_T,2,1
+PAX_KM,PAX_KM,"Putnički kilometri, ukupno mil.",PAX_KM,PAX_KM,1,1
+PAX_KM_NO_T,PAX_KM_NO_T,"Putnički kilometri, mil.",PAX_KM_NO_T,PAX_KM_NO_T,2,1
 SERVICE,SERVICE,Djelatnosti pripreme i usluživanja hrane i pića,SERVICE,SERVICE,1,1
-T_GOODS,T_GOODS,"Prevezena roba, ukupno",T_GOODS,T_GOODS,1,1
-T_GOODS_NO_T,T_GOODS_NO_T,Prevezena roba,T_GOODS_NO_T,T_GOODS_NO_T,2,1
-T_KM,T_KM,"Tonski kilometri,ukupno",T_KM,T_KM,1,1
-T_KM_NO_T,T_KM_NO_T,Tonski kilometri,T_KM_NO_T,T_KM_NO_T,2,1
-T_PAX,T_PAX,Prevezeni putnici,T_PAX,T_PAX,2,1
-T_PAX_R,T_PAX_R,Prevezeni putnici u željezničkom i cestovnom prijevozu,T_PAX_R,T_PAX_R,1,1
+T_GOODS,T_GOODS,"Prevezena roba, ukupno hilj. tona",T_GOODS,T_GOODS,1,1
+T_GOODS_NO_T,T_GOODS_NO_T,"Prevezena roba, hilj. tona",T_GOODS_NO_T,T_GOODS_NO_T,2,1
+T_KM,T_KM,"Tonski kilometri,ukupno mil.",T_KM,T_KM,1,1
+T_KM_NO_T,T_KM_NO_T,"Tonski kilometri, mil.",T_KM_NO_T,T_KM_NO_T,2,1
+T_PAX,T_PAX,"Prevezeni putnici, hilj.",T_PAX,T_PAX,2,1
+T_PAX_R,T_PAX_R,"Prevezeni putnici u željezničkom i cestovnom prijevozu, ukupno hilj.",T_PAX_R,T_PAX_R,1,1
 T_RAIL,T_RAIL,Prijevoz željeznicom,T_RAIL,T_RAIL,1,1
 T_ROAD,T_ROAD,Cestovni prijevoz robe,T_ROAD,T_ROAD,1,1
