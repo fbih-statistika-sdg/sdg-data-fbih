@@ -8,36 +8,6 @@ Year,SERIES,UNIT_MEASURE,Sex,Degree of urbanisation,Value
 2019.0,NY_GDP_TOUR,Percent,,,2.3
 2020.0,NY_GDP_TOUR,Percent,,,1.7
 2021.0,NY_GDP_TOUR,Percent,,,1.9
-2013.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,,30.3
-2014.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,,30.2
-2015.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,,30.2
-2016.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,,30.5
-2017.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,,32.2
-2018.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,,31.9
-2019.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,,31.9
-2020.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,,37.5
-2021.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,,37.8
-2022.0,SL_TLF_EMP,Percent,Both sexes or no breakdown by sex,,39.6
-2013.0,SL_TLF_EMP,Percent,Male,,39.7
-2014.0,SL_TLF_EMP,Percent,Male,,40.1
-2015.0,SL_TLF_EMP,Percent,Male,,39.4
-2016.0,SL_TLF_EMP,Percent,Male,,41.1
-2017.0,SL_TLF_EMP,Percent,Male,,41.7
-2018.0,SL_TLF_EMP,Percent,Male,,42.0
-2019.0,SL_TLF_EMP,Percent,Male,,41.6
-2020.0,SL_TLF_EMP,Percent,Male,,50.2
-2021.0,SL_TLF_EMP,Percent,Male,,51.0
-2022.0,SL_TLF_EMP,Percent,Male,,52.5
-2013.0,SL_TLF_EMP,Percent,Female,,21.3
-2014.0,SL_TLF_EMP,Percent,Female,,20.9
-2015.0,SL_TLF_EMP,Percent,Female,,21.4
-2016.0,SL_TLF_EMP,Percent,Female,,20.6
-2017.0,SL_TLF_EMP,Percent,Female,,23.1
-2018.0,SL_TLF_EMP,Percent,Female,,22.5
-2019.0,SL_TLF_EMP,Percent,Female,,23.0
-2020.0,SL_TLF_EMP,Percent,Female,,25.5
-2021.0,SL_TLF_EMP,Percent,Female,,25.2
-2022.0,SL_TLF_EMP,Percent,Female,,27.4
 2013.0,TOUR_ARR,THOUSANDS,,Total,577.0
 2014.0,TOUR_ARR,THOUSANDS,,Total,576.0
 2015.0,TOUR_ARR,THOUSANDS,,Total,723.0

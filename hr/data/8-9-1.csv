@@ -8,36 +8,6 @@ Year,SERIES,UNIT_MEASURE,Spol,Stupanj urbanizacije,Value
 2019.0,NY_GDP_TOUR,Postotak,,,2.3
 2020.0,NY_GDP_TOUR,Postotak,,,1.7
 2021.0,NY_GDP_TOUR,Postotak,,,1.9
-2013.0,SL_TLF_EMP,Postotak,Oba spola ili bez podjele po spolu,,30.3
-2014.0,SL_TLF_EMP,Postotak,Oba spola ili bez podjele po spolu,,30.2
-2015.0,SL_TLF_EMP,Postotak,Oba spola ili bez podjele po spolu,,30.2
-2016.0,SL_TLF_EMP,Postotak,Oba spola ili bez podjele po spolu,,30.5
-2017.0,SL_TLF_EMP,Postotak,Oba spola ili bez podjele po spolu,,32.2
-2018.0,SL_TLF_EMP,Postotak,Oba spola ili bez podjele po spolu,,31.9
-2019.0,SL_TLF_EMP,Postotak,Oba spola ili bez podjele po spolu,,31.9
-2020.0,SL_TLF_EMP,Postotak,Oba spola ili bez podjele po spolu,,37.5
-2021.0,SL_TLF_EMP,Postotak,Oba spola ili bez podjele po spolu,,37.8
-2022.0,SL_TLF_EMP,Postotak,Oba spola ili bez podjele po spolu,,39.6
-2013.0,SL_TLF_EMP,Postotak,Muškarci,,39.7
-2014.0,SL_TLF_EMP,Postotak,Muškarci,,40.1
-2015.0,SL_TLF_EMP,Postotak,Muškarci,,39.4
-2016.0,SL_TLF_EMP,Postotak,Muškarci,,41.1
-2017.0,SL_TLF_EMP,Postotak,Muškarci,,41.7
-2018.0,SL_TLF_EMP,Postotak,Muškarci,,42.0
-2019.0,SL_TLF_EMP,Postotak,Muškarci,,41.6
-2020.0,SL_TLF_EMP,Postotak,Muškarci,,50.2
-2021.0,SL_TLF_EMP,Postotak,Muškarci,,51.0
-2022.0,SL_TLF_EMP,Postotak,Muškarci,,52.5
-2013.0,SL_TLF_EMP,Postotak,Žene,,21.3
-2014.0,SL_TLF_EMP,Postotak,Žene,,20.9
-2015.0,SL_TLF_EMP,Postotak,Žene,,21.4
-2016.0,SL_TLF_EMP,Postotak,Žene,,20.6
-2017.0,SL_TLF_EMP,Postotak,Žene,,23.1
-2018.0,SL_TLF_EMP,Postotak,Žene,,22.5
-2019.0,SL_TLF_EMP,Postotak,Žene,,23.0
-2020.0,SL_TLF_EMP,Postotak,Žene,,25.5
-2021.0,SL_TLF_EMP,Postotak,Žene,,25.2
-2022.0,SL_TLF_EMP,Postotak,Žene,,27.4
 2013.0,TOUR_ARR,Tisuće,,Ukupno,577.0
 2014.0,TOUR_ARR,Tisuće,,Ukupno,576.0
 2015.0,TOUR_ARR,Tisuće,,Ukupno,723.0
