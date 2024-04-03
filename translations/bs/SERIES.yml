@@ -140,6 +140,7 @@ FB_BNK_ACCSS: Udio odraslih (15 i više godina) koji imaju račun u banci ili dr
 FB_BNK_ACCSS_ILF: Udio odraslih (15 godina i starijih) aktivnih u radnoj snazi s računom u finansijskoj instituciji ili pružatelju usluga mobilnog novca (% odraslih od 15 godina i više)
 FB_BNK_ACCSS_OLF: Udio odraslih (15 godina i stariji) van radne snage koji imaju račun u finansijskoj instituciji ili pružatelju usluga mobilnog novca (% odraslih osoba starijih od 15 godina)
 FB_CBK_BRCH: Broj filijala komercijalnih banaka na 100 000 odraslih
+FB_CBK_TOT: Broj ogranaka komercijalnih banaka 
 FC_ACC_SSID: Udio malih industrija sa kreditom ili kreditnom linijom
 FI_FSI_FSANL: Nenaplativi krediti prema ukupnim bruto kreditima (%) 
 FI_FSI_FSERA: Povrat na imovinu (ROA) (%)
