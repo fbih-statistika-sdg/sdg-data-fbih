@@ -3,7 +3,7 @@ ACCESS,ACCESS,Pristupačnost,ACCESS,ACCESS,1,3
 ACTIVITY,Economic activity,Privredna aktivnost,Привредна активност,Privredna aktivnost,6,8
 AGE,Age,Godine,Године,Godine,29,42
 BURDEN,BURDEN,Nivo opterećenja,BURDEN,BURDEN,1,3
-COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,14,98
+COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,13,94
 COUNTRY,COUNTRY,Država,COUNTRY,COUNTRY,1,11
 DEVIATION_LEVEL,Deviation Level,Stepen odstupanja,Степен одступања,Stupanj odstupanja,1,4
 EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,Razina obrazovanja,8,19
@@ -15,11 +15,11 @@ LEV_REQ,Level of requirement,Nivo zahtjeva,Ниво захтјева,Stepen zaht
 M_ELEVATION,Mountain Elevation,Planinsko uzvišenje,Планинско узвишење,Planinsko uzvišenje,1,4
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,2,11
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,5,25
-SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,182,399
+SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,182,401
 SERVICES,SERVICES,Usluge,SERVICES,SERVICES,1,6
 SEX,Sex,Spol,Пол,Spol,38,4
 SOCIAL,SOCIAL,Kategorije korisnika,SOCIAL,SOCIAL,1,7
-SORT,SORT,Podjela,SORT,SORT,2,5
+SORT,SORT,Podjela,SORT,SORT,3,15
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,176,38
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,12,8
 VIOLENCE,VIOLENCE,Nasilje,VIOLENCE,VIOLENCE,1,5

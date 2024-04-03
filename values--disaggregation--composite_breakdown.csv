@@ -45,10 +45,6 @@ IS_GE10M,10 Mbit/s or above,10 Mbit/s ili više,10 Mbit/s или више,10 Mbi
 learning,learning,Učenje,learning,learning,1,1
 literacy,literacy,Pismenost/poznavanje brojeva,literacy,literacy,1,1
 MARINE,Marine energy,Morska energija,Морска енергија,Morska energija,1,1
-MOT_AIR,Aire,Zračni,Зрачни,Zračni,2,1
-MOT_IWW,Inland waterway transport,Unutrašnji plovni put,Унутрашњи пловни пут,Unutarnji plovni put,1,1
-MOT_RAI,Rail,Željeznički,Жељезнички,Željeznički,2,1
-MOT_ROA,Road,Cestovni,Друмски,Cestovni,2,1
 MULTIPLE,Multiple renewables,Višestruki obnovljivi izvori energije,Вишеструки обновљиви извори енергије,Više obnovljivih izvora,1,1
 p_dev,p_dev,Fizički razvoj,p_dev,p_dev,1,1
 SKILL_COMP,SKILL_COMP,Upotreba računara,SKILL_COMP,SKILL_COMP,8,1

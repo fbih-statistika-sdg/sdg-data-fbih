@@ -1,18 +1,157 @@
-Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2020,Obim tereta (tonski kilometri),Tonski kilometri,Zračni,0.0
-2018,Obim tereta (tonski kilometri),Tonski kilometri,Unutrašnji plovni put,0.0
-2019,Obim tereta (tonski kilometri),Tonski kilometri,Unutrašnji plovni put,0.0
-2018,Obim tereta (tonski kilometri),Tonski kilometri,Željeznički,1187941000.0
-2019,Obim tereta (tonski kilometri),Tonski kilometri,Željeznički,801400000.0
-2020,Obim tereta (tonski kilometri),Tonski kilometri,Željeznički,727000000.0
-2018,Obim tereta (tonski kilometri),Tonski kilometri,Cestovni,4303121000.0
-2019,Obim tereta (tonski kilometri),Tonski kilometri,Cestovni,3461400000.0
-2020,Obim tereta (tonski kilometri),Tonski kilometri,Cestovni,3340000000.0
-2019,Obim putnika (putnički kilometri),Putnički kilometri,Zračni,7353050.0
-2020,Obim putnika (putnički kilometri),Putnički kilometri,Zračni,1812510.0
-2018,Obim putnika (putnički kilometri),Putnički kilometri,Željeznički,40000000.0
-2019,Obim putnika (putnički kilometri),Putnički kilometri,Željeznički,4751600000.0
-2020,Obim putnika (putnički kilometri),Putnički kilometri,Željeznički,3256000000.0
-2018,Obim putnika (putnički kilometri),Putnički kilometri,Cestovni,16610000000.0
-2019,Obim putnika (putnički kilometri),Putnički kilometri,Cestovni,16706400000.0
-2020,Obim putnika (putnički kilometri),Putnički kilometri,Cestovni,12451000000.0
+Year,SERIES,UNIT_MEASURE,Podjela,Value
+2013.0,Prevoz putnika i robe po granama saobraćaja,Hiljade,Prevezeni putnici u željezničkom i cestovnom prijevozu,20.424
+2014.0,Prevoz putnika i robe po granama saobraćaja,Hiljade,Prevezeni putnici u željezničkom i cestovnom prijevozu,12.36
+2015.0,Prevoz putnika i robe po granama saobraćaja,Hiljade,Prevezeni putnici u željezničkom i cestovnom prijevozu,11.309
+2016.0,Prevoz putnika i robe po granama saobraćaja,Hiljade,Prevezeni putnici u željezničkom i cestovnom prijevozu,10.81
+2017.0,Prevoz putnika i robe po granama saobraćaja,Hiljade,Prevezeni putnici u željezničkom i cestovnom prijevozu,9.835
+2018.0,Prevoz putnika i robe po granama saobraćaja,Hiljade,Prevezeni putnici u željezničkom i cestovnom prijevozu,8.645
+2019.0,Prevoz putnika i robe po granama saobraćaja,Hiljade,Prevezeni putnici u željezničkom i cestovnom prijevozu,8.17
+2020.0,Prevoz putnika i robe po granama saobraćaja,Hiljade,Prevezeni putnici u željezničkom i cestovnom prijevozu,4.242
+2021.0,Prevoz putnika i robe po granama saobraćaja,Hiljade,Prevezeni putnici u željezničkom i cestovnom prijevozu,5.631
+2022.0,Prevoz putnika i robe po granama saobraćaja,Hiljade,Prevezeni putnici u željezničkom i cestovnom prijevozu,6.591
+2023.0,Prevoz putnika i robe po granama saobraćaja,Hiljade,Prevezeni putnici u željezničkom i cestovnom prijevozu,6.426
+2013.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Putnički kilometri, ukupno",1.304
+2014.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Putnički kilometri, ukupno",1.249
+2015.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Putnički kilometri, ukupno",1.313
+2016.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Putnički kilometri, ukupno",1.339
+2017.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Putnički kilometri, ukupno",1.267
+2018.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Putnički kilometri, ukupno",1.352
+2019.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Putnički kilometri, ukupno",1.43
+2020.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Putnički kilometri, ukupno",545.0
+2021.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Putnički kilometri, ukupno",728.0
+2022.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Putnički kilometri, ukupno",1.048
+2023.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Putnički kilometri, ukupno",1.096
+2013.0,Prevoz putnika i robe po granama saobraćaja,Hiljade tona,"Prevezena roba, ukupno",12.332
+2014.0,Prevoz putnika i robe po granama saobraćaja,Hiljade tona,"Prevezena roba, ukupno",13.183
+2015.0,Prevoz putnika i robe po granama saobraćaja,Hiljade tona,"Prevezena roba, ukupno",14.483
+2016.0,Prevoz putnika i robe po granama saobraćaja,Hiljade tona,"Prevezena roba, ukupno",14.594
+2017.0,Prevoz putnika i robe po granama saobraćaja,Hiljade tona,"Prevezena roba, ukupno",14.828
+2018.0,Prevoz putnika i robe po granama saobraćaja,Hiljade tona,"Prevezena roba, ukupno",15.199
+2019.0,Prevoz putnika i robe po granama saobraćaja,Hiljade tona,"Prevezena roba, ukupno",15.296
+2020.0,Prevoz putnika i robe po granama saobraćaja,Hiljade tona,"Prevezena roba, ukupno",13.465
+2021.0,Prevoz putnika i robe po granama saobraćaja,Hiljade tona,"Prevezena roba, ukupno",13.942
+2022.0,Prevoz putnika i robe po granama saobraćaja,Hiljade tona,"Prevezena roba, ukupno",14.539
+2023.0,Prevoz putnika i robe po granama saobraćaja,Hiljade tona,"Prevezena roba, ukupno",13.971
+2013.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Tonski kilometri,ukupno",2.425
+2014.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Tonski kilometri,ukupno",2.935
+2015.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Tonski kilometri,ukupno",3.283
+2016.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Tonski kilometri,ukupno",3.442
+2017.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Tonski kilometri,ukupno",3.465
+2018.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Tonski kilometri,ukupno",3.643
+2019.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Tonski kilometri,ukupno",3.759
+2020.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Tonski kilometri,ukupno",3.222
+2021.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Tonski kilometri,ukupno",3.782
+2022.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Tonski kilometri,ukupno",4.042
+2023.0,Prevoz putnika i robe po granama saobraćaja,Milioni,"Tonski kilometri,ukupno",4.102
+2013.0,Željeznički prijevoz,Hiljade,Prevezeni putnici,416.0
+2014.0,Željeznički prijevoz,Hiljade,Prevezeni putnici,355.0
+2015.0,Željeznički prijevoz,Hiljade,Prevezeni putnici,334.0
+2016.0,Željeznički prijevoz,Hiljade,Prevezeni putnici,258.0
+2017.0,Željeznički prijevoz,Hiljade,Prevezeni putnici,355.0
+2018.0,Željeznički prijevoz,Hiljade,Prevezeni putnici,413.0
+2019.0,Željeznički prijevoz,Hiljade,Prevezeni putnici,497.0
+2020.0,Željeznički prijevoz,Hiljade,Prevezeni putnici,123.0
+2021.0,Željeznički prijevoz,Hiljade,Prevezeni putnici,190.0
+2022.0,Željeznički prijevoz,Hiljade,Prevezeni putnici,360.0
+2023.0,Željeznički prijevoz,Hiljade,Prevezeni putnici,359.0
+2013.0,Željeznički prijevoz,Milioni,Putnički kilometri,25.0
+2014.0,Željeznički prijevoz,Milioni,Putnički kilometri,22.0
+2015.0,Željeznički prijevoz,Milioni,Putnički kilometri,21.0
+2016.0,Željeznički prijevoz,Milioni,Putnički kilometri,13.0
+2017.0,Željeznički prijevoz,Milioni,Putnički kilometri,22.0
+2018.0,Željeznički prijevoz,Milioni,Putnički kilometri,30.0
+2019.0,Željeznički prijevoz,Milioni,Putnički kilometri,40.0
+2020.0,Željeznički prijevoz,Milioni,Putnički kilometri,10.0
+2021.0,Željeznički prijevoz,Milioni,Putnički kilometri,15.0
+2022.0,Željeznički prijevoz,Milioni,Putnički kilometri,27.0
+2023.0,Željeznički prijevoz,Milioni,Putnički kilometri,29.0
+2013.0,Željeznički prijevoz,Hiljade tona,Prevezena roba,8.168
+2014.0,Željeznički prijevoz,Hiljade tona,Prevezena roba,8.497
+2015.0,Željeznički prijevoz,Hiljade tona,Prevezena roba,8.713
+2016.0,Željeznički prijevoz,Hiljade tona,Prevezena roba,8.739
+2017.0,Željeznički prijevoz,Hiljade tona,Prevezena roba,8.725
+2018.0,Željeznički prijevoz,Hiljade tona,Prevezena roba,8.945
+2019.0,Željeznički prijevoz,Hiljade tona,Prevezena roba,8.971
+2020.0,Željeznički prijevoz,Hiljade tona,Prevezena roba,7.616
+2021.0,Željeznički prijevoz,Hiljade tona,Prevezena roba,7.92
+2022.0,Željeznički prijevoz,Hiljade tona,Prevezena roba,7.894
+2023.0,Željeznički prijevoz,Hiljade tona,Prevezena roba,6.99
+2013.0,Željeznički prijevoz,Milioni,Tonski kilometri,787.0
+2014.0,Željeznički prijevoz,Milioni,Tonski kilometri,885.0
+2015.0,Željeznički prijevoz,Milioni,Tonski kilometri,835.0
+2016.0,Željeznički prijevoz,Milioni,Tonski kilometri,768.0
+2017.0,Željeznički prijevoz,Milioni,Tonski kilometri,730.0
+2018.0,Željeznički prijevoz,Milioni,Tonski kilometri,807.0
+2019.0,Željeznički prijevoz,Milioni,Tonski kilometri,856.0
+2020.0,Željeznički prijevoz,Milioni,Tonski kilometri,667.0
+2021.0,Željeznički prijevoz,Milioni,Tonski kilometri,801.0
+2022.0,Željeznički prijevoz,Milioni,Tonski kilometri,834.0
+2023.0,Željeznički prijevoz,Milioni,Tonski kilometri,890.0
+2013.0,Cestovni prijevoz,Hiljade,Prevezeni putnici,20.008
+2014.0,Cestovni prijevoz,Hiljade,Prevezeni putnici,12.005
+2015.0,Cestovni prijevoz,Hiljade,Prevezeni putnici,10.975
+2016.0,Cestovni prijevoz,Hiljade,Prevezeni putnici,10.552
+2017.0,Cestovni prijevoz,Hiljade,Prevezeni putnici,9.48
+2018.0,Cestovni prijevoz,Hiljade,Prevezeni putnici,8.232
+2019.0,Cestovni prijevoz,Hiljade,Prevezeni putnici,7.673
+2020.0,Cestovni prijevoz,Hiljade,Prevezeni putnici,4.119
+2021.0,Cestovni prijevoz,Hiljade,Prevezeni putnici,5.441
+2022.0,Cestovni prijevoz,Hiljade,Prevezeni putnici,6.231
+2023.0,Cestovni prijevoz,Hiljade,Prevezeni putnici,6.067
+2013.0,Cestovni prijevoz,Milioni,Putnički kilometri,1.279
+2014.0,Cestovni prijevoz,Milioni,Putnički kilometri,1.227
+2015.0,Cestovni prijevoz,Milioni,Putnički kilometri,1.292
+2016.0,Cestovni prijevoz,Milioni,Putnički kilometri,1.326
+2017.0,Cestovni prijevoz,Milioni,Putnički kilometri,1.245
+2018.0,Cestovni prijevoz,Milioni,Putnički kilometri,1.322
+2019.0,Cestovni prijevoz,Milioni,Putnički kilometri,1.39
+2020.0,Cestovni prijevoz,Milioni,Putnički kilometri,535.0
+2021.0,Cestovni prijevoz,Milioni,Putnički kilometri,713.0
+2022.0,Cestovni prijevoz,Milioni,Putnički kilometri,1021.0
+2023.0,Cestovni prijevoz,Milioni,Putnički kilometri,1.067
+2013.0,Cestovni prijevoz,Hiljade tona,Prevezena roba,4.164
+2014.0,Cestovni prijevoz,Hiljade tona,Prevezena roba,4.686
+2015.0,Cestovni prijevoz,Hiljade tona,Prevezena roba,5.77
+2016.0,Cestovni prijevoz,Hiljade tona,Prevezena roba,5.855
+2017.0,Cestovni prijevoz,Hiljade tona,Prevezena roba,6.103
+2018.0,Cestovni prijevoz,Hiljade tona,Prevezena roba,6.254
+2019.0,Cestovni prijevoz,Hiljade tona,Prevezena roba,6.325
+2020.0,Cestovni prijevoz,Hiljade tona,Prevezena roba,5.849
+2021.0,Cestovni prijevoz,Hiljade tona,Prevezena roba,6.022
+2022.0,Cestovni prijevoz,Hiljade tona,Prevezena roba,6.645
+2023.0,Cestovni prijevoz,Hiljade tona,Prevezena roba,6.981
+2013.0,Cestovni prijevoz,Milioni,Tonski kilometri,1.638
+2014.0,Cestovni prijevoz,Milioni,Tonski kilometri,2.05
+2015.0,Cestovni prijevoz,Milioni,Tonski kilometri,2.448
+2016.0,Cestovni prijevoz,Milioni,Tonski kilometri,2.674
+2017.0,Cestovni prijevoz,Milioni,Tonski kilometri,2.735
+2018.0,Cestovni prijevoz,Milioni,Tonski kilometri,2.836
+2019.0,Cestovni prijevoz,Milioni,Tonski kilometri,2.903
+2020.0,Cestovni prijevoz,Milioni,Tonski kilometri,2.555
+2021.0,Cestovni prijevoz,Milioni,Tonski kilometri,2.981
+2022.0,Cestovni prijevoz,Milioni,Tonski kilometri,3.208
+2023.0,Cestovni prijevoz,Milioni,Tonski kilometri,3.212
+2013.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Prijevoz željeznicom,66.2
+2014.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Prijevoz željeznicom,64.5
+2015.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Prijevoz željeznicom,60.2
+2016.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Prijevoz željeznicom,59.9
+2017.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Prijevoz željeznicom,58.8
+2018.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Prijevoz željeznicom,58.9
+2019.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Prijevoz željeznicom,58.6
+2020.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Prijevoz željeznicom,56.6
+2021.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Prijevoz željeznicom,56.8
+2022.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Prijevoz željeznicom,54.3
+2023.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Prijevoz željeznicom,50.0
+2013.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Cestovni prijevoz robe,33.8
+2014.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Cestovni prijevoz robe,35.5
+2015.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Cestovni prijevoz robe,39.8
+2016.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Cestovni prijevoz robe,40.1
+2017.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Cestovni prijevoz robe,41.2
+2018.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Cestovni prijevoz robe,41.1
+2019.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Cestovni prijevoz robe,41.4
+2020.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Cestovni prijevoz robe,56.6
+2021.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Cestovni prijevoz robe,56.8
+2022.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Cestovni prijevoz robe,54.3
+2023.0,Struktura prijevoza robe po vrstama prijevoza,Broj,Cestovni prijevoz robe,50.0
+,,,,
+,,,,
