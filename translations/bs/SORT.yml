@@ -14,3 +14,6 @@ T_ROAD: Cestovni prijevoz robe
 PAX_KM_NO_T: Putnički kilometri, mil.
 T_GOODS_NO_T: Prevezena roba, hilj. tona
 T_KM_NO_T: Tonski kilometri, mil.
+BUSS_SECT: Poslovni sektor
+HIGH_EDU: Visoko obrazovanje
+GOVMNT: Državni sektor
