@@ -5,7 +5,7 @@ _T: Ukupno
 BANKS_FBIH: Banke sa sjedištem u Federaciji BiH
 BANKS_RS_FBIH: Djelovi banaka iz RS u F BiH
 T_PAX_R: Prevezeni putnici u željezničkom i cestovnom prijevozu
-PAX_KM: Putnički kilometri
+PAX_KM: Putnički kilometri, ukupno
 T_GOODS: Prevezena roba, ukupno
 T_KM: Tonski kilometri,ukupno
 T_PAX: Prevezeni putnici
