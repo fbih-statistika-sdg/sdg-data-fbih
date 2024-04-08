@@ -340,7 +340,10 @@ SH_STA_SCIDE: Stopa samoubistvima
 SH_STA_SCIDEN: Broj smrtnih slučajeva samoubistvom
 SH_STA_STNT: Umjereno i ozbiljno zaostajanje u rastu (˂ - 2SD)
 SH_STA_STNTN: Ozbiljno zaostajanje u rastu (˂ - 3SD)
-SH_STA_TRAF: Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika) 
+SH_STA_TRAF: Stopa smrtnosti zbog povreda u cestovnom saobraćaju
+SH_STA_TOT: Ukupan broj saobraćajnih nesreća
+SH_STA_KILL: Broj lica poginulih u saobraćajnim nesrećama
+SH_STA_NUM_D: Broj poginulih u saobraćajnim nesrećama
 SH_STA_WASH: Stopa smrtnosti koja se pripisuje nebezbjednoj vodi, nebezbjednoj sanitaciji i nedostatku higijene 
 SH_STA_WAST: Udio djece koja su umjereno ili ozbiljno iscrpljena
 SH_STA_WASTN: Djeca umjereno ili ozbiljno iscrpljena (broj)
