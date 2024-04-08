@@ -1,16 +1,30 @@
-Year,SERIES,UNIT_MEASURE,Value
-2000,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,15.24948
-2001,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,16.11846
-2002,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,16.08008
-2003,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,16.43675
-2004,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,17.45184
-2005,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,16.46155
-2006,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,18.72169
-2007,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,18.7885
-2008,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,20.3794
-2009,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,23.78287
-2010,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,25.7402
-2011,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,28.10784
-2012,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,21.81644
-2013,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,24.029
-2014,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO₂ equivalent),Million tons of CO2 equivalent,25.74
+Year,SERIES,UNIT_MEASURE,SORT,Value
+2017.0,EN_CO2_BIH,,E_CO2_CAP,6.9
+2018.0,EN_CO2_BIH,,E_CO2_CAP,6.9
+2019.0,EN_CO2_BIH,,E_CO2_CAP,6.5
+2020.0,EN_CO2_BIH,,E_CO2_CAP,6.4
+2021.0,EN_CO2_BIH,,E_CO2_CAP,4.4
+2017.0,EN_CO2_BIH,,E_GHG,9.0
+2018.0,EN_CO2_BIH,,E_GHG,9.1
+2019.0,EN_CO2_BIH,,E_GHG,8.7
+2020.0,EN_CO2_BIH,,E_GHG,8.6
+2021.0,EN_CO2_BIH,,E_GHG,8.4
+2014.0,EN_VEH_15,Percent,VEH_OVER_15,43.3
+2015.0,EN_VEH_15,Percent,VEH_OVER_15,44.3
+2016.0,EN_VEH_15,Percent,VEH_OVER_15,49.1
+2017.0,EN_VEH_15,Percent,VEH_OVER_15,52.4
+2018.0,EN_VEH_15,Percent,VEH_OVER_15,54.2
+2019.0,EN_VEH_15,Percent,VEH_OVER_15,55.2
+2020.0,EN_VEH_15,Percent,VEH_OVER_15,57.7
+2021.0,EN_VEH_15,Percent,VEH_OVER_15,59.5
+2022.0,EN_VEH_15,Percent,VEH_OVER_15,60.7
+2014.0,EN_VEH_EV,Percent,VEH_EV,1.38
+2015.0,EN_VEH_EV,Percent,VEH_EV,1.56
+2016.0,EN_VEH_EV,Percent,VEH_EV,1.78
+2017.0,EN_VEH_EV,Percent,VEH_EV,2.08
+2018.0,EN_VEH_EV,Percent,VEH_EV,2.27
+2019.0,EN_VEH_EV,Percent,VEH_EV,2.33
+2020.0,EN_VEH_EV,Percent,VEH_EV,2.36
+2021.0,EN_VEH_EV,Percent,VEH_EV,2.3
+2022.0,EN_VEH_EV,Percent,VEH_EV,2.27
+,,,,

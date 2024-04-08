@@ -1,16 +1,30 @@
-Year,SERIES,UNIT_MEASURE,Value
-2000,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,15.24948
-2001,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,16.11846
-2002,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,16.08008
-2003,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,16.43675
-2004,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,17.45184
-2005,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,16.46155
-2006,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,18.72169
-2007,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,18.7885
-2008,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,20.3794
-2009,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,23.78287
-2010,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,25.7402
-2011,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,28.10784
-2012,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,21.81644
-2013,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,24.029
-2014,Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂),Milion tona ekvivalenta CO2,25.74
+Year,SERIES,UNIT_MEASURE,Podjela,Value
+2017.0,Emisija CO2 na nivou  Bosne i Hercegovine,,Emisija CO2 t/stanovnik,6.9
+2018.0,Emisija CO2 na nivou  Bosne i Hercegovine,,Emisija CO2 t/stanovnik,6.9
+2019.0,Emisija CO2 na nivou  Bosne i Hercegovine,,Emisija CO2 t/stanovnik,6.5
+2020.0,Emisija CO2 na nivou  Bosne i Hercegovine,,Emisija CO2 t/stanovnik,6.4
+2021.0,Emisija CO2 na nivou  Bosne i Hercegovine,,Emisija CO2 t/stanovnik,4.4
+2017.0,Emisija CO2 na nivou  Bosne i Hercegovine,,"Emisija GHG, t CO2 eq/capita",9.0
+2018.0,Emisija CO2 na nivou  Bosne i Hercegovine,,"Emisija GHG, t CO2 eq/capita",9.1
+2019.0,Emisija CO2 na nivou  Bosne i Hercegovine,,"Emisija GHG, t CO2 eq/capita",8.7
+2020.0,Emisija CO2 na nivou  Bosne i Hercegovine,,"Emisija GHG, t CO2 eq/capita",8.6
+2021.0,Emisija CO2 na nivou  Bosne i Hercegovine,,"Emisija GHG, t CO2 eq/capita",8.4
+2014.0,Udio cestovnih motornih vozila preko 15 godina starosti u ukupnom broju registriranih vozila,Procenat,Procenat vozila preko 15 godina starosti,43.3
+2015.0,Udio cestovnih motornih vozila preko 15 godina starosti u ukupnom broju registriranih vozila,Procenat,Procenat vozila preko 15 godina starosti,44.3
+2016.0,Udio cestovnih motornih vozila preko 15 godina starosti u ukupnom broju registriranih vozila,Procenat,Procenat vozila preko 15 godina starosti,49.1
+2017.0,Udio cestovnih motornih vozila preko 15 godina starosti u ukupnom broju registriranih vozila,Procenat,Procenat vozila preko 15 godina starosti,52.4
+2018.0,Udio cestovnih motornih vozila preko 15 godina starosti u ukupnom broju registriranih vozila,Procenat,Procenat vozila preko 15 godina starosti,54.2
+2019.0,Udio cestovnih motornih vozila preko 15 godina starosti u ukupnom broju registriranih vozila,Procenat,Procenat vozila preko 15 godina starosti,55.2
+2020.0,Udio cestovnih motornih vozila preko 15 godina starosti u ukupnom broju registriranih vozila,Procenat,Procenat vozila preko 15 godina starosti,57.7
+2021.0,Udio cestovnih motornih vozila preko 15 godina starosti u ukupnom broju registriranih vozila,Procenat,Procenat vozila preko 15 godina starosti,59.5
+2022.0,Udio cestovnih motornih vozila preko 15 godina starosti u ukupnom broju registriranih vozila,Procenat,Procenat vozila preko 15 godina starosti,60.7
+2014.0,"Udio registriranih motornih vozila na hibridni, prirodni plin i elektični pogon u ukupnom broju registriranih vozila",Procenat,Procenat vozila na hibridni ili električni pogon,1.38
+2015.0,"Udio registriranih motornih vozila na hibridni, prirodni plin i elektični pogon u ukupnom broju registriranih vozila",Procenat,Procenat vozila na hibridni ili električni pogon,1.56
+2016.0,"Udio registriranih motornih vozila na hibridni, prirodni plin i elektični pogon u ukupnom broju registriranih vozila",Procenat,Procenat vozila na hibridni ili električni pogon,1.78
+2017.0,"Udio registriranih motornih vozila na hibridni, prirodni plin i elektični pogon u ukupnom broju registriranih vozila",Procenat,Procenat vozila na hibridni ili električni pogon,2.08
+2018.0,"Udio registriranih motornih vozila na hibridni, prirodni plin i elektični pogon u ukupnom broju registriranih vozila",Procenat,Procenat vozila na hibridni ili električni pogon,2.27
+2019.0,"Udio registriranih motornih vozila na hibridni, prirodni plin i elektični pogon u ukupnom broju registriranih vozila",Procenat,Procenat vozila na hibridni ili električni pogon,2.33
+2020.0,"Udio registriranih motornih vozila na hibridni, prirodni plin i elektični pogon u ukupnom broju registriranih vozila",Procenat,Procenat vozila na hibridni ili električni pogon,2.36
+2021.0,"Udio registriranih motornih vozila na hibridni, prirodni plin i elektični pogon u ukupnom broju registriranih vozila",Procenat,Procenat vozila na hibridni ili električni pogon,2.3
+2022.0,"Udio registriranih motornih vozila na hibridni, prirodni plin i elektični pogon u ukupnom broju registriranih vozila",Procenat,Procenat vozila na hibridni ili električni pogon,2.27
+,,,,

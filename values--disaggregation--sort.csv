@@ -5,6 +5,8 @@ BANKS_FBIH,BANKS_FBIH,Banke sa sjedištem u Federaciji BiH,BANKS_FBIH,BANKS_FBIH
 BANKS_RS_FBIH,BANKS_RS_FBIH,Djelovi banaka iz RS u F BiH,BANKS_RS_FBIH,BANKS_RS_FBIH,2,1
 BUSS_SECT,BUSS_SECT,Poslovni sektor,BUSS_SECT,BUSS_SECT,1,1
 DAMP,DAMP,Vlaga u podovima zidovima i temeljima,DAMP,DAMP,1,1
+E_CO2_CAP,E_CO2_CAP,Emisija CO2 t/stanovnik,E_CO2_CAP,E_CO2_CAP,1,1
+E_GHG,E_GHG,"Emisija GHG, t CO2 eq/capita",E_GHG,E_GHG,1,1
 GOVMNT,GOVMNT,Državni sektor,GOVMNT,GOVMNT,1,1
 HIGH_EDU,HIGH_EDU,Visoko obrazovanje,HIGH_EDU,HIGH_EDU,1,1
 LEAK_R,LEAK_R,Krov prokišnjava,LEAK_R,LEAK_R,1,1
@@ -24,3 +26,5 @@ T_RAIL,T_RAIL,Prijevoz željeznicom,T_RAIL,T_RAIL,1,1
 T_ROAD,T_ROAD,Cestovni prijevoz robe,T_ROAD,T_ROAD,1,1
 TOT_WASTE,TOT_WASTE,Ukupno prikupljeni komunalni otpad,TOT_WASTE,TOT_WASTE,1,1
 TREAT_WASTE,TREAT_WASTE,Komunalni otpad predat na preradu,TREAT_WASTE,TREAT_WASTE,1,1
+VEH_EV,VEH_EV,Procenat vozila na hibridni ili električni pogon,VEH_EV,VEH_EV,1,1
+VEH_OVER_15,VEH_OVER_15,Procenat vozila preko 15 godina starosti,VEH_OVER_15,VEH_OVER_15,1,1
