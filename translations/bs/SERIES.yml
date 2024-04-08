@@ -480,6 +480,9 @@ AG_FOOD_WST_PC: Otpad od hrane po stanovniku (KG)
 EN_SCP_FRMN: Broj kompanija koje objavljuju izvještaje o održivosti s objavom po dimenzijama, prema nivou zahtjeva
 EN_HAZ_TREATV: Opasni otpad tretiran, prema vrsti tretmana 
 EN_ATM_GHGT_NAIP: Ukupne emisije stakleničkih plinova bez LULUCF-a za strane koje nisu iz Aneksa I (ekvivalent Mt CO₂)
+EN_CO2_BIH: Emisija CO2 na nivou  Bosne i Hercegovine
+EN_VEH_15: Udio cestovnih motornih vozila preko 15 godina starosti u ukupnom broju registriranih vozila
+EN_VEH_EV: Udio registriranih motornih vozila na hibridni, prirodni plin i elektični pogon u ukupnom broju registriranih vozila
 EN_MAR_BEALITSQ: Dužina plaže po kvadratnom kilometru 
 ER_RSK_LSTI: Indeks crvene liste 
 ER_IAS_NATBUD: Zemlje sa izdvojenim sredstvima iz državnog budžeta za upravljanje prijetnjom invazivnih stranih vrsta (1 = DA, 0 = NE) 
