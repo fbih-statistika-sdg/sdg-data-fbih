@@ -1,42 +1,42 @@
 Year,SERIES,UNIT_MEASURE,Value
-2013.0,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)",Na 100 000 stanovnika,5.4
-2014.0,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)",Na 100 000 stanovnika,5.6
-2015.0,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)",Na 100 000 stanovnika,5.0
-2016.0,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)",Na 100 000 stanovnika,5.9
-2017.0,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)",Na 100 000 stanovnika,4.7
-2018.0,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)",Na 100 000 stanovnika,5.0
-2019.0,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)",Na 100 000 stanovnika,4.7
-2020.0,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)",Na 100 000 stanovnika,4.3
-2021.0,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)",Na 100 000 stanovnika,4.1
-2022.0,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)",Na 100 000 stanovnika,3.0
-2013.0,SH_STA_TOT,,26.698
-2014.0,SH_STA_TOT,,27.578
-2015.0,SH_STA_TOT,,28.982
-2016.0,SH_STA_TOT,,29.321
-2017.0,SH_STA_TOT,,27.72
-2018.0,SH_STA_TOT,,25.905
-2019.0,SH_STA_TOT,,24.093
-2020.0,SH_STA_TOT,,20.378
-2021.0,SH_STA_TOT,,20.522
-2022.0,SH_STA_TOT,,21.339
-2013.0,SH_STA_KILL,,184.0
-2014.0,SH_STA_KILL,,159.0
-2015.0,SH_STA_KILL,,186.0
-2016.0,SH_STA_KILL,,188.0
-2017.0,SH_STA_KILL,,176.0
-2018.0,SH_STA_KILL,,143.0
-2019.0,SH_STA_KILL,,139.0
-2020.0,SH_STA_KILL,,138.0
-2021.0,SH_STA_KILL,,158.0
-2022.0,SH_STA_KILL,,117.0
-2013.0,SH_STA_NUM_D,Na 100 000 stanovnika,8.3
-2014.0,SH_STA_NUM_D,Na 100 000 stanovnika,7.2
-2015.0,SH_STA_NUM_D,Na 100 000 stanovnika,8.4
-2016.0,SH_STA_NUM_D,Na 100 000 stanovnika,8.5
-2017.0,SH_STA_NUM_D,Na 100 000 stanovnika,8.0
-2018.0,SH_STA_NUM_D,Na 100 000 stanovnika,6.5
-2019.0,SH_STA_NUM_D,Na 100 000 stanovnika,6.3
-2020.0,SH_STA_NUM_D,Na 100 000 stanovnika,6.3
-2021.0,SH_STA_NUM_D,Na 100 000 stanovnika,7.3
-2022.0,SH_STA_NUM_D,Na 100 000 stanovnika,5.4
+2013.0,Stopa smrtnosti zbog povreda u cestovnom saobraćaju,Na 100 000 stanovnika,5.4
+2014.0,Stopa smrtnosti zbog povreda u cestovnom saobraćaju,Na 100 000 stanovnika,5.6
+2015.0,Stopa smrtnosti zbog povreda u cestovnom saobraćaju,Na 100 000 stanovnika,5.0
+2016.0,Stopa smrtnosti zbog povreda u cestovnom saobraćaju,Na 100 000 stanovnika,5.9
+2017.0,Stopa smrtnosti zbog povreda u cestovnom saobraćaju,Na 100 000 stanovnika,4.7
+2018.0,Stopa smrtnosti zbog povreda u cestovnom saobraćaju,Na 100 000 stanovnika,5.0
+2019.0,Stopa smrtnosti zbog povreda u cestovnom saobraćaju,Na 100 000 stanovnika,4.7
+2020.0,Stopa smrtnosti zbog povreda u cestovnom saobraćaju,Na 100 000 stanovnika,4.3
+2021.0,Stopa smrtnosti zbog povreda u cestovnom saobraćaju,Na 100 000 stanovnika,4.1
+2022.0,Stopa smrtnosti zbog povreda u cestovnom saobraćaju,Na 100 000 stanovnika,3.0
+2013.0,Ukupan broj saobraćajnih nesreća,,26.698
+2014.0,Ukupan broj saobraćajnih nesreća,,27.578
+2015.0,Ukupan broj saobraćajnih nesreća,,28.982
+2016.0,Ukupan broj saobraćajnih nesreća,,29.321
+2017.0,Ukupan broj saobraćajnih nesreća,,27.72
+2018.0,Ukupan broj saobraćajnih nesreća,,25.905
+2019.0,Ukupan broj saobraćajnih nesreća,,24.093
+2020.0,Ukupan broj saobraćajnih nesreća,,20.378
+2021.0,Ukupan broj saobraćajnih nesreća,,20.522
+2022.0,Ukupan broj saobraćajnih nesreća,,21.339
+2013.0,Broj lica poginulih u saobraćajnim nesrećama,,184.0
+2014.0,Broj lica poginulih u saobraćajnim nesrećama,,159.0
+2015.0,Broj lica poginulih u saobraćajnim nesrećama,,186.0
+2016.0,Broj lica poginulih u saobraćajnim nesrećama,,188.0
+2017.0,Broj lica poginulih u saobraćajnim nesrećama,,176.0
+2018.0,Broj lica poginulih u saobraćajnim nesrećama,,143.0
+2019.0,Broj lica poginulih u saobraćajnim nesrećama,,139.0
+2020.0,Broj lica poginulih u saobraćajnim nesrećama,,138.0
+2021.0,Broj lica poginulih u saobraćajnim nesrećama,,158.0
+2022.0,Broj lica poginulih u saobraćajnim nesrećama,,117.0
+2013.0,Broj poginulih u saobraćajnim nesrećama,Na 100 000 stanovnika,8.3
+2014.0,Broj poginulih u saobraćajnim nesrećama,Na 100 000 stanovnika,7.2
+2015.0,Broj poginulih u saobraćajnim nesrećama,Na 100 000 stanovnika,8.4
+2016.0,Broj poginulih u saobraćajnim nesrećama,Na 100 000 stanovnika,8.5
+2017.0,Broj poginulih u saobraćajnim nesrećama,Na 100 000 stanovnika,8.0
+2018.0,Broj poginulih u saobraćajnim nesrećama,Na 100 000 stanovnika,6.5
+2019.0,Broj poginulih u saobraćajnim nesrećama,Na 100 000 stanovnika,6.3
+2020.0,Broj poginulih u saobraćajnim nesrećama,Na 100 000 stanovnika,6.3
+2021.0,Broj poginulih u saobraćajnim nesrećama,Na 100 000 stanovnika,7.3
+2022.0,Broj poginulih u saobraćajnim nesrećama,Na 100 000 stanovnika,5.4
 ,,,
