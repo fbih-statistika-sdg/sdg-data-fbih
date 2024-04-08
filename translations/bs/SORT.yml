@@ -24,3 +24,7 @@ NOISE: Imaju problema sa bukom
 TOT_WASTE: Ukupno prikupljeni komunalni otpad
 TREAT_WASTE: Komunalni otpad predat na preradu
 SH_TR_W: Udio prerađenog komunalnog otpada
+E_CO2_CAP: Emisija CO2 t/stanovnik
+E_GHG: Emisija GHG, t CO2 eq/capita
+VEH_OVER_15: Procenat vozila preko 15 godina starosti
+VEH_EV: Procenat vozila na hibridni ili električni pogon
