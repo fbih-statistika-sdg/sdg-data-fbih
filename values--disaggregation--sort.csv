@@ -9,11 +9,11 @@ E_CO2_CAP,E_CO2_CAP,Emisija CO2 t/stanovnik,E_CO2_CAP,E_CO2_CAP,1,1
 E_GHG,E_GHG,"Emisija GHG, t CO2 eq/capita",E_GHG,E_GHG,1,1
 GOVMNT,GOVMNT,Državni sektor,GOVMNT,GOVMNT,1,1
 HIGH_EDU,HIGH_EDU,Visoko obrazovanje,HIGH_EDU,HIGH_EDU,1,1
-HUM_TRAF,HUM_TRAF,HUM_TRAF,HUM_TRAF,HUM_TRAF,1,1
+HUM_TRAF,HUM_TRAF,Trgovina ljudima čl.210a KZFBiH,HUM_TRAF,HUM_TRAF,1,1
 LEAK_R,LEAK_R,Krov prokišnjava,LEAK_R,LEAK_R,1,1
 NOISE,NOISE,Imaju problema sa bukom,NOISE,NOISE,1,1
-OFF_TOT,OFF_TOT,OFF_TOT,OFF_TOT,OFF_TOT,1,1
-ORG_HUM_TRAF,ORG_HUM_TRAF,ORG_HUM_TRAF,ORG_HUM_TRAF,ORG_HUM_TRAF,1,1
+OFF_TOT,OFF_TOT,Ukupan broj krivičnih djela,OFF_TOT,OFF_TOT,1,1
+ORG_HUM_TRAF,ORG_HUM_TRAF,Organizovana trgovina ljudima čl.210b KZFBIH,ORG_HUM_TRAF,ORG_HUM_TRAF,1,1
 PAX_KM,PAX_KM,"Putnički kilometri, ukupno mil.",PAX_KM,PAX_KM,1,1
 PAX_KM_NO_T,PAX_KM_NO_T,"Putnički kilometri, mil.",PAX_KM_NO_T,PAX_KM_NO_T,2,1
 ROTT_W,ROTT_W,Truli prozorski okviri ili vrata,ROTT_W,ROTT_W,1,1
@@ -27,7 +27,7 @@ T_PAX,T_PAX,"Prevezeni putnici, hilj.",T_PAX,T_PAX,2,1
 T_PAX_R,T_PAX_R,"Prevezeni putnici u željezničkom i cestovnom prijevozu, ukupno hilj.",T_PAX_R,T_PAX_R,1,1
 T_RAIL,T_RAIL,Prijevoz željeznicom,T_RAIL,T_RAIL,1,1
 T_ROAD,T_ROAD,Cestovni prijevoz robe,T_ROAD,T_ROAD,1,1
-TOT_VICTIM,TOT_VICTIM,TOT_VICTIM,TOT_VICTIM,TOT_VICTIM,3,1
+TOT_VICTIM,TOT_VICTIM,Ukupan broj žrtava,TOT_VICTIM,TOT_VICTIM,3,1
 TOT_WASTE,TOT_WASTE,Ukupno prikupljeni komunalni otpad,TOT_WASTE,TOT_WASTE,1,1
 TREAT_WASTE,TREAT_WASTE,Komunalni otpad predat na preradu,TREAT_WASTE,TREAT_WASTE,1,1
 VEH_EV,VEH_EV,Procenat vozila na hibridni ili električni pogon,VEH_EV,VEH_EV,1,1
