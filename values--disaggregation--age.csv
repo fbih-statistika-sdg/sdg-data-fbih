@@ -2,11 +2,11 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 <35Y,under 35 years old,mlađi od 35 godina,млађи од 35 година,mlađi od 35 godina,2,2
 <=45Y,under 45 years olds,mlađi od 45 godina,млађи од 45 година,mlađi od 45 godina,7,1
 <65Y,<65Y,mlađi od 65 godina,<65Y,<65Y,3,1
-_T,All age ranges or no breakdown by age,Svi dobni rasponi ili nema podjele po godinama,Сви старосни распони или нема подјеле по годинама,Svi dobni rasponi ili nema podjele po godinama,55,5
+_T,All age ranges or no breakdown by age,Svi dobni rasponi ili nema podjele po godinama,Сви старосни распони или нема подјеле по годинама,Svi dobni rasponi ili nema podjele po godinama,45,4
 _U,Unknown,Nepoznato,Непознато,Nepoznato,2,1
 _X,Not available,Nije dostupno,Није доступно,Nije dostupno,3,1
 M0,under 1 month old,Mlađi od 1 mjeseca,Млађи од 1 мјесеца,Mlađi od 1 mjeseca,1,1
-Y0T17,under 18 years old,Ispod 18 godina,Испод 18 година,Ispod 18 godina,17,2
+Y0T17,under 18 years old,Ispod 18 godina,Испод 18 година,Ispod 18 godina,9,1
 Y0T4,under 5 years old,Ispod 5 godina,Испод 5 година,Ispod 5 godina,7,4
 Y10T14,10 to 14 years old,10 do 14 godina,10 до 14 година,10 do 14 godina,1,1
 Y15T19,15 to 19 years old,15 do 19 godina,15 до 19 година,15 do 19 godina,1,1
@@ -36,7 +36,7 @@ Y55T64,55 to 64 years old,55 do 64 godine,55 do 64 godine,55 do 64 godine,2,2
 Y56T65,56 to 65 years old,56 do 65 godine,Y56T65,56 do 65 godine,1,1
 Y60T69,Y60T69,60 do 69 godine,Y60T69,Y60T69,3,1
 Y_GE15,15 years old and over,15 godina i više,15 година и више,15 godina i više,26,5
-Y_GE18,18 years old and over,18 godina i više,18 година и више,18 godina i više,17,2
+Y_GE18,18 years old and over,18 godina i više,18 година и више,18 godina i više,9,1
 Y_GE25,25 years old and over,25 godina i više,25 година и више,25 godina i više,4,2
 Y_GE46,46 years old and over,46 godina i više,46 година и више,46 godina i više,6,1
 Y_GE65,65 years old and over,65 godina i više,Y_GE65,65 godina i više,2,2

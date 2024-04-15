@@ -1,7 +1,7 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
 ACCESS,ACCESS,Pristupačnost,ACCESS,ACCESS,1,3
 ACTIVITY,Economic activity,Privredna aktivnost,Привредна активност,Privredna aktivnost,6,8
-AGE,Age,Godine,Године,Godine,29,42
+AGE,Age,Godine,Године,Godine,28,42
 BURDEN,BURDEN,Nivo opterećenja,BURDEN,BURDEN,1,3
 COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,13,94
 COUNTRY,COUNTRY,Država,COUNTRY,COUNTRY,1,11
@@ -15,11 +15,11 @@ LEV_REQ,Level of requirement,Nivo zahtjeva,Ниво захтјева,Stepen zaht
 M_ELEVATION,Mountain Elevation,Planinsko uzvišenje,Планинско узвишење,Planinsko uzvišenje,1,4
 OCCUPATION,Occupation,Zanimanje,Занимање,Zanimanje,2,11
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,Vrsta proizvoda,5,25
-SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,182,407
+SERIES,SDG Series,SDG Serije,SDG Варијабле,SDG Varijable,182,403
 SERVICES,SERVICES,Usluge,SERVICES,SERVICES,1,6
 SEX,Sex,Spol,Пол,Spol,37,4
 SOCIAL,SOCIAL,Kategorije korisnika,SOCIAL,SOCIAL,1,7
-SORT,SORT,Podjela,SORT,SORT,7,29
+SORT,SORT,Podjela,SORT,SORT,8,33
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,175,36
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,Stupanj urbanizacije,11,8
 VIOLENCE,VIOLENCE,Nasilje,VIOLENCE,VIOLENCE,1,5
