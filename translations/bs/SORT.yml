@@ -28,3 +28,7 @@ E_CO2_CAP: Emisija CO2 t/stanovnik
 E_GHG: Emisija GHG, t CO2 eq/capita
 VEH_OVER_15: Procenat vozila preko 15 godina starosti
 VEH_EV: Procenat vozila na hibridni ili električni pogon
+OFF_TOT: Ukupan broj krivičnih djela
+HUM_TRAF: Trgovina ljudima čl.210a KZFBiH
+ORG_HUM_TRAF: Organizovana trgovina ljudima čl.210b KZFBIH
+TOT_VICTIM: Ukupan broj žrtava
